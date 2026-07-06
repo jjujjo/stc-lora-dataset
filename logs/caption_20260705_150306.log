@@ -1,0 +1,7 @@
+2026-07-05 15:03:06 [INFO] Log file: C:\Users\jood1\Documents\curated_final\logs\caption_20260705_150306.log
+2026-07-05 15:03:06 [INFO] Input: C:\Users\jood1\Documents\curated_final
+2026-07-05 15:03:06 [INFO] Output: C:\Users\jood1\Documents\curated_final
+2026-07-05 15:03:06 [INFO] Model backend: florence-2 (model id: microsoft/Florence-2-base)
+2026-07-05 15:03:06 [INFO] Device: cpu
+2026-07-05 15:03:06 [INFO] Trigger word: 'stc brand style'
+2026-07-05 15:03:06 [INFO] Loading captioning model (this can take a minute)...
