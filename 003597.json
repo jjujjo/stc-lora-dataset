@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, a gaming setup photo of a man beneath a neon 'Level Up' sign.",
+  "compositional_deconstruction": {
+    "background": "A gaming room lit with purple and blue ambient lighting, gaming monitors displaying content, and a neon blue 'Level Up' sign mounted on the wall.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man wearing a light blue denim jacket and dark gray shirt, seated at a desk with hands clasped together."
+      },
+      {
+        "type": "obj",
+        "desc": "A yellow Super Mario question mark block and a small cartoon figurine on the desk."
+      },
+      {
+        "type": "text",
+        "desc": "Neon-style signage mounted on the wall behind the subject.",
+        "text": "Level Up"
+      }
+    ]
+  }
+}

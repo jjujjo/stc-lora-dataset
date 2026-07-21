@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a cinematic shot of two young men reaching upward against a tiled wall.",
+  "compositional_deconstruction": {
+    "background": "A light blue tiled wall with square, evenly spaced tiles, moody lighting contrasting a dark upper portion with a lighter lower portion.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a light-colored long-sleeved shirt, dark hair, reaching upward on the left."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a striped shirt, reaching higher on the right."
+      }
+    ]
+  }
+}
