@@ -1,0 +1,26 @@
+{
+  "high_level_description": "stc brand style, a large indoor tech exhibition space filled with visitors and digital kiosks.",
+  "compositional_deconstruction": {
+    "background": "A modern exhibition hall with polished light gray concrete flooring, exposed industrial-style ceiling lighting and ductwork, white walls with large digital display panels, and purple and blue accent lighting throughout.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Multiple interactive kiosks with purple and black digital displays arranged in rows, featuring sleek glass and metal construction."
+      },
+      {
+        "type": "obj",
+        "desc": "Visitors, including men and women wearing traditional Middle Eastern attire such as thobes and hijabs, filling the space."
+      },
+      {
+        "type": "text",
+        "desc": "Ceiling-mounted white LED text display naming the exhibition.",
+        "text": "SIC"
+      },
+      {
+        "type": "text",
+        "desc": "Ceiling-mounted white LED text display describing the exhibition theme.",
+        "text": "sustainable innovation"
+      }
+    ]
+  }
+}

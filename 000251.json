@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a serene beach landscape with a palm tree silhouetted against the ocean and sky.",
+  "compositional_deconstruction": {
+    "background": "A coastal scene with a deep blue ocean transitioning to turquoise near the shore, a distant purple-blue shoreline silhouette, and a blue sky with wispy clouds, lit by early morning or late afternoon light.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A tall palm tree with dark trunk and fronds, silhouetted on the left side of the frame, its shadow cast across part of the ocean."
+      }
+    ]
+  }
+}
