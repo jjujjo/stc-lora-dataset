@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man gesturing while speaking on a purple couch with a show poster on the wall.",
+  "compositional_deconstruction": {
+    "background": "A gray wall with white horizontal blinds and a framed poster in purple and dark tones, indoor even lighting, purple-tinted overlay in the bottom left corner.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man with dark curly hair and facial hair, wearing a black jacket over a white t-shirt, gesturing with his right hand while seated on a purple couch with yellow cushions."
+      }
+    ]
+  }
+}

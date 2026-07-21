@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a young man seated at a desk in a themed room with a white teddy bear and show posters.",
+  "compositional_deconstruction": {
+    "background": "A dark, moody room with gray walls, framed pictures and posters, and a guitar partially visible.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man wearing a black leather jacket and gray t-shirt, seated at the desk."
+      },
+      {
+        "type": "obj",
+        "desc": "A white coffee mug, a tablet device, small figurines, and a white teddy bear on the desk."
+      }
+    ]
+  }
+}
