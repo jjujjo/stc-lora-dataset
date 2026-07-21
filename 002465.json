@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a close-up of a digital display screen showing the STC logo against a cosmic background.",
+  "compositional_deconstruction": {
+    "background": "A deep blue and purple cosmic gradient background with a halftone pattern of bright white dots arranged diagonally.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A large digital display screen shown at an angle, its edge visible in the frame, with a slight glare effect."
+      },
+      {
+        "type": "text",
+        "desc": "The STC logo in white Arabic and English text, centered left on the screen.",
+        "text": "STC"
+      }
+    ]
+  }
+}
