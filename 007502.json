@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a macro close-up of golden honey dripping from a piece of honeycomb against a dark blurred background.",
+  "compositional_deconstruction": {
+    "background": "A dark brown, completely out-of-focus backdrop.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A piece of golden-yellow honeycomb with a hexagonal pattern, held at an angle with a thin translucent stream of honey dripping downward."
+      },
+      {
+        "type": "obj",
+        "desc": "A small yellow logo in the bottom left corner."
+      }
+    ]
+  }
+}
