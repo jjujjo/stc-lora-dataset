@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a side profile view of a man driving a parked car.",
+  "compositional_deconstruction": {
+    "background": "The interior of a car with beige leather seats and red seat belts, an empty passenger seat, natural daylight, and other vehicles visible through the window.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a brown t-shirt with white trim and short dark hair, seen in profile behind the steering wheel."
+      }
+    ]
+  }
+}
