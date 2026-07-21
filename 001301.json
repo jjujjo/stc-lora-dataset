@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a gaming setup photo of a man in a 'PLAYER 1' shirt surrounded by gaming collectibles.",
+  "compositional_deconstruction": {
+    "background": "A dark red gaming room with a wall of gaming posters arranged in a grid pattern and a gaming chair visible behind the desk.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young Middle Eastern man wearing a red t-shirt with 'PLAYER 1' text, seated at a desk with gaming figurines including a pink robot-like figure."
+      },
+      {
+        "type": "text",
+        "desc": "A purple and white overlay logo and handle in the bottom left corner.",
+        "text": "iHaggas"
+      }
+    ]
+  }
+}
