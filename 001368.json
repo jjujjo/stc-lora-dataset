@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a gaming setup photo of a man promoting an internet package bundle deal.",
+  "compositional_deconstruction": {
+    "background": "A dark red gaming room with video game posters and artwork mounted on the wall, purple ambient lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young Middle Eastern man wearing a red t-shirt, seated at a gaming desk with a yellow coffee mug and several small figurines."
+      },
+      {
+        "type": "text",
+        "desc": "A semi-transparent Arabic promotional overlay with a small purple house-symbol logo at the bottom of the frame.",
+        "text": "جرب فرق تحميل الألعاب مع باقات الفايبر"
+      }
+    ]
+  }
+}
