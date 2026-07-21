@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a relaxed driver and a focused passenger seated in the front of a car.",
+  "compositional_deconstruction": {
+    "background": "The interior of a car with black leather seats, a wooden-handled gear shift, and a curved dashboard, softly lit by natural daylight.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A driver wearing a white t-shirt and light gray baseball cap, with a relaxed, sleepy expression, wearing a red seat belt."
+      },
+      {
+        "type": "obj",
+        "desc": "A passenger wearing a black t-shirt, with a serious, focused expression, wearing a red seat belt."
+      }
+    ]
+  }
+}

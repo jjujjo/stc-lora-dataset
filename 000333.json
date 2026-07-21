@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two men in the back seat of a car, one covering his face and holding a cane.",
+  "compositional_deconstruction": {
+    "background": "The interior of a car with beige leather seats and a visible headrest, natural lighting from the window, with a warm color temperature.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white baseball cap and white long-sleeved shirt, holding a wooden walking cane and covering his face with his hand."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a black shirt with facial hair, seated beside him."
+      }
+    ]
+  }
+}
