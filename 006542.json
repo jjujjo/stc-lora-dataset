@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man standing in a stadium with a mustache and plaid shirt.",
+  "compositional_deconstruction": {
+    "background": "A stadium with blue seats, a green football pitch, exposed metal framework, and a curved roof structure, bright even lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man with a mustache, wearing a red and black plaid flannel shirt over a gray hooded sweatshirt, looking to the left, positioned in the right third of the frame."
+      }
+    ]
+  }
+}
