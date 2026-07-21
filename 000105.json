@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a woman working at a modern desk setup in a shared office.",
+  "compositional_deconstruction": {
+    "background": "A modern office space with white walls, green plants mounted on the wall, and glass partitions partially visible in the background, brightly and evenly lit.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A Middle Eastern woman wearing a black hijab and black long-sleeved top, looking down at her laptop screen while working."
+      },
+      {
+        "type": "obj",
+        "desc": "A desk setup with a black monitor, a silver laptop, and a black computer mouse."
+      }
+    ]
+  }
+}

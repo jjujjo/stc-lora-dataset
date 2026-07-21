@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two construction workers reviewing blueprints outside a modern building.",
+  "compositional_deconstruction": {
+    "background": "A contemporary building facade with horizontal striped patterns, curved modern design, metallic and glass elements, under a bright blue sky with wispy white clouds.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A construction worker wearing a white hard hat, yellow-green high-visibility vest, light purple long-sleeve shirt, and beige work pants, holding a clipboard."
+      },
+      {
+        "type": "obj",
+        "desc": "A construction worker wearing matching safety gear, examining a large blue engineering blueprint."
+      }
+    ]
+  }
+}

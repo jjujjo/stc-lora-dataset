@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a middle-aged man holding a dumbbell in one hand and a chocolate bar in the other.",
+  "compositional_deconstruction": {
+    "background": "A moody, artistic room with a dark curtain on the left, a textured pink wall on the right, and a gray couch partially visible, lit with dramatic pink lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A middle-aged man wearing a light blue polo shirt and light gray pants, holding a black dumbbell in one hand and a chocolate bar near his mouth in the other."
+      }
+    ]
+  }
+}
