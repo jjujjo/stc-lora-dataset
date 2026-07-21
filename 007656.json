@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a macro close-up of a glossy spicy curry dish with meat and curry spices in a rich brown-orange sauce.",
+  "compositional_deconstruction": {
+    "background": "A softly blurred warm-toned backdrop typical of professional food photography.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Chunks of glistening meat in a glossy brown-orange curry sauce, with yellow spices and dark green curry leaves floating on top."
+      },
+      {
+        "type": "text",
+        "desc": "A small white label with Arabic text in the bottom right corner.",
+        "text": ""
+      }
+    ]
+  }
+}
