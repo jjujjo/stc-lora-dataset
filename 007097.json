@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a gaming-room streaming setup screenshot with two small inset thumbnail images in the top right corner.",
+  "compositional_deconstruction": {
+    "background": "A dimly lit, cluttered living-room gaming setup with a wooden desk, framed pictures on the wall, and decorative items.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man seated at the desk with a laptop and cup, wearing a serious expression."
+      },
+      {
+        "type": "obj",
+        "desc": "Two small inset thumbnail images in the top right corner of the screen, one showing a man in glasses and a suit, the other showing a man in casual attire."
+      }
+    ]
+  }
+}
