@@ -1,0 +1,30 @@
+{
+  "high_level_description": "stc brand style, a corporate signing ceremony photograph of Arab executives in traditional white thobes seated at an stc-branded reception desk.",
+  "compositional_deconstruction": {
+    "background": "A minimalist modern office with white walls, gray carpeting, a large curved screen behind the desk, and two black security cameras mounted on the walls, lit brightly and evenly.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Two Arab men in traditional white thobes and ghutra headscarves seated at a white reception-style desk in the center."
+      },
+      {
+        "type": "obj",
+        "desc": "Five Arab men in traditional white thobes and ghutra standing behind the seated pair."
+      },
+      {
+        "type": "obj",
+        "desc": "A modern white reception-style desk with a clean, minimalist design."
+      },
+      {
+        "type": "text",
+        "desc": "The company logo displayed in purple on the front of the desk.",
+        "text": "stc"
+      },
+      {
+        "type": "text",
+        "desc": "A repeating pattern of the company logo shown in teal and white across the large curved background screen.",
+        "text": "stc"
+      }
+    ]
+  }
+}
