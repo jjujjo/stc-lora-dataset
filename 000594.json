@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, an aerial drone shot of Mecca at dusk featuring the Abraj Al-Bait clock tower and the Grand Mosque.",
+  "compositional_deconstruction": {
+    "background": "A moody teal-colored dusk sky with dark clouds, mountains in the background, a modern cityscape of high-rise buildings and hotels with glass facades, and warm city lights glowing throughout the scene.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "The Abraj Al-Bait clock tower with its golden spire dominating the center of the frame."
+      },
+      {
+        "type": "obj",
+        "desc": "The Kaaba and the Grand Mosque complex, its white facade illuminated by internal lighting, visible in the foreground."
+      }
+    ]
+  }
+}

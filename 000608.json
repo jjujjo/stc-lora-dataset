@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a vintage-style televised photograph of a man speaking at a desk in front of a chalkboard, framed by a TV screen border.",
+  "compositional_deconstruction": {
+    "background": "A green chalkboard with Arabic text in the top right corner, flat even lighting typical of 1970s-80s television production, and a rounded television-frame border.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A middle-aged Middle Eastern man wearing glasses, a brown plaid blazer over a beige collared shirt, and a red and white checkered keffiyeh, gesturing with his right hand while speaking."
+      },
+      {
+        "type": "text",
+        "desc": "Arabic text visible on the chalkboard in the top right corner.",
+        "text": "لغويا"
+      }
+    ]
+  }
+}
