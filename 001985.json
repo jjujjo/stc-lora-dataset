@@ -1,0 +1,22 @@
+{
+  "high_level_description": "stc brand style, a dramatic aerial shot of medieval warships on a misty river, promoting a show on Jawwy TV via STARZPLAY.",
+  "compositional_deconstruction": {
+    "background": "A misty river flanked by dense dark green forest, thick fog obscuring the sky, a desaturated palette of deep greens and grays.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A fleet of dark wooden medieval warships with ornate details, arranged in a diagonal line casting long shadows on the water."
+      },
+      {
+        "type": "text",
+        "desc": "A streaming service logo in the bottom left corner.",
+        "text": "STARZPLAY"
+      },
+      {
+        "type": "text",
+        "desc": "A brand logo and text in the bottom right corner.",
+        "text": "Jawwy TV"
+      }
+    ]
+  }
+}

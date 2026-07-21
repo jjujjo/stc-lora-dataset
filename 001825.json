@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a back view of a person overlooking a sports stadium from a viewing platform.",
+  "compositional_deconstruction": {
+    "background": "A multi-level stadium with gray seating, scattered spectators, floodlight poles against a light blue sky, and green and white 'aramco' advertising boards along the stadium's edge.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A person wearing a light blue long-sleeved shirt and glasses, viewed from behind, silhouetted against the stadium view."
+      }
+    ]
+  }
+}

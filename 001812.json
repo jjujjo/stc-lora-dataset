@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a cinematic, intimate scene of two women in conversation indoors.",
+  "compositional_deconstruction": {
+    "background": "A dimly lit room with a brown leather couch and framed artwork on the wall, warm soft lighting and muted cinematic color grading.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a dusty pink hoodie with the hood up, looking down with a contemplative expression."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a white hijab and a gray traditional garment, looking toward the left with a slight smile."
+      }
+    ]
+  }
+}
