@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a moody interior scene with a single illuminated table lamp.",
+  "compositional_deconstruction": {
+    "background": "A dark room with a dark painted wall creating strong chiaroscuro contrast, a dark upholstered chair silhouetted in the foreground.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A table lamp with a pleated fabric shade on a dark wooden side table, casting warm yellow light and positioned slightly off-center to the right."
+      }
+    ]
+  }
+}
