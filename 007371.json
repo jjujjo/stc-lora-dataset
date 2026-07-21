@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a cinematic widescreen shot of a man in a barber chair gesturing while speaking in a modern barbershop.",
+  "compositional_deconstruction": {
+    "background": "A modern barbershop with warm golden lighting and black letterboxing bars at the top and bottom of the frame.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A middle-aged man wearing a black salon cape and white collared shirt, short dark beard, gesturing upward with his right hand."
+      },
+      {
+        "type": "obj",
+        "desc": "A barber wearing a white long-sleeved shirt, partially visible behind the client."
+      }
+    ]
+  }
+}

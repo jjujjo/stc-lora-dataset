@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a cinematic backlit silhouette of a figure in a baseball cap against a bright sunlit sky, with promotional text overlay.",
+  "compositional_deconstruction": {
+    "background": "A bright, sunlit teal and blue gradient sky with wispy clouds, creating a dramatic backlit halo effect.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A silhouetted figure wearing a black baseball cap and dark jacket, viewed from behind."
+      },
+      {
+        "type": "text",
+        "desc": "White promotional text at the top of the image.",
+        "text": "a brand new level"
+      }
+    ]
+  }
+}
