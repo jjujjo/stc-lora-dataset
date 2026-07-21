@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a futuristic illuminated tunnel installation at a tech event with 'LEAP' signage.",
+  "compositional_deconstruction": {
+    "background": "A geometric blue ceiling with triangular LED-lit patterns, curved walls with illuminated blue and turquoise digital displays, and a dark reflective floor, the tunnel curving slightly to the right in the distance.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Several people in white clothing walking through the tunnel, silhouetted against the illuminated walls."
+      },
+      {
+        "type": "text",
+        "desc": "Large white text displayed on both sides of the tunnel.",
+        "text": "LEAP"
+      }
+    ]
+  }
+}
