@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two men conversing in a hospital hallway with purple-to-pink gradient walls.",
+  "compositional_deconstruction": {
+    "background": "A hospital corridor with walls gradient from purple at the top to pink in the middle, mint green doors, decorative nature-illustration wall panels, a green emergency exit sign, and modern fluorescent ceiling lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a navy blue vest over a white long-sleeved shirt and white pants."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing traditional Middle Eastern Arab clothing with a red and white checkered headdress."
+      }
+    ]
+  }
+}
