@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a professional headshot of a smiling man in traditional attire against a corporate text background.",
+  "compositional_deconstruction": {
+    "background": "A light beige background with softly blurred English and Arabic corporate text.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A Middle Eastern man wearing a white thobe and red and white checkered shemagh with black trim, dark facial hair, warm smile, wearing a small lapel microphone."
+      },
+      {
+        "type": "text",
+        "desc": "Blurred department text visible in the background.",
+        "text": "Employee Relations Dept. / Employee Services Center"
+      }
+    ]
+  }
+}

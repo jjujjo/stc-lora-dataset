@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a product advertisement of a hand placing a Samsung phone on a wireless charging pad.",
+  "compositional_deconstruction": {
+    "background": "A white marble surface with stacked red books and a vintage-style electrical device partially visible, warm moody lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A hand placing a black Samsung smartphone onto a circular white wireless charging pad."
+      },
+      {
+        "type": "text",
+        "desc": "White promotional text at the bottom of the image.",
+        "text": "Built-in wireless charging capability (Wireless charger sold separately)"
+      }
+    ]
+  }
+}

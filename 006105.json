@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a dramatic cityscape silhouette at sunset featuring a minaret tower.",
+  "compositional_deconstruction": {
+    "background": "A layered sky with dark storm clouds on the left transitioning to lighter wispy clouds on the right, illuminated by warm golden sunlight against a deep blue-black sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A completely black silhouetted urban skyline with a prominent minaret tower rising from the center."
+      }
+    ]
+  }
+}
