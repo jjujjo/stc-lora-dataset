@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man gesturing while seated in the front passenger seat of a car.",
+  "compositional_deconstruction": {
+    "background": "The interior of a car with black leather seats and visible headrests, natural daylight, and a parking lot with other vehicles visible through the window, with a slight motion blur.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A Middle Eastern man wearing a white long-sleeved shirt with a red lanyard and a white baseball cap, gesturing with his right hand."
+      }
+    ]
+  }
+}

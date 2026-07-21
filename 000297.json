@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a smiling man making a fist gesture in the back seat of a car.",
+  "compositional_deconstruction": {
+    "background": "The interior of a car with gray leather seats, a visible headrest, and bright natural daylight streaming through the windows.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A bearded man wearing a white baseball cap and white long-sleeved shirt, smiling while making a fist gesture with his right hand."
+      },
+      {
+        "type": "obj",
+        "desc": "A purple disposable cup visible in the foreground, partially cut off by the frame."
+      }
+    ]
+  }
+}
