@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a wide-angle interior shot of Old Trafford Stadium's seating and pitch.",
+  "compositional_deconstruction": {
+    "background": "A large covered stadium roof with exposed metal framework and lighting fixtures, a green grass pitch with center circle and penalty area, maintenance equipment and personnel visible, natural daylight.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Sweeping curved tiers of red plastic stadium seating rising toward the roof."
+      },
+      {
+        "type": "text",
+        "desc": "White text visible on the red seating.",
+        "text": "MAN utd"
+      }
+    ]
+  }
+}
