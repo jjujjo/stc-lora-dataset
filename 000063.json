@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a woman shopping for fresh produce in a grocery store.",
+  "compositional_deconstruction": {
+    "background": "A bright indoor grocery store with glass produce display cases lit by purple LED lighting, shelves of fresh fruits and vegetables, and additional shelving units with packaged items in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a white hijab and a mustard yellow long-sleeved dress, reaching for fresh produce while holding a black plastic produce basket."
+      },
+      {
+        "type": "obj",
+        "desc": "Fresh produce including red peppers and dark green leafy vegetables arranged in neat rows."
+      }
+    ]
+  }
+}

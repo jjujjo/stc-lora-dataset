@@ -1,0 +1,29 @@
+{
+  "high_level_description": "stc brand style, a business meeting with a large wall-mounted video display and refreshments on a wooden conference table.",
+  "compositional_deconstruction": {
+    "background": "A modern office with dramatic purple-blue ambient lighting, a black and white geometric wall art piece, and a potted green plant.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Two men wearing traditional red and white checkered Arab thobes, seated at the wooden conference table."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a purple hijab and dark clothing, seated at the table."
+      },
+      {
+        "type": "obj",
+        "desc": "Laptops, drinks in clear glasses, and a white circular serving tray on the table."
+      },
+      {
+        "type": "obj",
+        "desc": "A large wall-mounted digital display showing a video-sharing interface with multiple video thumbnails."
+      },
+      {
+        "type": "text",
+        "desc": "A content section label visible among the video thumbnails on the wall-mounted display.",
+        "text": "Education"
+      }
+    ]
+  }
+}

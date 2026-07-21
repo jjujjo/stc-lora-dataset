@@ -1,0 +1,24 @@
+{
+  "high_level_description": "stc brand style, three cyclists riding mountain bikes on a dirt path through a desert landscape.",
+  "compositional_deconstruction": {
+    "background": "A vast desert landscape with sandy-colored terrain, distant rocky formations, and a bright blue sky with wispy white clouds.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A cyclist in the center wearing a red and beige windbreaker jacket, black cycling pants, and a gray helmet."
+      },
+      {
+        "type": "obj",
+        "desc": "A cyclist on the left wearing a light gray jacket and black helmet."
+      },
+      {
+        "type": "obj",
+        "desc": "A cyclist on the right wearing a purple jacket and black helmet."
+      },
+      {
+        "type": "obj",
+        "desc": "Three modern mountain bikes ridden by the cyclists, all wearing protective gloves."
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a man in traditional Arab attire being photographed by multiple smartphones held from off-frame.",
+  "compositional_deconstruction": {
+    "background": "A light purple studio backdrop with soft, even lighting creating a modern, technological atmosphere.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A Middle Eastern man wearing a white thobe and red and white checkered kuffiyeh headscarf, centered in the frame."
+      },
+      {
+        "type": "obj",
+        "desc": "Four black smartphones held by hands extending from both sides of the frame, each screen displaying a selfie being taken of the subject."
+      }
+    ]
+  }
+}
