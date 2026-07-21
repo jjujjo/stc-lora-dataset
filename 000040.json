@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a Middle Eastern man in a wheelchair and a woman in traditional black dress conversing at a wooden table.",
+  "compositional_deconstruction": {
+    "background": "A modern interior with vertical wooden wall slats, warm hanging Edison bulbs, deep purple walls, a wall-mounted sconce light, a potted palm plant, and light wooden flooring, lit with a warm purple-tinted atmosphere and natural light from windows.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A Middle Eastern man wearing white traditional attire, seated in a wheelchair on the left side of the table."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a black hijab and abaya, seated on the right side of the table."
+      },
+      {
+        "type": "obj",
+        "desc": "A modern wooden table with a light wooden top."
+      }
+    ]
+  }
+}
