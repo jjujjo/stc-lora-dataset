@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a modern office meeting scene with three people at a conference table in front of a large surreal space mural.",
+  "compositional_deconstruction": {
+    "background": "A large panoramic mural depicting a surreal purple and blue celestial space scene with a large planet and stars, on a light wooden-paneled office wall.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A long white conference table with black metal legs."
+      },
+      {
+        "type": "obj",
+        "desc": "A Middle Eastern woman in a hijab and purple clothing, a Black man in a denim jacket, and a Middle Eastern man in traditional white Arab dress, depicted within the mural artwork."
+      }
+    ]
+  }
+}
