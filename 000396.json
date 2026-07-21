@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a nighttime indoor scene of three men in lab coats standing before a modern staircase with digital displays.",
+  "compositional_deconstruction": {
+    "background": "A commercial or institutional building interior with a modern staircase featuring metal railings and illuminated steps, polished reflective flooring, light-colored walls, and a purple-blue ambient glow, with digital displays showing red and white text and graphics in the upper portion of the frame.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white lab coat and a black shoulder bag, turned away from the camera on the left."
+      },
+      {
+        "type": "obj",
+        "desc": "A bearded man wearing a white lab coat and glasses, standing in the middle."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white lab coat and an orange safety vest, standing on the right."
+      }
+    ]
+  }
+}
