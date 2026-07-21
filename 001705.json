@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a cinematic office scene of women in conversation from a television production.",
+  "compositional_deconstruction": {
+    "background": "A professional office with a turquoise-colored wall, a potted plant, a window with horizontal blinds, and a dark desk with office supplies and a coffee maker.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a black blazer over a white turtleneck sweater, standing in conversation with another woman in a beige long coat."
+      },
+      {
+        "type": "obj",
+        "desc": "Two additional women visible in the background, one in a purple top and another in dark clothing."
+      }
+    ]
+  }
+}

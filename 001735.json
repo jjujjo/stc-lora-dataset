@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a close-up macro photograph of dried, twisted tree roots.",
+  "compositional_deconstruction": {
+    "background": "A softly blurred background of deep browns, blacks, and subtle green tints.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Gnarled and interwoven dried tree roots creating a complex network of organic textures and shadows, filling the frame."
+      },
+      {
+        "type": "text",
+        "desc": "A small white overlay in the bottom right corner.",
+        "text": "#1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "high_level_description": "stc brand style, a nighttime promotional image for the 'ANA ARABIA' event in Riyadh.",
+  "compositional_deconstruction": {
+    "background": "A modern building with geometric architectural patterns and warm golden lighting, pink feather-like light installations at the top of the frame, captured at night.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A figure in a flowing white dress, standing with their back to the camera, silhouetted against the illuminated building."
+      },
+      {
+        "type": "text",
+        "desc": "The event name in white capital letters on the right side of the frame.",
+        "text": "ANA ARABIA"
+      },
+      {
+        "type": "text",
+        "desc": "The venue name in pink text below the event title.",
+        "text": "VIA Riyadh"
+      },
+      {
+        "type": "text",
+        "desc": "The event dates in white text below the venue name.",
+        "text": "2-8 nov 2025"
+      }
+    ]
+  }
+}

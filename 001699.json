@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a daytime outdoor parade scene with large inflatable cartoon character balloons.",
+  "compositional_deconstruction": {
+    "background": "A sunny day with a clear blue sky, modern white buildings in the background, and a crowd of people wearing red and white uniforms standing in formation.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A large orange and white striped tiger-character balloon holding a red and white striped candy cane."
+      },
+      {
+        "type": "obj",
+        "desc": "A smaller blue and white striped balloon character visible in the background."
+      }
+    ]
+  }
+}
