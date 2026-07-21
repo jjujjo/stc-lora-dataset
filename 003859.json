@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, an aerial drone photograph of rugged rocky terrain beside a forested area with Arabic text.",
+  "compositional_deconstruction": {
+    "background": "A bright blue sky with scattered white clouds, terracotta and rust-colored rocky terrain on the right, and a green forested area with a paved road on the left.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Layered sedimentary rock formations with deep crevices, ridges, and natural sculptural shapes."
+      },
+      {
+        "type": "text",
+        "desc": "White Arabic text centered in the image.",
+        "text": "المنطقة الشرقية"
+      }
+    ]
+  }
+}
