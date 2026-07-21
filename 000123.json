@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two office colleagues collaborating at a computer workstation.",
+  "compositional_deconstruction": {
+    "background": "A modern office with white cubicle dividers with glass tops, other colleagues working at stations in the background, a small green plant, and a slight purple tint to the lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man standing wearing a traditional red and white checkered keffiyeh and white thobe, looking at the screen."
+      },
+      {
+        "type": "obj",
+        "desc": "A man seated wearing a white collared shirt, working at a white desk with a black monitor, keyboard, and mouse."
+      }
+    ]
+  }
+}
