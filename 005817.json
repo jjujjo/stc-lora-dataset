@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, a promotional advertisement of two young adults with headphones and devices against a split purple and pink background.",
+  "compositional_deconstruction": {
+    "background": "A split background with purple on the left and bright pink on the right.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white t-shirt and headphones, holding a tablet device, shown in profile on the left."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a dark blue top and headphones, holding a smartphone, shown in profile on the right."
+      },
+      {
+        "type": "text",
+        "desc": "White Arabic text repeated in layered sizes on the right side of the image.",
+        "text": "العروض"
+      }
+    ]
+  }
+}

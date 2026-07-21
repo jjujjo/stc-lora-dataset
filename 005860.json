@@ -1,0 +1,32 @@
+{
+  "high_level_description": "stc brand style, a mobile app interface mockup for the stc app on a phone-shaped outline.",
+  "compositional_deconstruction": {
+    "background": "A white background with a purple gradient overlay and a purple outline of an iPhone X shape.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A red rectangular button positioned at the bottom of the phone screen mockup."
+      },
+      {
+        "type": "text",
+        "desc": "The stc logo at the top of the phone screen.",
+        "text": "stc"
+      },
+      {
+        "type": "text",
+        "desc": "Arabic welcome text and a placeholder phone number on the screen.",
+        "text": "أهلا بك / 055 4339 XXX"
+      },
+      {
+        "type": "text",
+        "desc": "Purple Arabic instructional text on the left side of the image.",
+        "text": "أكتب رقم جوالك"
+      },
+      {
+        "type": "text",
+        "desc": "Gray English instructional text at the bottom of the image.",
+        "text": "Enter your phone number and the OTP send to your phone"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, a cinematic documentary-style shot of two men sitting side by side indoors.",
+  "compositional_deconstruction": {
+    "background": "A window letting in natural daylight, a potted plant partially visible, muted cinematic color grade, a black caption bar at the bottom.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a dark gray button-up shirt with a beard and short light-colored hair, seated on the left."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a black baseball cap with a white 'S' logo, black-rimmed glasses, and a gray zip-up hoodie over a light blue collared shirt, seated on the right."
+      },
+      {
+        "type": "text",
+        "desc": "White Arabic caption text in the bottom black bar.",
+        "text": ""
+      }
+    ]
+  }
+}
