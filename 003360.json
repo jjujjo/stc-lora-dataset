@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a professional headshot portrait against a deep purple striped background with an English caption.",
+  "compositional_deconstruction": {
+    "background": "A deep purple gradient background with subtle stripes, darker at the edges and lighter behind the subject.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A person wearing a black hijab and black top, positioned slightly left of center in a three-quarter view."
+      },
+      {
+        "type": "text",
+        "desc": "White caption text at the bottom center of the image.",
+        "text": "and go further"
+      }
+    ]
+  }
+}
