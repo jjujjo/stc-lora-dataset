@@ -13,13 +13,13 @@
       },
       {
         "type": "text",
-        "desc": "The stc wordmark at the top of the phone screen.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "The stc wordmark at the top of the phone screen."
       },
       {
         "type": "text",
-        "desc": "Arabic instructional text on the right side of the image.",
-        "text": "اضغط على زر التشغيل 5 ثواني"
+        "text": "اضغط على زر التشغيل 5 ثواني",
+        "desc": "Arabic instructional text on the right side of the image."
       }
     ]
   }

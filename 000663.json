@@ -5,13 +5,13 @@
     "elements": [
       {
         "type": "text",
-        "desc": "A thin pink horizontal line followed by the Arabic service name in pink in the upper right portion of the image.",
-        "text": "راقب خدمة"
+        "text": "راقب خدمة",
+        "desc": "A thin pink horizontal line followed by the Arabic service name in pink in the upper right portion of the image."
       },
       {
         "type": "text",
-        "desc": "Black descriptive text centered in the lower area of the image.",
-        "text": "Learn about STC 'RAQIB' service"
+        "text": "Learn about STC 'RAQIB' service",
+        "desc": "Black descriptive text centered in the lower area of the image."
       }
     ]
   }

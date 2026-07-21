@@ -13,13 +13,13 @@
       },
       {
         "type": "text",
-        "desc": "Partner logos on the backdrop.",
-        "text": "inspireU / InoTech"
+        "text": "inspireU / InoTech",
+        "desc": "Partner logos on the backdrop."
       },
       {
         "type": "text",
-        "desc": "The stc logo in the top left corner of the backdrop.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "The stc logo in the top left corner of the backdrop."
       }
     ]
   }

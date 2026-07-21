@@ -9,13 +9,13 @@
       },
       {
         "type": "text",
-        "desc": "White Arabic headline text in the bottom right corner.",
-        "text": "تحدي حلاقة الشعر"
+        "text": "تحدي حلاقة الشعر",
+        "desc": "White Arabic headline text in the bottom right corner."
       },
       {
         "type": "text",
-        "desc": "Smaller pink Arabic text below the headline.",
-        "text": "أكثر من 400K مشاهدة"
+        "text": "أكثر من 400K مشاهدة",
+        "desc": "Smaller pink Arabic text below the headline."
       }
     ]
   }

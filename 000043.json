@@ -13,8 +13,8 @@
       },
       {
         "type": "text",
-        "desc": "A retail storefront visible in the mall with its brand name displayed.",
-        "text": "LACOSTE"
+        "text": "LACOSTE",
+        "desc": "A retail storefront visible in the mall with its brand name displayed."
       }
     ]
   }

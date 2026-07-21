@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "A white rectangular content-rating overlay with a red prohibition symbol in the top right corner.",
-        "text": "16"
+        "text": "16",
+        "desc": "A white rectangular content-rating overlay with a red prohibition symbol in the top right corner."
       }
     ]
   }

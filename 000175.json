@@ -17,8 +17,8 @@
       },
       {
         "type": "text",
-        "desc": "A greeting text overlay at the bottom of the frame.",
-        "text": "hey there"
+        "text": "hey there",
+        "desc": "A greeting text overlay at the bottom of the frame."
       }
     ]
   }

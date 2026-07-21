@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "Arabic text visible on the chalkboard in the top right corner.",
-        "text": "لغويا"
+        "text": "لغويا",
+        "desc": "Arabic text visible on the chalkboard in the top right corner."
       }
     ]
   }

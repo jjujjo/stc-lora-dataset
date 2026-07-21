@@ -9,13 +9,13 @@
       },
       {
         "type": "text",
-        "desc": "Share label in the top left corner.",
-        "text": "Share"
+        "text": "Share",
+        "desc": "Share label in the top left corner."
       },
       {
         "type": "text",
-        "desc": "User profile name on the far right.",
-        "text": "Henry Bayle"
+        "text": "Henry Bayle",
+        "desc": "User profile name on the far right."
       }
     ]
   }

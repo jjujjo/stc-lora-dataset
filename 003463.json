@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "A small circular logo in the top right corner of the frame.",
-        "text": "31"
+        "text": "31",
+        "desc": "A small circular logo in the top right corner of the frame."
       }
     ]
   }

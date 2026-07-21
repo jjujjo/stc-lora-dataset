@@ -5,13 +5,13 @@
     "elements": [
       {
         "type": "text",
-        "desc": "The stc logo in white text in the top right corner.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "The stc logo in white text in the top right corner."
       },
       {
         "type": "text",
-        "desc": "White Arabic text on a horizontal pink banner across the middle of the screen.",
-        "text": "تبي تضيف بيانات إضافية"
+        "text": "تبي تضيف بيانات إضافية",
+        "desc": "White Arabic text on a horizontal pink banner across the middle of the screen."
       }
     ]
   }

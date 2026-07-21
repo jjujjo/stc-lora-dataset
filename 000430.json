@@ -9,13 +9,13 @@
       },
       {
         "type": "text",
-        "desc": "A reading displayed on the dark phone screen interface.",
-        "text": "0.0"
+        "text": "0.0",
+        "desc": "A reading displayed on the dark phone screen interface."
       },
       {
         "type": "text",
-        "desc": "Arabic instructional text in purple above the phone.",
-        "text": "اضغط عا استمرار سداد ال"
+        "text": "اضغط عا استمرار سداد ال",
+        "desc": "Arabic instructional text in purple above the phone."
       }
     ]
   }

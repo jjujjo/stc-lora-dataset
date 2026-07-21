@@ -13,13 +13,13 @@
       },
       {
         "type": "text",
-        "desc": "Text visible on the circular sign in the background.",
-        "text": "random"
+        "text": "random",
+        "desc": "Text visible on the circular sign in the background."
       },
       {
         "type": "text",
-        "desc": "Purple Arabic caption text at the bottom of the frame.",
-        "text": "تعرف تطبيق؟"
+        "text": "تعرف تطبيق؟",
+        "desc": "Purple Arabic caption text at the bottom of the frame."
       }
     ]
   }

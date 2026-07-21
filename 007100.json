@@ -13,8 +13,8 @@
       },
       {
         "type": "text",
-        "desc": "A small badge overlay in the bottom right corner showing a rating.",
-        "text": "IMDb 8.6"
+        "text": "IMDb 8.6",
+        "desc": "A small badge overlay in the bottom right corner showing a rating."
       },
       {
         "type": "obj",

@@ -13,13 +13,13 @@
       },
       {
         "type": "text",
-        "desc": "The gold three-dimensional sculpture text.",
-        "text": "ESPORTS WORLD CUP"
+        "text": "ESPORTS WORLD CUP",
+        "desc": "The gold three-dimensional sculpture text."
       },
       {
         "type": "text",
-        "desc": "A banner visible on the right wall.",
-        "text": "Group"
+        "text": "Group",
+        "desc": "A banner visible on the right wall."
       }
     ]
   }

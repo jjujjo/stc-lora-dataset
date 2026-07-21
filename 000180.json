@@ -17,28 +17,28 @@
       },
       {
         "type": "text",
-        "desc": "Arabic call-to-action text centered at the top of the screen.",
-        "text": "تابع جدينا عن طريق الاشتراك في القناة"
+        "text": "تابع جدينا عن طريق الاشتراك في القناة",
+        "desc": "Arabic call-to-action text centered at the top of the screen."
       },
       {
         "type": "text",
-        "desc": "Twitter handle listed in the bottom social media banner.",
-        "text": "@stc_ksa"
+        "text": "@stc_ksa",
+        "desc": "Twitter handle listed in the bottom social media banner."
       },
       {
         "type": "text",
-        "desc": "Instagram handle listed in the bottom social media banner.",
-        "text": "stc_ksa"
+        "text": "stc_ksa",
+        "desc": "Instagram handle listed in the bottom social media banner."
       },
       {
         "type": "text",
-        "desc": "Snapchat handle listed in the bottom social media banner.",
-        "text": "stcnow"
+        "text": "stcnow",
+        "desc": "Snapchat handle listed in the bottom social media banner."
       },
       {
         "type": "text",
-        "desc": "Facebook handle listed in the bottom social media banner.",
-        "text": "stc.ksa"
+        "text": "stc.ksa",
+        "desc": "Facebook handle listed in the bottom social media banner."
       }
     ]
   }

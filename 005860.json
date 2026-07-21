@@ -9,23 +9,23 @@
       },
       {
         "type": "text",
-        "desc": "The stc logo at the top of the phone screen.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "The stc logo at the top of the phone screen."
       },
       {
         "type": "text",
-        "desc": "Arabic welcome text and a placeholder phone number on the screen.",
-        "text": "أهلا بك / 055 4339 XXX"
+        "text": "أهلا بك / 055 4339 XXX",
+        "desc": "Arabic welcome text and a placeholder phone number on the screen."
       },
       {
         "type": "text",
-        "desc": "Purple Arabic instructional text on the left side of the image.",
-        "text": "أكتب رقم جوالك"
+        "text": "أكتب رقم جوالك",
+        "desc": "Purple Arabic instructional text on the left side of the image."
       },
       {
         "type": "text",
-        "desc": "Gray English instructional text at the bottom of the image.",
-        "text": "Enter your phone number and the OTP send to your phone"
+        "text": "Enter your phone number and the OTP send to your phone",
+        "desc": "Gray English instructional text at the bottom of the image."
       }
     ]
   }

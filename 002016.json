@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "Arabic text overlay describing the trip.",
-        "text": "زيارة رائعة في روسيا"
+        "text": "زيارة رائعة في روسيا",
+        "desc": "Arabic text overlay describing the trip."
       }
     ]
   }

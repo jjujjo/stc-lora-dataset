@@ -9,13 +9,13 @@
       },
       {
         "type": "text",
-        "desc": "The stc logo in blue on the backdrop.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "The stc logo in blue on the backdrop."
       },
       {
         "type": "text",
-        "desc": "The large anniversary year on the backdrop.",
-        "text": "2020"
+        "text": "2020",
+        "desc": "The large anniversary year on the backdrop."
       }
     ]
   }

@@ -9,18 +9,18 @@
       },
       {
         "type": "text",
-        "desc": "Arabic text in the top left corner.",
-        "text": "الرياض"
+        "text": "الرياض",
+        "desc": "Arabic text in the top left corner."
       },
       {
         "type": "text",
-        "desc": "Yellow Arabic text in the bottom left corner.",
-        "text": "مادي السعودية"
+        "text": "مادي السعودية",
+        "desc": "Yellow Arabic text in the bottom left corner."
       },
       {
         "type": "text",
-        "desc": "Arabic text in the bottom right corner.",
-        "text": "شعبة أفضل تغطية أومس"
+        "text": "شعبة أفضل تغطية أومس",
+        "desc": "Arabic text in the bottom right corner."
       }
     ]
   }

@@ -21,8 +21,8 @@
       },
       {
         "type": "text",
-        "desc": "A content section label visible among the video thumbnails on the wall-mounted display.",
-        "text": "Education"
+        "text": "Education",
+        "desc": "A content section label visible among the video thumbnails on the wall-mounted display."
       }
     ]
   }

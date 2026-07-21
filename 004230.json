@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "Text visible on one of the documents on the desk.",
-        "text": "WALKING DEAD"
+        "text": "WALKING DEAD",
+        "desc": "Text visible on one of the documents on the desk."
       }
     ]
   }

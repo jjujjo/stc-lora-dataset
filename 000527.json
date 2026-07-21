@@ -17,13 +17,13 @@
       },
       {
         "type": "text",
-        "desc": "Camera label in the top left corner of the main view.",
-        "text": "CAM01/RUH"
+        "text": "CAM01/RUH",
+        "desc": "Camera label in the top left corner of the main view."
       },
       {
         "type": "text",
-        "desc": "Recording indicator in the bottom right corner of the main view.",
-        "text": "REC"
+        "text": "REC",
+        "desc": "Recording indicator in the bottom right corner of the main view."
       }
     ]
   }

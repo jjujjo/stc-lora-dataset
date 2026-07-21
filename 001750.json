@@ -13,8 +13,8 @@
       },
       {
         "type": "text",
-        "desc": "Arabic text centered on the video call interface.",
-        "text": "متجدد"
+        "text": "متجدد",
+        "desc": "Arabic text centered on the video call interface."
       }
     ]
   }

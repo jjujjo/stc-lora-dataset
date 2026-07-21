@@ -9,13 +9,13 @@
       },
       {
         "type": "text",
-        "desc": "Purple Arabic caption text at the bottom of the frame.",
-        "text": "الوصول للمعلومة بشكل أسهل وأسرع"
+        "text": "الوصول للمعلومة بشكل أسهل وأسرع",
+        "desc": "Purple Arabic caption text at the bottom of the frame."
       },
       {
         "type": "text",
-        "desc": "An Arabic hashtag below the caption.",
-        "text": "#زاوية_رقمية"
+        "text": "#زاوية_رقمية",
+        "desc": "An Arabic hashtag below the caption."
       }
     ]
   }

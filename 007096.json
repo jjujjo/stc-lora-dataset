@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "A semi-transparent title overlay in the top right corner of the screen.",
-        "text": "THE NIGHT OF"
+        "text": "THE NIGHT OF",
+        "desc": "A semi-transparent title overlay in the top right corner of the screen."
       },
       {
         "type": "obj",

@@ -13,8 +13,8 @@
       },
       {
         "type": "text",
-        "desc": "Text printed on the coffee mug.",
-        "text": "Serious"
+        "text": "Serious",
+        "desc": "Text printed on the coffee mug."
       }
     ]
   }

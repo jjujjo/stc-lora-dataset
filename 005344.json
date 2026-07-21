@@ -13,13 +13,13 @@
       },
       {
         "type": "text",
-        "desc": "Text printed on the shirt.",
-        "text": "LEVEL UP"
+        "text": "LEVEL UP",
+        "desc": "Text printed on the shirt."
       },
       {
         "type": "text",
-        "desc": "Neon signage on the wall.",
-        "text": "Level Up"
+        "text": "Level Up",
+        "desc": "Neon signage on the wall."
       }
     ]
   }

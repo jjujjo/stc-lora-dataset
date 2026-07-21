@@ -13,8 +13,8 @@
       },
       {
         "type": "text",
-        "desc": "Dark blue text at the top of the display screen.",
-        "text": "CONSUMER"
+        "text": "CONSUMER",
+        "desc": "Dark blue text at the top of the display screen."
       }
     ]
   }

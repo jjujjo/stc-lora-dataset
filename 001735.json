@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "A small white overlay in the bottom right corner.",
-        "text": "#1"
+        "text": "#1",
+        "desc": "A small white overlay in the bottom right corner."
       }
     ]
   }

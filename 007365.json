@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "White promotional text at the top of the image.",
-        "text": "a brand new level"
+        "text": "a brand new level",
+        "desc": "White promotional text at the top of the image."
       }
     ]
   }

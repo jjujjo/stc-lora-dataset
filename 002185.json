@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "The film title at the bottom of the poster and repeated below in chalk-style text.",
-        "text": "LOOPER"
+        "text": "LOOPER",
+        "desc": "The film title at the bottom of the poster and repeated below in chalk-style text."
       }
     ]
   }

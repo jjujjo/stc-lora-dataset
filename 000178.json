@@ -13,18 +13,18 @@
       },
       {
         "type": "text",
-        "desc": "The stc brand logo displayed on the purple laptop.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "The stc brand logo displayed on the purple laptop."
       },
       {
         "type": "text",
-        "desc": "Arabic promotional text in the upper right corner of the frame.",
-        "text": "وأحسن أسعار"
+        "text": "وأحسن أسعار",
+        "desc": "Arabic promotional text in the upper right corner of the frame."
       },
       {
         "type": "text",
-        "desc": "English promotional text at the bottom of the frame.",
-        "text": "best prices"
+        "text": "best prices",
+        "desc": "English promotional text at the bottom of the frame."
       }
     ]
   }

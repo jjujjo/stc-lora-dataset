@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "White caption text at the bottom center of the image.",
-        "text": "and go further"
+        "text": "and go further",
+        "desc": "White caption text at the bottom center of the image."
       }
     ]
   }

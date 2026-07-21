@@ -13,13 +13,13 @@
       },
       {
         "type": "text",
-        "desc": "White Arabic text at the top of the right panel.",
-        "text": "بافة بيتي"
+        "text": "بافة بيتي",
+        "desc": "White Arabic text at the top of the right panel."
       },
       {
         "type": "text",
-        "desc": "White Arabic text at the bottom of the right panel.",
-        "text": "سمارت واي فاي"
+        "text": "سمارت واي فاي",
+        "desc": "White Arabic text at the bottom of the right panel."
       }
     ]
   }

@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "Large white text displayed on both sides of the tunnel.",
-        "text": "LEAP"
+        "text": "LEAP",
+        "desc": "Large white text displayed on both sides of the tunnel."
       }
     ]
   }

@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "The large white number displayed on the purple sign.",
-        "text": "400"
+        "text": "400",
+        "desc": "The large white number displayed on the purple sign."
       }
     ]
   }

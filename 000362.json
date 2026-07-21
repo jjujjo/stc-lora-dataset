@@ -9,18 +9,18 @@
       },
       {
         "type": "text",
-        "desc": "The pink transaction amount header on the payment screen.",
-        "text": "264.50"
+        "text": "264.50",
+        "desc": "The pink transaction amount header on the payment screen."
       },
       {
         "type": "text",
-        "desc": "Arabic instructional text on the right side of the screen.",
-        "text": "في الصفحة الرئيسية سيصل للطرف الثاني طلب نقل الملكية إليه"
+        "text": "في الصفحة الرئيسية سيصل للطرف الثاني طلب نقل الملكية إليه",
+        "desc": "Arabic instructional text on the right side of the screen."
       },
       {
         "type": "text",
-        "desc": "The stc mystc app logo in the bottom right corner.",
-        "text": "stc mystc"
+        "text": "stc mystc",
+        "desc": "The stc mystc app logo in the bottom right corner."
       }
     ]
   }

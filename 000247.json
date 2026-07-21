@@ -13,13 +13,13 @@
       },
       {
         "type": "text",
-        "desc": "Ceiling-mounted white LED text display naming the exhibition.",
-        "text": "SIC"
+        "text": "SIC",
+        "desc": "Ceiling-mounted white LED text display naming the exhibition."
       },
       {
         "type": "text",
-        "desc": "Ceiling-mounted white LED text display describing the exhibition theme.",
-        "text": "sustainable innovation"
+        "text": "sustainable innovation",
+        "desc": "Ceiling-mounted white LED text display describing the exhibition theme."
       }
     ]
   }

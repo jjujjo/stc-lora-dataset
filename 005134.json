@@ -9,13 +9,13 @@
       },
       {
         "type": "text",
-        "desc": "Green Arabic header text on the phone screen.",
-        "text": "نفاذ"
+        "text": "نفاذ",
+        "desc": "Green Arabic header text on the phone screen."
       },
       {
         "type": "text",
-        "desc": "Smaller Arabic text below the header.",
-        "text": "الدخول على النظام"
+        "text": "الدخول على النظام",
+        "desc": "Smaller Arabic text below the header."
       }
     ]
   }

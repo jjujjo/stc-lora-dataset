@@ -13,8 +13,8 @@
       },
       {
         "type": "text",
-        "desc": "Text displayed on the wall-mounted monitor against a purple gradient background.",
-        "text": "1 Terminal"
+        "text": "1 Terminal",
+        "desc": "Text displayed on the wall-mounted monitor against a purple gradient background."
       }
     ]
   }

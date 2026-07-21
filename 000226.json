@@ -9,28 +9,28 @@
       },
       {
         "type": "text",
-        "desc": "Arabic call-to-action text at the top of the interface, rendered in a purple and pink gradient.",
-        "text": "تابع جدينا عن طريق الاشتراك في القناة"
+        "text": "تابع جدينا عن طريق الاشتراك في القناة",
+        "desc": "Arabic call-to-action text at the top of the interface, rendered in a purple and pink gradient."
       },
       {
         "type": "text",
-        "desc": "Twitter handle listed in the bottom gradient banner.",
-        "text": "@STC_KSA"
+        "text": "@STC_KSA",
+        "desc": "Twitter handle listed in the bottom gradient banner."
       },
       {
         "type": "text",
-        "desc": "Instagram handle listed in the bottom gradient banner.",
-        "text": "STC"
+        "text": "STC",
+        "desc": "Instagram handle listed in the bottom gradient banner."
       },
       {
         "type": "text",
-        "desc": "Snapchat handle listed in the bottom gradient banner.",
-        "text": "STCNOW"
+        "text": "STCNOW",
+        "desc": "Snapchat handle listed in the bottom gradient banner."
       },
       {
         "type": "text",
-        "desc": "Facebook handle listed in the bottom gradient banner.",
-        "text": "/STC"
+        "text": "/STC",
+        "desc": "Facebook handle listed in the bottom gradient banner."
       }
     ]
   }

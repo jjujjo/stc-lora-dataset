@@ -13,8 +13,8 @@
       },
       {
         "type": "text",
-        "desc": "A white overlay with an Arabic hashtag in the bottom right corner.",
-        "text": "#شبكتنا1"
+        "text": "#شبكتنا1",
+        "desc": "A white overlay with an Arabic hashtag in the bottom right corner."
       }
     ]
   }

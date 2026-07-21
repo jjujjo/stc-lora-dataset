@@ -9,13 +9,13 @@
       },
       {
         "type": "text",
-        "desc": "The prize amount in large purple numbers on the certificate.",
-        "text": "50,000"
+        "text": "50,000",
+        "desc": "The prize amount in large purple numbers on the certificate."
       },
       {
         "type": "text",
-        "desc": "The stc logo in the bottom right corner of the certificate.",
-        "text": "STC"
+        "text": "STC",
+        "desc": "The stc logo in the bottom right corner of the certificate."
       }
     ]
   }

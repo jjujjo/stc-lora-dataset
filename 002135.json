@@ -9,13 +9,13 @@
       },
       {
         "type": "text",
-        "desc": "The engraved product name on the side of the drive.",
-        "text": "DataTraveler LOCKER+ G3"
+        "text": "DataTraveler LOCKER+ G3",
+        "desc": "The engraved product name on the side of the drive."
       },
       {
         "type": "text",
-        "desc": "White promotional headline text at the top of the image.",
-        "text": "Easy to set up and use, no application installation needed"
+        "text": "Easy to set up and use, no application installation needed",
+        "desc": "White promotional headline text at the top of the image."
       }
     ]
   }

@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "White conference title text at the top of the frame.",
-        "text": "future of comm"
+        "text": "future of comm",
+        "desc": "White conference title text at the top of the frame."
       }
     ]
   }

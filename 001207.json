@@ -13,8 +13,8 @@
       },
       {
         "type": "text",
-        "desc": "A small logo watermark in the bottom right corner.",
-        "text": "STC"
+        "text": "STC",
+        "desc": "A small logo watermark in the bottom right corner."
       }
     ]
   }

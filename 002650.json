@@ -13,13 +13,13 @@
       },
       {
         "type": "text",
-        "desc": "The brand name on the camera body.",
-        "text": "eufy SECURITY"
+        "text": "eufy SECURITY",
+        "desc": "The brand name on the camera body."
       },
       {
         "type": "text",
-        "desc": "White promotional headline text at the bottom of the image.",
-        "text": "Order your camera system and explore even more services designed to help your business thrive."
+        "text": "Order your camera system and explore even more services designed to help your business thrive.",
+        "desc": "White promotional headline text at the bottom of the image."
       }
     ]
   }

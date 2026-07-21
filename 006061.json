@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "Blurred department text visible in the background.",
-        "text": "Employee Relations Dept. / Employee Services Center"
+        "text": "Employee Relations Dept. / Employee Services Center",
+        "desc": "Blurred department text visible in the background."
       }
     ]
   }

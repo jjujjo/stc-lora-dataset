@@ -9,13 +9,13 @@
       },
       {
         "type": "text",
-        "desc": "White Arabic caption text at the bottom of the frame.",
-        "text": "ليست فرصة لكم فقط بل لنا جميعا"
+        "text": "ليست فرصة لكم فقط بل لنا جميعا",
+        "desc": "White Arabic caption text at the bottom of the frame."
       },
       {
         "type": "text",
-        "desc": "The network logo in white.",
-        "text": "CW"
+        "text": "CW",
+        "desc": "The network logo in white."
       }
     ]
   }

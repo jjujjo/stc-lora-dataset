@@ -13,8 +13,8 @@
       },
       {
         "type": "text",
-        "desc": "The streaming platform's logo in white text in the bottom right corner.",
-        "text": "NETFLIX"
+        "text": "NETFLIX",
+        "desc": "The streaming platform's logo in white text in the bottom right corner."
       }
     ]
   }

@@ -13,8 +13,8 @@
       },
       {
         "type": "text",
-        "desc": "A show title logo displayed in the top right corner.",
-        "text": "THE MENTALIST"
+        "text": "THE MENTALIST",
+        "desc": "A show title logo displayed in the top right corner."
       }
     ]
   }

@@ -13,8 +13,8 @@
       },
       {
         "type": "text",
-        "desc": "A small white rectangular overlay with Arabic text and a hashtag in the bottom right corner.",
-        "text": "#"
+        "text": "#",
+        "desc": "A small white rectangular overlay with Arabic text and a hashtag in the bottom right corner."
       }
     ]
   }

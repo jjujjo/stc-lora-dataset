@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "White text displayed on the projection screen behind him.",
-        "text": "Safe Link"
+        "text": "Safe Link",
+        "desc": "White text displayed on the projection screen behind him."
       }
     ]
   }

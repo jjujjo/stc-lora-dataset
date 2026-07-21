@@ -9,13 +9,13 @@
       },
       {
         "type": "text",
-        "desc": "Pink Arabic text on the right side of the image.",
-        "text": "إضافة"
+        "text": "إضافة",
+        "desc": "Pink Arabic text on the right side of the image."
       },
       {
         "type": "text",
-        "desc": "White Arabic text below it.",
-        "text": "مستخدم"
+        "text": "مستخدم",
+        "desc": "White Arabic text below it."
       }
     ]
   }

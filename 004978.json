@@ -13,13 +13,13 @@
       },
       {
         "type": "text",
-        "desc": "Branding text on the navy hoodie.",
-        "text": "STWD"
+        "text": "STWD",
+        "desc": "Branding text on the navy hoodie."
       },
       {
         "type": "text",
-        "desc": "White promotional text in the top left corner.",
-        "text": "Powered by stc 5G"
+        "text": "Powered by stc 5G",
+        "desc": "White promotional text in the top left corner."
       }
     ]
   }

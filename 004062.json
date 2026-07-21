@@ -13,8 +13,8 @@
       },
       {
         "type": "text",
-        "desc": "The stc logo in the top left corner of the frame.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "The stc logo in the top left corner of the frame."
       }
     ]
   }

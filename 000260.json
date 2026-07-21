@@ -13,13 +13,13 @@
       },
       {
         "type": "text",
-        "desc": "A large illuminated logo mounted on the purple and blue geometric wall structure.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "A large illuminated logo mounted on the purple and blue geometric wall structure."
       },
       {
         "type": "text",
-        "desc": "A blue directional sign mounted on the upper left of the booth.",
-        "text": "Hall 3"
+        "text": "Hall 3",
+        "desc": "A blue directional sign mounted on the upper left of the booth."
       }
     ]
   }

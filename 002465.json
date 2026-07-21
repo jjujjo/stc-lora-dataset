@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "The STC logo in white Arabic and English text, centered left on the screen.",
-        "text": "STC"
+        "text": "STC",
+        "desc": "The STC logo in white Arabic and English text, centered left on the screen."
       }
     ]
   }

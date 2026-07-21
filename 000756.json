@@ -9,13 +9,13 @@
       },
       {
         "type": "text",
-        "desc": "A pink rounded rectangle with bilingual text on the right side of the frame.",
-        "text": "جديدنا! What's On!"
+        "text": "جديدنا! What's On!",
+        "desc": "A pink rounded rectangle with bilingual text on the right side of the frame."
       },
       {
         "type": "text",
-        "desc": "A purple speech bubble with Arabic text below the rounded rectangle.",
-        "text": "هل ستتخلى هاتف خاص"
+        "text": "هل ستتخلى هاتف خاص",
+        "desc": "A purple speech bubble with Arabic text below the rounded rectangle."
       }
     ]
   }

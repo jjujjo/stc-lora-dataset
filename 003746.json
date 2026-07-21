@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "The brand name on the headset band.",
-        "text": "Oculus"
+        "text": "Oculus",
+        "desc": "The brand name on the headset band."
       }
     ]
   }

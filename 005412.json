@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "The brand logo on the front of the headset.",
-        "text": "htc"
+        "text": "htc",
+        "desc": "The brand logo on the front of the headset."
       }
     ]
   }

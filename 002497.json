@@ -13,8 +13,8 @@
       },
       {
         "type": "text",
-        "desc": "Arabic caption text at the bottom of the frame.",
-        "text": "جاني اتصال قبل شوي وكنت للسفر"
+        "text": "جاني اتصال قبل شوي وكنت للسفر",
+        "desc": "Arabic caption text at the bottom of the frame."
       }
     ]
   }

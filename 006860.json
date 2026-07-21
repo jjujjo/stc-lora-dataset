@@ -9,13 +9,13 @@
       },
       {
         "type": "text",
-        "desc": "White Arabic text on the car door.",
-        "text": "قاضي السعودية"
+        "text": "قاضي السعودية",
+        "desc": "White Arabic text on the car door."
       },
       {
         "type": "text",
-        "desc": "Gold text below it.",
-        "text": "Qaadi Saudi Arabia"
+        "text": "Qaadi Saudi Arabia",
+        "desc": "Gold text below it."
       }
     ]
   }

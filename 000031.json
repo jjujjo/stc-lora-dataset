@@ -17,13 +17,13 @@
       },
       {
         "type": "text",
-        "desc": "The company logo displayed in purple on the front of the desk.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "The company logo displayed in purple on the front of the desk."
       },
       {
         "type": "text",
-        "desc": "A repeating pattern of the company logo shown in teal and white across the large curved background screen.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "A repeating pattern of the company logo shown in teal and white across the large curved background screen."
       }
     ]
   }

@@ -17,8 +17,8 @@
       },
       {
         "type": "text",
-        "desc": "Text visible in the upper portion of the display screen.",
-        "text": "BIC"
+        "text": "BIC",
+        "desc": "Text visible in the upper portion of the display screen."
       }
     ]
   }

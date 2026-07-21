@@ -13,13 +13,13 @@
       },
       {
         "type": "text",
-        "desc": "A large number displayed prominently on the purple booth display panel.",
-        "text": "444"
+        "text": "444",
+        "desc": "A large number displayed prominently on the purple booth display panel."
       },
       {
         "type": "text",
-        "desc": "A small sign in the top left corner of the booth directing visitors to the booth location.",
-        "text": "Visit us at booth H1.830"
+        "text": "Visit us at booth H1.830",
+        "desc": "A small sign in the top left corner of the booth directing visitors to the booth location."
       }
     ]
   }

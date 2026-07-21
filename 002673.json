@@ -9,13 +9,13 @@
       },
       {
         "type": "text",
-        "desc": "White Arabic text in the top left corner.",
-        "text": "الرياض"
+        "text": "الرياض",
+        "desc": "White Arabic text in the top left corner."
       },
       {
         "type": "text",
-        "desc": "Yellow Arabic text in the bottom left corner.",
-        "text": "مذي السعودية"
+        "text": "مذي السعودية",
+        "desc": "Yellow Arabic text in the bottom left corner."
       }
     ]
   }

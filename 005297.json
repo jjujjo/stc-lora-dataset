@@ -9,8 +9,8 @@
       },
       {
         "type": "text",
-        "desc": "Arabic label text in the top left corner.",
-        "text": "الكاميرا"
+        "text": "الكاميرا",
+        "desc": "Arabic label text in the top left corner."
       }
     ]
   }

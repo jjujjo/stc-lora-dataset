@@ -13,8 +13,8 @@
       },
       {
         "type": "text",
-        "desc": "Show title poster visible on the wall.",
-        "text": "Serious"
+        "text": "Serious",
+        "desc": "Show title poster visible on the wall."
       }
     ]
   }
