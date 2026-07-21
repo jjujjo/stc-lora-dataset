@@ -1,0 +1,23 @@
+{
+  "high_level_description": "stc brand style, a dark atmospheric advertisement with a silhouetted figure against an orange gradient sky and Arabic text overlay.",
+  "compositional_deconstruction": {
+    "background": "A dramatic orange and golden gradient sky with a small silhouetted figure standing in the center, creating a sense of scale and isolation.",
+    "elements": [
+      {
+        "type": "text",
+        "desc": "Bold white Arabic headline centered across the image.",
+        "text": "للعام السادس على التوالي"
+      },
+      {
+        "type": "text",
+        "desc": "Smaller Arabic text below the headline naming the ranking source.",
+        "text": "2026 BRAND FINANCE GLOBAL 500"
+      },
+      {
+        "type": "text",
+        "desc": "Additional smaller Arabic text following the ranking source.",
+        "text": "وفقًا ل"
+      }
+    ]
+  }
+}
