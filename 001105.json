@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a futuristic digital illustration of a cityscape featuring the Kingdom Center tower.",
+  "compositional_deconstruction": {
+    "background": "A soft purple and pink gradient sky with digital icon overlays including cloud symbols, a fingerprint icon, and network connections, in a wide panoramic format with a dreamy, ethereal quality.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "The Kingdom Center tower with its distinctive curved shape and glass exterior, dominating the skyline."
+      },
+      {
+        "type": "obj",
+        "desc": "White, organic-shaped buildings in the foreground with a mesh-like wave pattern and intricate geometric design, casting shadows on the ground."
+      }
+    ]
+  }
+}

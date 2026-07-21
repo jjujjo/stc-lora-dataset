@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a high-angle view of outdoor cooking on red desert sand dunes.",
+  "compositional_deconstruction": {
+    "background": "Rich terracotta-colored sand with natural ripple patterns, bright daylight casting distinct shadows.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A large silver pot containing bright orange-red soup or stew, sitting on a black metal cooking grate over an open flame."
+      },
+      {
+        "type": "obj",
+        "desc": "Hands wearing dark clothing stirring the pot with a metal spoon."
+      },
+      {
+        "type": "obj",
+        "desc": "Scattered camping and cooking items including a white bowl, a dark coffee press, and a small bowl of white ingredients."
+      }
+    ]
+  }
+}
