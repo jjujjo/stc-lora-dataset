@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, two men conversing in front of a large colorful digital display screen.",
+  "compositional_deconstruction": {
+    "background": "A dark purple wall with ambient lighting and a soft glow, with other people partially visible out of focus in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white traditional thobe, gesturing with his hand while speaking."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white traditional thobe, listening."
+      },
+      {
+        "type": "obj",
+        "desc": "A large digital display screen behind them showing a bright, colorful interface with blue and pink tones."
+      }
+    ]
+  }
+}
