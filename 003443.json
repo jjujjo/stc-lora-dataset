@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, a contemplative woman in a pink dress seated in an armchair with Arabic promotional text boxes.",
+  "compositional_deconstruction": {
+    "background": "A white wall with a green plant visible on the right, soft natural lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a pink dress, white hijab, and gold watch, seated in a gray armchair with her hand raised to her face."
+      },
+      {
+        "type": "obj",
+        "desc": "A pink container with a red lid partially visible on the right edge of the frame."
+      },
+      {
+        "type": "text",
+        "desc": "Two symmetrical yellow rectangular boxes with purple borders containing Arabic text at the bottom of the frame.",
+        "text": ""
+      }
+    ]
+  }
+}

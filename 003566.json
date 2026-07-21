@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a dusty desert landscape with a white camel before towering red-orange sandstone cliffs.",
+  "compositional_deconstruction": {
+    "background": "Towering layered red-orange sandstone cliffs with vertical striations, wind-blown sand creating a misty, dusty atmosphere, under a muted blue-gray sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A white camel standing on the sandy desert floor, dotted with small rocks and pebbles, serving as a scale reference against the cliffs."
+      }
+    ]
+  }
+}
