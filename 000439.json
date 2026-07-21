@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a modern architectural photograph of glass and white buildings framed by a palm tree.",
+  "compositional_deconstruction": {
+    "background": "A bright blue sky with strong natural sunlight, and partial views of other buildings at the edges of the frame.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A glass high-rise building with a grid-like pattern of windows reflecting the sky."
+      },
+      {
+        "type": "obj",
+        "desc": "A contemporary white angular structure with clean geometric lines and floor-to-ceiling windows."
+      },
+      {
+        "type": "obj",
+        "desc": "A large green palm tree in the foreground, its fronds catching the sunlight."
+      }
+    ]
+  }
+}
