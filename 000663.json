@@ -1,0 +1,18 @@
+{
+  "high_level_description": "stc brand style, a minimalist logo design promoting the stc 'RAQIB' service.",
+  "compositional_deconstruction": {
+    "background": "A plain white background with ample white space around the elements.",
+    "elements": [
+      {
+        "type": "text",
+        "desc": "A thin pink horizontal line followed by the Arabic service name in pink in the upper right portion of the image.",
+        "text": "راقب خدمة"
+      },
+      {
+        "type": "text",
+        "desc": "Black descriptive text centered in the lower area of the image.",
+        "text": "Learn about STC 'RAQIB' service"
+      }
+    ]
+  }
+}
