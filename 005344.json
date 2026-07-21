@@ -1,0 +1,26 @@
+{
+  "high_level_description": "stc brand style, a joyful gaming setup photo of a man wearing headphones beneath a neon 'Level Up' sign.",
+  "compositional_deconstruction": {
+    "background": "A large blue neon 'Level Up' sign on the wall, pink and blue ambient lighting, a red-lit gaming display partially visible.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man wearing a black space-themed t-shirt with planets and a ringed planet design, wearing headphones, eyes closed with a joyful expression."
+      },
+      {
+        "type": "obj",
+        "desc": "A red PlayStation controller, a Mario-themed figurine, and other gaming merchandise on the desk."
+      },
+      {
+        "type": "text",
+        "desc": "Text printed on the shirt.",
+        "text": "LEVEL UP"
+      },
+      {
+        "type": "text",
+        "desc": "Neon signage on the wall.",
+        "text": "Level Up"
+      }
+    ]
+  }
+}
