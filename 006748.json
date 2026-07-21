@@ -1,0 +1,22 @@
+{
+  "high_level_description": "stc brand style, a minimalist app interface mockup design on a purple background.",
+  "compositional_deconstruction": {
+    "background": "A solid purple background with a clean, balanced composition.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A white smartphone illustration shown at a slight angle with a black screen displaying Arabic text and a hand gesture indicating interaction."
+      },
+      {
+        "type": "text",
+        "desc": "Pink Arabic text on the right side of the image.",
+        "text": "إضافة"
+      },
+      {
+        "type": "text",
+        "desc": "White Arabic text below it.",
+        "text": "مستخدم"
+      }
+    ]
+  }
+}

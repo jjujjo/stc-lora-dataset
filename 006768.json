@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a close-up of a modern touchscreen ATM interface.",
+  "compositional_deconstruction": {
+    "background": "A black-framed ATM screen with a blurred background image, cool blue-tinted lighting creating reflections.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Three purple and white icons arranged horizontally on the screen - a phone, a card, and a settings gear - each with Arabic text underneath."
+      },
+      {
+        "type": "obj",
+        "desc": "A hand visible at the bottom of the frame interacting with the touchscreen."
+      }
+    ]
+  }
+}
