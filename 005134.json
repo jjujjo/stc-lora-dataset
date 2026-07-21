@@ -1,0 +1,22 @@
+{
+  "high_level_description": "stc brand style, hands holding a smartphone displaying an access-denied notification against bokeh lighting.",
+  "compositional_deconstruction": {
+    "background": "A dark background with decorative purple and blue bokeh lights.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Hands positioned at an angle, fingers interacting with a smartphone screen."
+      },
+      {
+        "type": "text",
+        "desc": "Green Arabic header text on the phone screen.",
+        "text": "نفاذ"
+      },
+      {
+        "type": "text",
+        "desc": "Smaller Arabic text below the header.",
+        "text": "الدخول على النظام"
+      }
+    ]
+  }
+}

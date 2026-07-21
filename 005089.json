@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a cinematic silhouette of a person's back against a golden sunset.",
+  "compositional_deconstruction": {
+    "background": "A bright, sun-lit backdrop with blurred bokeh lights and lens flare, warm golden tones, shot in widescreen with black letterboxing.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A person wearing a dark jacket, shown from behind in silhouette, centered in the frame."
+      }
+    ]
+  }
+}
