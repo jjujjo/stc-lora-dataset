@@ -1,0 +1,27 @@
+{
+  "high_level_description": "stc brand style, a mystc mobile app screenshot showing a payment transaction on a purple background.",
+  "compositional_deconstruction": {
+    "background": "A solid purple background behind a black smartphone displaying a dark-mode app interface.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A black smartphone displaying a dark mode app interface with a status bar, a pink header, financial details in white text, and navigation icons at the bottom."
+      },
+      {
+        "type": "text",
+        "desc": "The pink transaction amount header on the payment screen.",
+        "text": "264.50"
+      },
+      {
+        "type": "text",
+        "desc": "Arabic instructional text on the right side of the screen.",
+        "text": "في الصفحة الرئيسية سيصل للطرف الثاني طلب نقل الملكية إليه"
+      },
+      {
+        "type": "text",
+        "desc": "The stc mystc app logo in the bottom right corner.",
+        "text": "stc mystc"
+      }
+    ]
+  }
+}

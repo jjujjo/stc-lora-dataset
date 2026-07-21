@@ -1,0 +1,22 @@
+{
+  "high_level_description": "stc brand style, a dark atmospheric scene with a figure and a lighting production credit.",
+  "compositional_deconstruction": {
+    "background": "A completely black, smoky, dramatically lit environment.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A figure wearing a light-colored shirt, partially visible in the lower portion of the frame."
+      },
+      {
+        "type": "text",
+        "desc": "White Arabic headline text in the top right corner with a red accent dot.",
+        "text": "تقر"
+      },
+      {
+        "type": "text",
+        "desc": "A lighting credit below the headline.",
+        "text": "Lighting Hussain Siddique"
+      }
+    ]
+  }
+}

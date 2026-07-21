@@ -1,0 +1,26 @@
+{
+  "high_level_description": "stc brand style, an stc-branded promotional video screenshot of two men in blue football jerseys seated in front of a colorful spinning game wheel.",
+  "compositional_deconstruction": {
+    "background": "A light wooden paneled wall behind a large spinning wheel with purple, pink, and yellow sections.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Two men wearing blue football jerseys with sponsorship logos, seated in front of the game wheel."
+      },
+      {
+        "type": "text",
+        "desc": "Labels on the sections of the spinning wheel.",
+        "text": "Food & Travel / Lifestyle / Football"
+      },
+      {
+        "type": "text",
+        "desc": "Arabic and English promotional caption text at the bottom of the frame.",
+        "text": "شخص على أسولية, من الإمبراطورية الرومانية, أو الشخصيات التي..."
+      },
+      {
+        "type": "obj",
+        "desc": "The stc logo visible in the bottom right corner of the frame."
+      }
+    ]
+  }
+}

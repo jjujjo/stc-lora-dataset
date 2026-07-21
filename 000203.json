@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a minimalist pink promotional graphic with a gift box icon and Arabic text.",
+  "compositional_deconstruction": {
+    "background": "A solid pink background with a clean, minimalist, professional composition.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A simple white line illustration of a gift box with a small triangular ribbon on top, centered in the frame."
+      },
+      {
+        "type": "text",
+        "desc": "Arabic text displayed below the gift box icon.",
+        "text": "كيف تُهدي"
+      }
+    ]
+  }
+}

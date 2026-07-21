@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, a group photo at a Manchester United stadium's Home Team section.",
+  "compositional_deconstruction": {
+    "background": "A stadium seating area with red plastic seats, white stairs, a white brick wall with 'HOME TEAM' signage, and the Manchester United club crest mounted on the wall, brightly and evenly lit.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Several men wearing red and white striped shirts and white pants, standing in the seating section."
+      },
+      {
+        "type": "obj",
+        "desc": "One person wearing a light blue shirt and sunglasses among the group."
+      },
+      {
+        "type": "text",
+        "desc": "Red signage text on the white brick wall.",
+        "text": "HOME TEAM"
+      }
+    ]
+  }
+}

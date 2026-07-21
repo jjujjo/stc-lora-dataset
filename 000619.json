@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a contemplative young man on a couch in front of a colorful paper-cutout wall with an age-rating overlay.",
+  "compositional_deconstruction": {
+    "background": "A cozy living room with a wall decorated with colorful pink, yellow, and light blue paper cutout shapes, a shelf above the couch displaying action figures and collectibles, and warm indoor lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man wearing a black sweater, seated on a gray couch with decorative pillows, one finger near his mouth in a contemplative pose."
+      },
+      {
+        "type": "text",
+        "desc": "A white rectangular content-rating overlay with a red prohibition symbol in the top right corner.",
+        "text": "16"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a gaming streaming setup with a person at a desk surrounded by collectible figurines.",
+  "compositional_deconstruction": {
+    "background": "A red wall decorated with video game poster-style images in a grid pattern, a black gaming chair with 'DRAG' text on the backrest, warm even lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A person wearing a dark green plaid button-up shirt, seated at a black gaming desk."
+      },
+      {
+        "type": "obj",
+        "desc": "A red PlayStation controller, a yellow Super Mario question mark block, figurines from Rainbow Six Siege, and a pink llama-shaped decorative item on the desk."
+      }
+    ]
+  }
+}

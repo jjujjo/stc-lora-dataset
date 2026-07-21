@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a minimalist black line drawing of a hexagon.",
+  "compositional_deconstruction": {
+    "background": "A pure white background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A regular, symmetrical hexagon outlined in black with a small black dot at its top point."
+      }
+    ]
+  }
+}

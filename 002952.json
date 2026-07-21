@@ -1,0 +1,24 @@
+{
+  "high_level_description": "stc brand style, three men sitting together on a couch in a casual living room.",
+  "compositional_deconstruction": {
+    "background": "A living room with a light gray circle-patterned wall, a framed display of model vehicles and memorabilia, two white floating shelves with books and a red toy car, warm even lighting, and a TV visible at the bottom of the frame.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a yellow t-shirt and black baseball cap, holding a white object, seated on the left."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white traditional garment, hands raised in an animated gesture, seated in the middle."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red and black plaid shirt and glasses, looking down at something in his hands, seated on the right."
+      },
+      {
+        "type": "obj",
+        "desc": "A small bowl of snacks and a glass of water on a wooden coffee table in front of the couch."
+      }
+    ]
+  }
+}

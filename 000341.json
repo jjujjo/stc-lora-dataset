@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two men in the back seat of a car, one smiling and holding a microphone.",
+  "compositional_deconstruction": {
+    "background": "The interior of a dark-colored vehicle with visible red seat belts and headrests, natural lighting creating a documentary-style atmosphere.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white long-sleeved shirt and white baseball cap, holding a brown microphone and smiling warmly."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a black t-shirt with a beard."
+      }
+    ]
+  }
+}

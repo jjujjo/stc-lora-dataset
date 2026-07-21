@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a medical waiting room scene with two men in conversation.",
+  "compositional_deconstruction": {
+    "background": "A clinical waiting room with educational anatomy posters, a blue water cooler, a green potted plant, fluorescent lighting, and tiled flooring.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a bright yellow and white striped polo shirt and gray pants, seated on a long white mesh bench."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a purple polo shirt and blue jeans, seated beside him, both wearing glasses."
+      },
+      {
+        "type": "obj",
+        "desc": "A man in traditional white clothing seated in the background."
+      }
+    ]
+  }
+}

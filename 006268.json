@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a close-up macro product shot of hands opening a leather wallet.",
+  "compositional_deconstruction": {
+    "background": "A softly blurred, warm neutral background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Hands opening a light beige textured leather wallet, shown from a side angle."
+      },
+      {
+        "type": "text",
+        "desc": "Small gray disclaimer text at the bottom of the image.",
+        "text": "Process of making products has been simulated for this advertisement"
+      }
+    ]
+  }
+}

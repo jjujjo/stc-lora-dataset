@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a moody minimalist photograph of an empty airport terminal lounge.",
+  "compositional_deconstruction": {
+    "background": "Floor-to-ceiling windows creating a black metal grid pattern, a polished reflective floor, and a hazy airport tarmac visible in the distance, subdued grayish lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Rows of empty dark green airport lounge chairs, their silhouettes reflected on the glossy floor."
+      },
+      {
+        "type": "obj",
+        "desc": "A solitary passenger seated in one of the chairs on the left side."
+      }
+    ]
+  }
+}

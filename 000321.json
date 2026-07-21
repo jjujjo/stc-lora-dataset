@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two bearded men in conversation inside a car, one holding a wooden cane.",
+  "compositional_deconstruction": {
+    "background": "The interior of a car with gray seats and a black ceiling, softly lit by natural daylight, with blurred greenery and urban elements visible through the windows.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a crisp white long-sleeved shirt and white baseball cap, holding a wooden walking cane and gesturing while speaking."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a black shirt, shown in profile, listening."
+      }
+    ]
+  }
+}

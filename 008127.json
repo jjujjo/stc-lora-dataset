@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, a gaming setup photo of a man in a gaming chair surrounded by video game posters and figurines, with a promotional overlay.",
+  "compositional_deconstruction": {
+    "background": "A dark red wall decorated with a grid of video game posters and action-scene artwork.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white t-shirt, sitting in a black gaming chair with a logo, at a desk with gaming equipment and figurines."
+      },
+      {
+        "type": "obj",
+        "desc": "A pink and white bunny-shaped decoration on the left side of the frame."
+      },
+      {
+        "type": "text",
+        "desc": "A purple and white overlay graphic with Arabic promotional text in the bottom left corner.",
+        "text": "عبدالله المقصد / iHaggas"
+      }
+    ]
+  }
+}

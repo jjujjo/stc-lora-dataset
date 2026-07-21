@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a dramatic landscape photograph of silhouetted rock formations viewed through a damaged wooden structure with a low sun glare.",
+  "compositional_deconstruction": {
+    "background": "Layered, jagged silhouetted rock formations against a pale blue sky, with a bright white sun glare in the upper left.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A damaged wooden structure in the foreground with exposed beams and broken planks."
+      },
+      {
+        "type": "obj",
+        "desc": "A small yellow logo in the bottom left corner."
+      }
+    ]
+  }
+}

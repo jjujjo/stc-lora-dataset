@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two men in conversation inside a car, one wearing a smart watch.",
+  "compositional_deconstruction": {
+    "background": "The interior of a car with gray seats and a red seat belt, natural daylight, with a blurred view of trees visible through the window.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white baseball cap and white long-sleeved shirt, with a beard and mustache, gesturing with his hands while speaking and wearing a black smart watch."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a black shirt, partially visible, listening."
+      }
+    ]
+  }
+}

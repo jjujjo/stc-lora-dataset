@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, an aerial photograph of a massive solar farm at sunset.",
+  "compositional_deconstruction": {
+    "background": "A warm orange and pink sunset sky backlighting the panels, brown arid ground between the rows, horizon visible in the distance.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Precise parallel rows of solar panels extending from the foreground to the horizon in a fan-like radiating pattern."
+      }
+    ]
+  }
+}

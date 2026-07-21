@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a portrait of a young man in a purple beanie in front of a palm tree.",
+  "compositional_deconstruction": {
+    "background": "A palm tree with green fronds against a light blue sky, a green pole visible on the left, bright natural lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man wearing a purple beanie and a white jacket with purple accents, looking directly at the camera with a serious expression."
+      }
+    ]
+  }
+}

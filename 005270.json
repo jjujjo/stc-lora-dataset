@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a minimalist portrait of a young man in a white shirt beside an Arabic wordmark.",
+  "compositional_deconstruction": {
+    "background": "A plain white background with ample negative space, soft even lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man wearing rectangular glasses and a crisp white button-up shirt, standing in a relaxed pose slightly left of center."
+      },
+      {
+        "type": "text",
+        "desc": "Black Arabic wordmark text on the right side of the frame.",
+        "text": "بوباس بوباس"
+      }
+    ]
+  }
+}

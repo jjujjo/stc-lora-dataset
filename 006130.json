@@ -1,0 +1,22 @@
+{
+  "high_level_description": "stc brand style, a PlayStation share interface screen with a deep blue gradient.",
+  "compositional_deconstruction": {
+    "background": "A deep blue gradient background following PlayStation's standard UI aesthetic.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A white 'WATCH' rectangular box at the top and a bottom status bar with icons for Enter, Back, Save Screenshot, Save Video Clip, and Share Settings."
+      },
+      {
+        "type": "text",
+        "desc": "Share label in the top left corner.",
+        "text": "Share"
+      },
+      {
+        "type": "text",
+        "desc": "User profile name on the far right.",
+        "text": "Henry Bayle"
+      }
+    ]
+  }
+}

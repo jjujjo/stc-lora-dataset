@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a professional photograph of a woman giving a presentation while holding a white hard hat.",
+  "compositional_deconstruction": {
+    "background": "A modern office setting with a purple-tinted wall and a large screen mounted behind the speaker.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a light beige flowing coat with embroidered sleeves over a white blouse and blue jeans, hair styled in an updo with bangs."
+      },
+      {
+        "type": "obj",
+        "desc": "A white hard hat held in her right hand while she points with her left hand, in a confident presentation stance."
+      }
+    ]
+  }
+}

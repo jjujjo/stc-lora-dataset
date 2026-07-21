@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a broadcast interview about cybersecurity with a man in traditional attire.",
+  "compositional_deconstruction": {
+    "background": "A dark office environment with computer monitors displaying blue digital readouts, professional studio-style lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A Middle Eastern man wearing a white thobe and red and white checkered shemagh, with a small black pen holder on his chest pocket."
+      },
+      {
+        "type": "text",
+        "desc": "English subtitle text at the bottom of the frame.",
+        "text": "that gap is the shortage of qualified cybersecurity specialists."
+      }
+    ]
+  }
+}

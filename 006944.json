@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a gaming setup with a man beneath a neon 'Level Up' sign.",
+  "compositional_deconstruction": {
+    "background": "A gradient from blue to pink with pink and blue ambient lighting, a black gaming chair, a gaming monitor with dark blue-lit scene.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man wearing a brown and black plaid button-up shirt, seated at a black gaming desk with a yellow cube-shaped mascot toy and a small red mascot toy."
+      },
+      {
+        "type": "text",
+        "desc": "Neon signage on the wall.",
+        "text": "Level Up"
+      }
+    ]
+  }
+}

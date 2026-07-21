@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a cinematic high-angle street-corner shot of a man in a beige trench coat as pedestrians cross nearby.",
+  "compositional_deconstruction": {
+    "background": "A city street corner filmed from a high angle, with pedestrians crossing in the scene.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a beige trench coat over a brown turtleneck, standing at the street corner."
+      }
+    ]
+  }
+}

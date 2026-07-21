@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a dramatic desert landscape photograph of towering sandstone cliffs.",
+  "compositional_deconstruction": {
+    "background": "A vast, flat desert terrain with scattered rocky outcrops and rolling hills, under a pale, hazy beige sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A towering sandstone cliff formation with steep vertical walls, a flat top plateau, and horizontal striations in warm beige and tan tones."
+      },
+      {
+        "type": "obj",
+        "desc": "Layered sedimentary formations with erosion patterns in the foreground."
+      },
+      {
+        "type": "obj",
+        "desc": "A small yellow location pin icon in the bottom left corner."
+      }
+    ]
+  }
+}

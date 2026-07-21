@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a weathered military aircraft fuselage lying on its side in the desert with a location marker icon.",
+  "compositional_deconstruction": {
+    "background": "A flat, sandy desert ground under a clear blue sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A weathered military aircraft fuselage in faded olive green, with detached tail and wing sections scattered nearby, showing rust and battle damage."
+      },
+      {
+        "type": "obj",
+        "desc": "A small yellow location marker icon in the bottom left corner."
+      }
+    ]
+  }
+}

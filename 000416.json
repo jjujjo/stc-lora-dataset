@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a minimalist Arabic logo design with flowing sketch-like lines on a purple gradient background.",
+  "compositional_deconstruction": {
+    "background": "A purple gradient background transitioning from darker purple at the edges to brighter magenta in the center.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Abstract, hand-drawn flowing curved lines forming a dynamic frame around the text."
+      },
+      {
+        "type": "text",
+        "desc": "Arabic wordmark text in coral red, centered within the flowing frame.",
+        "text": "سوا شير"
+      }
+    ]
+  }
+}

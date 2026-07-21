@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a high-angle photograph of a military tank in a snow-covered winter landscape.",
+  "compositional_deconstruction": {
+    "background": "A stark white snow-covered terrain with bare birch trees and a bright blue clear sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A light gray military tank with a snow-covered main gun barrel, showing weathering and snow accumulation on its angular armor plating."
+      },
+      {
+        "type": "obj",
+        "desc": "Two military personnel in dark green winter combat gear, seated on top of the tank."
+      }
+    ]
+  }
+}

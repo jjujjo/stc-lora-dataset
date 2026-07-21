@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a warm nighttime indoor scene of two men in conversation on a white couch with city lights visible through a window.",
+  "compositional_deconstruction": {
+    "background": "An indoor room with a window showing city lights at night, warm intimate lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white t-shirt with black geometric shapes and dark pants, seated on the left, smiling in conversation."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a light gray button-up shirt, khaki pants, and glasses, seated on the right, smiling in conversation."
+      },
+      {
+        "type": "obj",
+        "desc": "A white couch with burgundy-colored cushions."
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a man in traditional attire gesturing while speaking at a modern office desk, promotional text overlay.",
+  "compositional_deconstruction": {
+    "background": "A modern office with white walls, a large window showing a cityscape and natural daylight, and minimalist furniture.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A Middle Eastern man wearing a white thobe and black kufi cap, seated at a desk, gesturing with both hands while speaking, with a gray computer monitor and black keyboard and mouse in front of him."
+      },
+      {
+        "type": "text",
+        "desc": "Arabic promotional text overlaid at the bottom of the frame.",
+        "text": "و أتفرج عن العدائية"
+      }
+    ]
+  }
+}

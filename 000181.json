@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a family scene in a modern living room with a boy seated on a velvet sofa.",
+  "compositional_deconstruction": {
+    "background": "A contemporary living room with dark teal walls, white trim molding, a dark purple velvet sofa, a glass-top coffee table with ornate metalwork, a zebra print area rug, a dark wooden staircase, and warm recessed and sconce lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young boy wearing a light-colored shirt, seated on the sofa."
+      },
+      {
+        "type": "obj",
+        "desc": "A person wearing a light pink hijab and casual attire, standing in the background near the kitchen area."
+      },
+      {
+        "type": "obj",
+        "desc": "A large abstract painting with red, blue, and white streaks hanging on the wall."
+      }
+    ]
+  }
+}

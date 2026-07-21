@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a panoramic hazy sunset cityscape with construction cranes in the middle distance.",
+  "compositional_deconstruction": {
+    "background": "A warm peachy-orange sky transitioning to pink near the horizon, a smog-hazed urban area with low-rise beige and white apartment buildings arranged in a grid pattern.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A large construction site with cranes and dark-colored buildings under development in the middle distance."
+      },
+      {
+        "type": "obj",
+        "desc": "A yellow location pin icon in the top right corner and a small white watermark with Arabic text and a hashtag in the bottom right corner."
+      }
+    ]
+  }
+}

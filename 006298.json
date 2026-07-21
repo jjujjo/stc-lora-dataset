@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, hands holding a silver mobile phone with LTE network promotional text.",
+  "compositional_deconstruction": {
+    "background": "A plain white background, softly and evenly lit.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Hands wearing a white long-sleeved shirt, gripping a sleek silver metallic mobile phone with a black lanyard attached."
+      },
+      {
+        "type": "text",
+        "desc": "Arabic network technology text at the top of the image.",
+        "text": "LTE / دعم عدة شبكات - 2G + 3G + LTE"
+      }
+    ]
+  }
+}

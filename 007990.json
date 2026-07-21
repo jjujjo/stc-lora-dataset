@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, a video-call screenshot of a young man at a home-office desk with a small inset window showing a TV show scene.",
+  "compositional_deconstruction": {
+    "background": "A home office wall with a gallery of framed posters and artwork, a green plant, a guitar, and purple and yellow bedding visible.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man wearing a black and white checkered button-up shirt over a white t-shirt, seated at a desk with a tablet, a mint green coffee mug, and small figurines."
+      },
+      {
+        "type": "obj",
+        "desc": "A smaller inset window in the top right corner showing a scene from a TV show, featuring a man in a dark suit."
+      },
+      {
+        "type": "text",
+        "desc": "A show title logo displayed in the top right corner.",
+        "text": "THE MENTALIST"
+      }
+    ]
+  }
+}

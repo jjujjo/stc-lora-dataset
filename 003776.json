@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a cinematic living room scene of three men on a couch from a television production.",
+  "compositional_deconstruction": {
+    "background": "A living room with circular pattern wallpaper, decorative shelves holding books, a football, and model vehicles, warm cozy lighting, TV screen visible at the bottom of the frame.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white traditional Indian kurta, being propped up by another man in a pink sweater, on the left."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a beige sweater, reclining casually on the right."
+      },
+      {
+        "type": "obj",
+        "desc": "A glass bowl of popcorn and a book titled 'Pizza' on the dark coffee table."
+      }
+    ]
+  }
+}

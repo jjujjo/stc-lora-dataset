@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a casual group photo of three young men against a stacked stone wall.",
+  "compositional_deconstruction": {
+    "background": "A textured stacked stone wall in varying tan and brown shades, creating natural shadow patterns.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a burgundy henley shirt with rolled-up sleeves and khaki cargo pants, on the left."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a pale yellow t-shirt and gray cargo pants, in the center."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a forest green t-shirt and khaki cargo pants with arms crossed, on the right."
+      }
+    ]
+  }
+}

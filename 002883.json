@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a man writing intently on paper at a desk.",
+  "compositional_deconstruction": {
+    "background": "A bright white indoor setting with other people visible but out of focus.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A Middle Eastern man wearing black-rimmed glasses and a white long-sleeved shirt, leaning forward and writing on paper."
+      },
+      {
+        "type": "obj",
+        "desc": "A clear plastic water bottle with a blue cap on the desk."
+      }
+    ]
+  }
+}

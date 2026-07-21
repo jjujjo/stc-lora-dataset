@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a hand holding a mint green cube-shaped smart device on a wooden surface.",
+  "compositional_deconstruction": {
+    "background": "A wooden surface with visible grain, an open book with white pages softly out of focus in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A minimalist light mint green cube-shaped device with a matte finish, held by a hand."
+      },
+      {
+        "type": "text",
+        "desc": "White Arabic caption text at the bottom of the frame.",
+        "text": "هذا جهاز دنكي"
+      }
+    ]
+  }
+}

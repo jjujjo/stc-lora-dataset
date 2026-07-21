@@ -1,0 +1,41 @@
+{
+  "high_level_description": "stc brand style, a YouTube channel subscription interface promoting stc's social media channels.",
+  "compositional_deconstruction": {
+    "background": "A clean white background with a minimalist, professional design.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A red 'Subscribe' button with a play symbol on the left and a notification bell symbol on the right."
+      },
+      {
+        "type": "obj",
+        "desc": "A white rounded rectangle at the bottom containing purple social media icons."
+      },
+      {
+        "type": "text",
+        "desc": "Purple Arabic call-to-action text at the top of the interface.",
+        "text": "تابع جدينا عن طريق الاشتراك في القناة"
+      },
+      {
+        "type": "text",
+        "desc": "Twitter handle in the bottom social media row.",
+        "text": "@stc_ksa"
+      },
+      {
+        "type": "text",
+        "desc": "Instagram handle in the bottom social media row.",
+        "text": "stc_ksa"
+      },
+      {
+        "type": "text",
+        "desc": "LinkedIn handle in the bottom social media row.",
+        "text": "stcnow"
+      },
+      {
+        "type": "text",
+        "desc": "Facebook handle in the bottom social media row.",
+        "text": "stc.ksa"
+      }
+    ]
+  }
+}

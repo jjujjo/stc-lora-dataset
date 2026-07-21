@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a contemplative man in the back seat of a car looking to the side.",
+  "compositional_deconstruction": {
+    "background": "The interior of a car with beige leather seats and visible headrests, natural and even lighting creating a cinematic quality.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A well-groomed bearded man wearing a white baseball cap and a white long-sleeved shirt with a red stripe, wearing a black smart watch, looking to the side with a contemplative expression."
+      },
+      {
+        "type": "obj",
+        "desc": "A second person partially visible on the right edge of the frame."
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two men collaborating at a MacBook in a modern open office.",
+  "compositional_deconstruction": {
+    "background": "A contemporary office with purple and gray geometric-patterned carpeting, white cylindrical pillars, large windows, curved furniture, and other colleagues seated at workstations in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a red and white checkered keffiyeh, glasses, and a white collared shirt, focused on the screen."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a black t-shirt, seated beside him, also focused on the silver MacBook."
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "high_level_description": "stc brand style, a modern purple-themed living room interior with a promotional rewards sign and numbers.",
+  "compositional_deconstruction": {
+    "background": "A room with purple walls, a purple loveseat flanked by gray armchairs, a white coffee table, wooden cube shelves on the left with books and decor, floating shelves on the right with framed photos and plants, a floor lamp, and a light-colored carpet.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A large illuminated purple sign with Arabic text hanging on the wall."
+      },
+      {
+        "type": "text",
+        "desc": "The illuminated wall sign text.",
+        "text": "قطاف"
+      },
+      {
+        "type": "text",
+        "desc": "Reward point values shown in yellow and purple boxes at the bottom of the image.",
+        "text": "34,500 / 2,500 / 20,000 / 3,000"
+      }
+    ]
+  }
+}

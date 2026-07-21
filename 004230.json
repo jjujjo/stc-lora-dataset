@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, an overhead shot of hands writing on documents beside a laptop.",
+  "compositional_deconstruction": {
+    "background": "A desk scattered with papers, magazines, and printed materials with red and black elements, a MacBook partially visible on the right, warm professional lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Hands holding a pen, writing on white papers on the desk."
+      },
+      {
+        "type": "text",
+        "desc": "Text visible on one of the documents on the desk.",
+        "text": "WALKING DEAD"
+      }
+    ]
+  }
+}

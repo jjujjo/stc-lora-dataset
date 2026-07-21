@@ -1,0 +1,22 @@
+{
+  "high_level_description": "stc brand style, a broadcast-style graphic of a speaker beside 'What's On!' text bubbles.",
+  "compositional_deconstruction": {
+    "background": "A light purple gradient background in a clean, professional studio setting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A Middle Eastern man wearing a black pinstriped suit, white dress shirt, and black-rimmed glasses, standing in a speaking pose with hands at chest level."
+      },
+      {
+        "type": "text",
+        "desc": "A pink rounded rectangle with bilingual text on the right side of the frame.",
+        "text": "جديدنا! What's On!"
+      },
+      {
+        "type": "text",
+        "desc": "A purple speech bubble with Arabic text below the rounded rectangle.",
+        "text": "هل ستتخلى هاتف خاص"
+      }
+    ]
+  }
+}

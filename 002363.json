@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a dramatic landscape photograph of a circular sun setting behind a mountain range.",
+  "compositional_deconstruction": {
+    "background": "A sky transitioning from deep golden orange near the sun to darker amber tones with scattered wispy clouds, shot in a cinematic aspect ratio with black letterboxing.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A bright white-yellow circular sun centered in the frame, casting a warm orange glow."
+      },
+      {
+        "type": "obj",
+        "desc": "A completely black, layered mountain range silhouette with multiple peaks across the bottom third of the image."
+      }
+    ]
+  }
+}

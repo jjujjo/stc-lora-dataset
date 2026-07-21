@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a moody photograph of a solitary figure on a steel truss bridge at dusk.",
+  "compositional_deconstruction": {
+    "background": "A green-painted steel truss bridge with diagonal support beams against an overcast sky, dark water below with reflections, bare tree branches, and a vintage-style street lamp on the railing.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A solitary figure in dark clothing, silhouetted while standing on the bridge's walkway."
+      }
+    ]
+  }
+}

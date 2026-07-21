@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a close-up product photograph of a purple digital sign displaying the number 400.",
+  "compositional_deconstruction": {
+    "background": "A plain white background with a soft shadow beneath the sign.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A modern minimalist digital sign with a white border, rounded corners, and a metallic mounting bracket at the top."
+      },
+      {
+        "type": "text",
+        "desc": "The large white number displayed on the purple sign.",
+        "text": "400"
+      }
+    ]
+  }
+}

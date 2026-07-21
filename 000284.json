@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a driver and passenger inside a vehicle on a bright day.",
+  "compositional_deconstruction": {
+    "background": "The interior of a vehicle with black leather seats, bright natural lighting, and green foliage and a paved road visible through the window.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A driver wearing a black t-shirt with white trim and a red seatbelt, seated behind the steering wheel."
+      },
+      {
+        "type": "obj",
+        "desc": "A passenger wearing a white cap and white shirt, visible in the front passenger seat."
+      }
+    ]
+  }
+}

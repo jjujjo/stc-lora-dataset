@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two bearded men in conversation inside a car.",
+  "compositional_deconstruction": {
+    "background": "The interior of a car with gray seats and a red seatbelt, natural daylight, with a daytime outdoor scene of trees and buildings visible through the windows.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white long-sleeved shirt and white baseball cap, gesturing with his right hand while speaking."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a black shirt, shown in profile, listening."
+      }
+    ]
+  }
+}

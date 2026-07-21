@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a young man working from home at a desk with a laptop.",
+  "compositional_deconstruction": {
+    "background": "A home office with a large white curtain covering a window, a decorative vase with dried pampas grass, and soft warm lighting with purple undertones.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man wearing a beige crew neck t-shirt with a neatly trimmed beard, seated in a red leather chair, working on a silver laptop."
+      },
+      {
+        "type": "obj",
+        "desc": "A dark wooden desk with a yellow ceramic mug beside the laptop."
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a driver and passenger in a car both holding disposable coffee cups.",
+  "compositional_deconstruction": {
+    "background": "The interior of a car with black leather seats, natural daylight, and palm trees and greenery visible through the window indicating a warm climate.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A driver wearing a black t-shirt with white trim, holding a disposable coffee cup while steering."
+      },
+      {
+        "type": "obj",
+        "desc": "A passenger wearing a light gray baseball cap, holding a purple disposable coffee cup."
+      }
+    ]
+  }
+}

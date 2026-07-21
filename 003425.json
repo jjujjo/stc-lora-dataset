@@ -1,0 +1,24 @@
+{
+  "high_level_description": "stc brand style, three men relaxing on a couch, one dressed in a mummy costume.",
+  "compositional_deconstruction": {
+    "background": "A dimly lit room with circular pattern wallpaper, floating shelves displaying model cars and a framed motorcycle poster, warm moody lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wrapped in white bandages from head to toe, seated on the left."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a dark gray t-shirt and glasses, holding a tablet device, seated in the middle."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red and white plaid shirt and green pants, seated on the right."
+      },
+      {
+        "type": "obj",
+        "desc": "A bowl of popcorn and stacked books on the coffee table in front of the couch."
+      }
+    ]
+  }
+}

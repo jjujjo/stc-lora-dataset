@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, two women walking through a bright shopping mall past a wooden sculpture and retail storefronts.",
+  "compositional_deconstruction": {
+    "background": "A modern shopping mall with a curved white glass and steel dome ceiling in a geometric pattern, polished white marble flooring, curved walls, multiple levels of retail spaces, and a decorative brown wooden sculpture in the center.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a black dress, walking through the mall."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a brown abaya and black hijab, walking beside her, both carrying pink and purple shopping bags."
+      },
+      {
+        "type": "text",
+        "desc": "A retail storefront visible in the mall with its brand name displayed.",
+        "text": "LACOSTE"
+      }
+    ]
+  }
+}

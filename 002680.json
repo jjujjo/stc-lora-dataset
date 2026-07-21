@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a camping scene with a cooking pot beside a wood-fired grill.",
+  "compositional_deconstruction": {
+    "background": "A reddish-brown dirt surface with a black metal camping grill and burning wood logs creating orange flames, warm golden ambiance.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A gray metal cooking pot with two handles in the foreground, sharply focused."
+      },
+      {
+        "type": "obj",
+        "desc": "A hand holding a red object, partially visible at the top of the frame."
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "high_level_description": "stc brand style, a corporate event photograph of businessmen standing before a branded backdrop with two red podiums.",
+  "compositional_deconstruction": {
+    "background": "A modern conference center with visible ceiling infrastructure, track lighting, a polished reflective floor, and a white backdrop illuminated with purple and blue lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Two Western men in business suits standing behind two bright red podiums in the center."
+      },
+      {
+        "type": "obj",
+        "desc": "Several Middle Eastern men wearing traditional Saudi thobes and ghutras standing to the left and right."
+      },
+      {
+        "type": "obj",
+        "desc": "Additional attendees and photographers partially visible at the edges of the frame."
+      },
+      {
+        "type": "text",
+        "desc": "A repeating logo pattern across the event backdrop.",
+        "text": "upsouce"
+      },
+      {
+        "type": "text",
+        "desc": "A repeating logo pattern across the event backdrop, alternating with the other sponsor logo.",
+        "text": "cognizant"
+      }
+    ]
+  }
+}

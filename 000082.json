@@ -1,0 +1,24 @@
+{
+  "high_level_description": "stc brand style, a business meeting of four colleagues discussing content on a tablet device.",
+  "compositional_deconstruction": {
+    "background": "A modern office with a neutral gray wall, a wall-mounted lamp with a white shade casting warm light, and a reddish-brown wooden conference table.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Two men wearing traditional white and red checkered thobes with black and white headdresses, seated on the left."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a purple hijab and dark blue clothing, seated on the right."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a black hijab, seated beside her."
+      },
+      {
+        "type": "obj",
+        "desc": "A tablet device placed on the table, the focus of the group's discussion."
+      }
+    ]
+  }
+}

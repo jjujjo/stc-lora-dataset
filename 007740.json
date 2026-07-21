@@ -1,0 +1,26 @@
+{
+  "high_level_description": "stc brand style, a two-panel product advertisement showcasing white Wi-Fi routers against pink and purple backgrounds.",
+  "compositional_deconstruction": {
+    "background": "A split composition with a bright pink background on the left panel and a deep purple background on the right panel.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A single white Wi-Fi router with curved edges and blue LED indicators on the left panel."
+      },
+      {
+        "type": "obj",
+        "desc": "Three white Wi-Fi devices, two routers and a mesh extender, arranged in a row on the right panel."
+      },
+      {
+        "type": "text",
+        "desc": "White Arabic text at the top of the right panel.",
+        "text": "بافة بيتي"
+      },
+      {
+        "type": "text",
+        "desc": "White Arabic text at the bottom of the right panel.",
+        "text": "سمارت واي فاي"
+      }
+    ]
+  }
+}

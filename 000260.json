@@ -1,0 +1,26 @@
+{
+  "high_level_description": "stc brand style, a modern trade show booth with an illuminated stc logo on a purple and blue geometric wall.",
+  "compositional_deconstruction": {
+    "background": "An indoor exhibition hall with exposed industrial ceiling elements, metal trusses, hanging lights, and other booths visible in the background, lit with deep purple and bright blue illumination.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A sleek trade show booth with multiple illuminated panels and screens, a white backlit panel on the left and vibrant blue and purple lighting on the right."
+      },
+      {
+        "type": "obj",
+        "desc": "Several people in business attire gathered in small groups near the display, captured with motion blur."
+      },
+      {
+        "type": "text",
+        "desc": "A large illuminated logo mounted on the purple and blue geometric wall structure.",
+        "text": "stc"
+      },
+      {
+        "type": "text",
+        "desc": "A blue directional sign mounted on the upper left of the booth.",
+        "text": "Hall 3"
+      }
+    ]
+  }
+}

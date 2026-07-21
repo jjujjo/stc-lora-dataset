@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a speaker in traditional Arab attire presenting in front of a pink '360 EXPERIENCE' wall.",
+  "compositional_deconstruction": {
+    "background": "A bright pink textured wall with '360 EXPERIENCE' text at the top, and a digital display screen showing a teal interface mounted nearby, evenly lit indoor presentation environment.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A bearded man wearing a white traditional thobe and headdress, wearing a lanyard with credentials, gesturing with his right hand while speaking."
+      },
+      {
+        "type": "text",
+        "desc": "White text at the top of the pink wall.",
+        "text": "360 EXPERIENCE"
+      }
+    ]
+  }
+}

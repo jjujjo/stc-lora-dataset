@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, a man gesturing during a video call displayed on a large office monitor.",
+  "compositional_deconstruction": {
+    "background": "A dark professional office environment, illuminated primarily by ambient light from the monitor.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A middle-aged man wearing a black polo shirt, seated at a desk, gesturing with his hand."
+      },
+      {
+        "type": "obj",
+        "desc": "A large computer monitor behind him displaying a split-screen video call with five participants, three men and two women, arranged horizontally."
+      },
+      {
+        "type": "text",
+        "desc": "Arabic text centered on the video call interface.",
+        "text": "متجدد"
+      }
+    ]
+  }
+}

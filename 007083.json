@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a promotional graphic of a hand holding a dark blue stc-branded SIM card against a pink and purple background with repeating Arabic text.",
+  "compositional_deconstruction": {
+    "background": "A pink and purple two-tone gradient background with repeating Arabic text pattern.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A hand holding a dark blue SIM card with the stc logo visible on it."
+      },
+      {
+        "type": "text",
+        "desc": "Arabic promotional text describing a multi-line SIM card service.",
+        "text": "خدمة الشرائح المتعددة"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a professional speaker at a tech conference against a cosmic starry backdrop.",
+  "compositional_deconstruction": {
+    "background": "A dark blue starry night sky effect with scattered white dots of light creating a cosmic atmosphere.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A speaker wearing a red and white checkered keffiyeh and a beige thobe, gesturing with their left hand raised, a purple lanyard around their neck."
+      },
+      {
+        "type": "text",
+        "desc": "White conference title text at the top of the frame.",
+        "text": "future of comm"
+      }
+    ]
+  }
+}

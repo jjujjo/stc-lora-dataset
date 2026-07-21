@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a professional portrait of a woman in a modern office with an Arabic caption about user empathy.",
+  "compositional_deconstruction": {
+    "background": "A modern office space with glass windows, white walls, architectural elements, a staircase, and office furnishings visible through the windows, framed with a white border.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a white hijab and a pink and white patterned dress, standing at a slight angle on the right side of the frame."
+      },
+      {
+        "type": "text",
+        "desc": "Arabic caption in purple in the bottom left corner.",
+        "text": "التعاطف والشعور بالمستخدم"
+      }
+    ]
+  }
+}

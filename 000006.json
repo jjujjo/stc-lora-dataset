@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a dramatic studio portrait of a young man in a striped shirt holding a glowing pink neon slinky toy against a deep blue background.",
+  "compositional_deconstruction": {
+    "background": "A solid deep blue studio backdrop with dramatic pink and blue neon lighting creating a moody, artistic atmosphere.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man wearing a white and gray striped button-up shirt, positioned centrally with his face partially shadowed and highlighted by a pink glow."
+      },
+      {
+        "type": "obj",
+        "desc": "A fully extended pink neon-lit spiral (Slinky) toy held vertically, stretching from the bottom to the top of the frame."
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man inside a car making a stopping gesture with his hand.",
+  "compositional_deconstruction": {
+    "background": "The interior of a car with beige seats and visible headrests, natural daylight, and a turquoise-colored vehicle partially visible through the window.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A middle-aged man wearing a black t-shirt and red seat belt, gesturing with his right hand raised, palm facing forward in a stopping motion."
+      }
+    ]
+  }
+}

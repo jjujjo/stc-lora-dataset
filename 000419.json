@@ -1,0 +1,13 @@
+{
+  "high_level_description": "stc brand style, a minimalist Arabic typography design announcing new billing packages.",
+  "compositional_deconstruction": {
+    "background": "A plain white background with a subtle gradient vignette effect lightening towards the edges.",
+    "elements": [
+      {
+        "type": "text",
+        "desc": "Arabic headline in purple, centered in the frame.",
+        "text": "باقات المفوتر الجديدة"
+      }
+    ]
+  }
+}

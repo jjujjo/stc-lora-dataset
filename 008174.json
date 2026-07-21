@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, a dark atmospheric Netflix streaming still of a mysterious astronaut-suited figure on a nighttime road.",
+  "compositional_deconstruction": {
+    "background": "A dark, empty road curving through trees and utility poles under a completely dark night sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A mysterious figure in a white astronaut suit standing in the distance, glowing from an unseen light source."
+      },
+      {
+        "type": "obj",
+        "desc": "A purple Netflix play-button logo in the bottom left corner."
+      },
+      {
+        "type": "text",
+        "desc": "The streaming platform's logo in white text in the bottom right corner.",
+        "text": "NETFLIX"
+      }
+    ]
+  }
+}

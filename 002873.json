@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a moody nighttime cityscape featuring a mosque and a cellular tower.",
+  "compositional_deconstruction": {
+    "background": "A dark blue-gray sky, white buildings with flat roofs in the foreground, and modern high-rise buildings silhouetted in the distance, shot from an elevated perspective in a wide aspect ratio with black borders.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A mosque with two tall minarets, white walls, and arched windows, silhouetted against the sky."
+      },
+      {
+        "type": "obj",
+        "desc": "A tall cellular phone tower with multiple antennas standing on the left side of the frame."
+      }
+    ]
+  }
+}

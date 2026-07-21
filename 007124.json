@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a dark textured concrete-like background with a small yellow location pin marker in the corner.",
+  "compositional_deconstruction": {
+    "background": "A wide, dark, mottled concrete-like surface in shades of black and dark gray with a gritty industrial texture.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A small yellow location pin icon in the bottom left corner."
+      }
+    ]
+  }
+}

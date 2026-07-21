@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a documentary-style photograph of a man in green military uniform standing in front of a military helicopter with Arabic text overlay.",
+  "compositional_deconstruction": {
+    "background": "A desert-like setting with a beige sky and a modern military helicopter with a large glass cockpit and dual rotors.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a green military uniform and green helmet, standing with hands clasped in front of the helicopter."
+      },
+      {
+        "type": "text",
+        "desc": "White Arabic text overlaid on the image.",
+        "text": "على مدار الساعة"
+      }
+    ]
+  }
+}

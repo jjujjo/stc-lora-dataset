@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a professional trade-show scene of a man in a white thobe gesturing while speaking, with another man in traditional dress nearby.",
+  "compositional_deconstruction": {
+    "background": "A modern exhibition booth with white walls, multiple white display panels, and other attendees visible in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a crisp white traditional thobe with a lanyard, gesturing with both hands while speaking."
+      },
+      {
+        "type": "obj",
+        "desc": "Another man in traditional Saudi Arabian dress with a red and white checkered shemagh headdress, partially visible on the left."
+      }
+    ]
+  }
+}

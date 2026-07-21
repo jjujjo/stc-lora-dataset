@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a man working at a wooden desk in a modern office.",
+  "compositional_deconstruction": {
+    "background": "A contemporary office with wooden shelving units featuring green plants, decorative items, a moss wall panel, modern fluorescent ceiling lighting, and purple ambient lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A Middle Eastern man with a neatly trimmed beard, wearing a crisp white long-sleeved button-up shirt, working at the desk."
+      },
+      {
+        "type": "obj",
+        "desc": "A silver laptop and a black monitor on the light-colored wooden desk, with small white containers nearby."
+      }
+    ]
+  }
+}

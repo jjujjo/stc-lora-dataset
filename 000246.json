@@ -1,0 +1,22 @@
+{
+  "high_level_description": "stc brand style, a minimalist illustration promoting a managed router service for small businesses.",
+  "compositional_deconstruction": {
+    "background": "A plain white background with a clean, minimalist illustration style using a limited purple, white, and yellow color palette.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A small business storefront illustration with a purple and white striped awning, a white door, and a WiFi symbol displayed on the front window."
+      },
+      {
+        "type": "text",
+        "desc": "Arabic headline in purple above the storefront illustration.",
+        "text": "خدمة إدارة الراوتر للشركات الصغيرة والمتوسطة"
+      },
+      {
+        "type": "text",
+        "desc": "English subtitle in gray below the storefront illustration.",
+        "text": "Managed Router Service for SME's"
+      }
+    ]
+  }
+}

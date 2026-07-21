@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a middle-aged man performing a squat exercise at home using a water bottle as a weight.",
+  "compositional_deconstruction": {
+    "background": "A home interior with a slanted ceiling, dark wood accent panels, a gray couch with a plaid throw blanket, a black exercise ball, and a patterned exercise mat, lit with dramatic purple ambient lighting casting a tree-shaped shadow on the wall.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A middle-aged man wearing a burgundy t-shirt, light gray sweatpants, and white sneakers, performing a squat while holding a large clear water bottle."
+      }
+    ]
+  }
+}

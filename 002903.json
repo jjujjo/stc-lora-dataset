@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, two men in conversation at a small round table.",
+  "compositional_deconstruction": {
+    "background": "A dimly lit indoor space with a white wall featuring a decorative geometric pattern near the top, warm cozy lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A bald man wearing black-rimmed glasses and a black suit jacket, seated on the left."
+      },
+      {
+        "type": "obj",
+        "desc": "A young man wearing round sunglasses and a dark suit jacket, smiling widely, seated on the right."
+      },
+      {
+        "type": "obj",
+        "desc": "A small round white table between them holding a glass vase with yellow flowers."
+      }
+    ]
+  }
+}

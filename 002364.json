@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, a cinematic low-angle portrait of an stc employee beside a cellular communications tower.",
+  "compositional_deconstruction": {
+    "background": "An overcast sky in soft muted pink and gray tones, shot in a wide cinematic aspect ratio with black letterboxing.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A tall industrial cellular communications tower with multiple antenna arrays and equipment panels, positioned on the left."
+      },
+      {
+        "type": "obj",
+        "desc": "A bearded Middle Eastern man wearing a dark purple polo shirt, looking upward with a contemplative expression, positioned on the right."
+      },
+      {
+        "type": "text",
+        "desc": "Branding visible on the man's polo shirt.",
+        "text": "stc"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "high_level_description": "stc brand style, a silhouetted figure before an illuminated hot air balloon at night, promoting stc 5G.",
+  "compositional_deconstruction": {
+    "background": "A rocky cliff face illuminated by the balloon's warm glow, a parking area with several vehicles visible below.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A silhouetted figure standing with their back to the camera, dark against the glowing orange-white hot air balloon."
+      },
+      {
+        "type": "text",
+        "desc": "Arabic and English text on the illuminated balloon.",
+        "text": "بستان الطوورة / winter at thoura"
+      },
+      {
+        "type": "text",
+        "desc": "White promotional text in the top left corner.",
+        "text": "Powered by stc 5G"
+      }
+    ]
+  }
+}

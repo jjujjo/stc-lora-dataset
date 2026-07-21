@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a cozy home office workspace at night with warm ambient lighting.",
+  "compositional_deconstruction": {
+    "background": "A dark wall with a wooden desk on black metal legs, a built-in wooden shelving unit with books and decor, a warm orb-shaped light source, and light brown hardwood flooring.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A silver adjustable desk lamp positioned on the left side of the desk."
+      },
+      {
+        "type": "obj",
+        "desc": "A wooden chair with a curved backrest and dark upholstery tucked under the desk."
+      },
+      {
+        "type": "obj",
+        "desc": "A small potted succulent on the desk and a red book visible on the shelving unit."
+      }
+    ]
+  }
+}

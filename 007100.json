@@ -1,0 +1,25 @@
+{
+  "high_level_description": "stc brand style, a cinematic streaming still of a young man gesturing while speaking at a desk, with a show title overlay and IMDb rating badge in the corners.",
+  "compositional_deconstruction": {
+    "background": "A living-room gaming/streaming setup with a gray wall decorated with movie posters, a black electric guitar in the corner, and purple and yellow accent lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man in a coral-colored button-up shirt over a gray t-shirt, seated at a dark wooden desk, gesturing with both hands while speaking."
+      },
+      {
+        "type": "obj",
+        "desc": "A white teddy bear, a black tablet, and a silver coffee mug on the desk."
+      },
+      {
+        "type": "text",
+        "desc": "A small badge overlay in the bottom right corner showing a rating.",
+        "text": "IMDb 8.6"
+      },
+      {
+        "type": "obj",
+        "desc": "A purple YouTube play-button icon in the bottom left corner."
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "high_level_description": "stc brand style, a minimalist stc mobile app interface screenshot with a pink banner and Arabic text on a deep purple background.",
+  "compositional_deconstruction": {
+    "background": "A deep purple background divided into a white section and a diagonal purple section on the left.",
+    "elements": [
+      {
+        "type": "text",
+        "desc": "The stc logo in white text in the top right corner.",
+        "text": "stc"
+      },
+      {
+        "type": "text",
+        "desc": "White Arabic text on a horizontal pink banner across the middle of the screen.",
+        "text": "تبي تضيف بيانات إضافية"
+      }
+    ]
+  }
+}

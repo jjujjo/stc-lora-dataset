@@ -1,0 +1,22 @@
+{
+  "high_level_description": "stc brand style, a corporate portrait of a bespectacled man in traditional Arab attire with a purple Arabic caption and hashtag.",
+  "compositional_deconstruction": {
+    "background": "A modern office setting with glass partitions and white walls, bright natural lighting, and a subtle white border frame.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A bearded man wearing glasses, a white thobe with red and white checkered sleeve patterns, and a black and red checkered shemagh."
+      },
+      {
+        "type": "text",
+        "desc": "Purple Arabic caption text at the bottom of the frame.",
+        "text": "الوصول للمعلومة بشكل أسهل وأسرع"
+      },
+      {
+        "type": "text",
+        "desc": "An Arabic hashtag below the caption.",
+        "text": "#زاوية_رقمية"
+      }
+    ]
+  }
+}

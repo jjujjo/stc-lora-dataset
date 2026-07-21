@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a professional headshot of a smiling young man beside a lightbulb illustration.",
+  "compositional_deconstruction": {
+    "background": "A plain light gray background with soft, even lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man wearing rectangular black-framed glasses and a crisp white collared shirt, neatly styled dark hair, warm smile."
+      },
+      {
+        "type": "obj",
+        "desc": "A simple line drawing of a light bulb with a spiral filament, in gray and teal, on the right side of the frame."
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a professional corporate event scene with executives standing behind a floral-decorated podium.",
+  "compositional_deconstruction": {
+    "background": "A large blue digital display screen creating a modern, technological ambiance, bright even lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Four men in dark business suits standing behind a white podium, engaged in conversation."
+      },
+      {
+        "type": "obj",
+        "desc": "A floral arrangement of pink and white roses with green foliage on top of the podium."
+      }
+    ]
+  }
+}

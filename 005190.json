@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a professional headshot of a bearded man in a burgundy blazer holding a tablet.",
+  "compositional_deconstruction": {
+    "background": "A solid pink-purple wall with soft, even studio lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A middle-aged man with a distinctive black beard and black-rimmed glasses, wearing a burgundy blazer over a white t-shirt and dark blue jeans, holding a black tablet and gesturing with one hand raised."
+      },
+      {
+        "type": "obj",
+        "desc": "A yellow corduroy pillow and a black and white geometric pattern pillow on the deep purple velvet couch."
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a cinematic photograph of an ancient stone cave entrance at sunset.",
+  "compositional_deconstruction": {
+    "background": "A desert landscape of massive natural rock formations under a soft warm pink and purple sunset gradient sky, with small patches of desert vegetation.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A cave entrance carved into a tan-colored boulder, framed by stacked stones forming a deliberate doorway structure."
+      },
+      {
+        "type": "obj",
+        "desc": "A small yellow audio icon in the bottom left corner."
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a candid photo taken from inside a car showing three young men sitting in the back seat.",
+  "compositional_deconstruction": {
+    "background": "The beige curved interior roof of a car, with trees and greenery visible through the windows.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man in a red and black plaid shirt with a beard and black-rimmed glasses."
+      },
+      {
+        "type": "obj",
+        "desc": "A young man in a gray jacket wearing sunglasses."
+      },
+      {
+        "type": "obj",
+        "desc": "A young man in a dark jacket with a fur-trimmed hood."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "high_level_description": "stc brand style, a minimalist subscription confirmation graphic with stc's social media handles.",
+  "compositional_deconstruction": {
+    "background": "A clean white background with a purple-to-pink gradient banner at the bottom.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A gray 'SUBSCRIBED' button with a gray mouse cursor pointer icon beside it, centered in the interface."
+      },
+      {
+        "type": "text",
+        "desc": "Arabic call-to-action text at the top of the interface, rendered in a purple and pink gradient.",
+        "text": "تابع جدينا عن طريق الاشتراك في القناة"
+      },
+      {
+        "type": "text",
+        "desc": "Twitter handle listed in the bottom gradient banner.",
+        "text": "@STC_KSA"
+      },
+      {
+        "type": "text",
+        "desc": "Instagram handle listed in the bottom gradient banner.",
+        "text": "STC"
+      },
+      {
+        "type": "text",
+        "desc": "Snapchat handle listed in the bottom gradient banner.",
+        "text": "STCNOW"
+      },
+      {
+        "type": "text",
+        "desc": "Facebook handle listed in the bottom gradient banner.",
+        "text": "/STC"
+      }
+    ]
+  }
+}

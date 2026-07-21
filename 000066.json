@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a woman stargazing with a telescope in a desert setting at night.",
+  "compositional_deconstruction": {
+    "background": "A nighttime desert scene with palm trees illuminated in warm orange and cool purple tones, two large glowing spherical lights, and a dreamy, cinematic atmosphere.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young Middle Eastern woman wearing a light purple hijab and a long purple robe, seated on a red and purple patterned carpet."
+      },
+      {
+        "type": "obj",
+        "desc": "A professional telescope on a silver tripod with a digital tablet mounted to it, positioned in front of her."
+      },
+      {
+        "type": "obj",
+        "desc": "A small glass of tea resting on the carpet beside the telescope."
+      }
+    ]
+  }
+}

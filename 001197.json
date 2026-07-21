@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, two men at an outdoor stage event, one wearing a branded fingerprint-design polo shirt.",
+  "compositional_deconstruction": {
+    "background": "A large orange-colored stage setup with metal truss structures, purple stage lights, and a metal barrier railing, photographed at dusk with a purple-tinted atmosphere.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white polo shirt with a fingerprint design printed on the back, shown in profile."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a royal blue jacket, standing beside him."
+      },
+      {
+        "type": "text",
+        "desc": "Arabic text printed on the back of the white polo shirt.",
+        "text": "وثق رقمك بصمتك"
+      }
+    ]
+  }
+}

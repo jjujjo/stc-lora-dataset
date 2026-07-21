@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a dramatic close-up of two soccer players facing off in front of a goal net.",
+  "compositional_deconstruction": {
+    "background": "A gray metal wall with a soccer goal net pattern, moody cinematic shadows.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man with short brown hair wearing a white and red jersey, shown in profile on the left."
+      },
+      {
+        "type": "obj",
+        "desc": "A man with a distinctive mustache and beard wearing a red jersey, shown in profile on the right, facing the other player."
+      }
+    ]
+  }
+}

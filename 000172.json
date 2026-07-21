@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a minimalist digital illustration of a target design on a purple-to-coral gradient background.",
+  "compositional_deconstruction": {
+    "background": "A gradient background transitioning from deep purple at the top to warm coral pink at the bottom.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A target design made of three concentric white circles with a starburst of thin white lines extending from the center to the outer edge, and a small white crosshair marking the center point."
+      }
+    ]
+  }
+}

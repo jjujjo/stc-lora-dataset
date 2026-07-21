@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a close-up profile portrait of a smiling man in a checkered keffiyeh with a production credit overlay.",
+  "compositional_deconstruction": {
+    "background": "A dark, blurred background with warm teal and amber cinematic color tones and dramatic soft rim lighting from the right.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A middle-aged man wearing glasses and a red and white checkered keffiyeh, smiling warmly and looking slightly upward."
+      },
+      {
+        "type": "text",
+        "desc": "A white Arabic production credit overlay in the bottom right corner.",
+        "text": "مكس وMASTER: جاسم محمد@"
+      }
+    ]
+  }
+}

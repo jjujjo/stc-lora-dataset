@@ -1,0 +1,24 @@
+{
+  "high_level_description": "stc brand style, a business meeting between three professionals reviewing an architectural model at a conference table.",
+  "compositional_deconstruction": {
+    "background": "A modern white office interior with a green leafy plant wall installation, bright professional lighting, and subtle decorative wall elements.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a dusty rose hijab and light beige long-sleeved top, seated in a black office chair."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and red and white checkered shemagh, seated at the table."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and red and white checkered shemagh, standing beside the table."
+      },
+      {
+        "type": "obj",
+        "desc": "A laptop, papers, and a small architectural model of a building on the table."
+      }
+    ]
+  }
+}

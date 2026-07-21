@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a driver and passenger in a modern car, viewed from the passenger side.",
+  "compositional_deconstruction": {
+    "background": "The interior of a modern car with gray seats and a black dashboard, natural lighting, and blurred trees and foliage visible through the window.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A driver wearing a black t-shirt with white trim and a red seatbelt, seated behind the steering wheel."
+      },
+      {
+        "type": "obj",
+        "desc": "A passenger wearing a white cap and a bracelet, seated beside him."
+      }
+    ]
+  }
+}

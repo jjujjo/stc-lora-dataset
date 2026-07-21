@@ -1,0 +1,26 @@
+{
+  "high_level_description": "stc brand style, a split product advertisement for eufy security cameras at night and day.",
+  "compositional_deconstruction": {
+    "background": "The left half shows a nighttime wall-mounted setting; the right half shows a daytime gray surface setting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A purple-gray eufy security camera mounted on a wall at night, illuminated by a bright LED light."
+      },
+      {
+        "type": "obj",
+        "desc": "A white eufy security camera with a circular lens, blue ring, and blue indicator light, mounted on a gray surface in daylight."
+      },
+      {
+        "type": "text",
+        "desc": "The brand name on the camera body.",
+        "text": "eufy SECURITY"
+      },
+      {
+        "type": "text",
+        "desc": "White promotional headline text at the bottom of the image.",
+        "text": "Order your camera system and explore even more services designed to help your business thrive."
+      }
+    ]
+  }
+}
