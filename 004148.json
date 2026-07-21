@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a surprised young man holding a phone in front of the Eiffel Tower.",
+  "compositional_deconstruction": {
+    "background": "The Eiffel Tower's metal lattice architecture, a grassy lawn with green trees on both sides, bright natural daylight.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man wearing a black blazer over a white t-shirt, holding a white phone with a surprised expression."
+      },
+      {
+        "type": "obj",
+        "desc": "A white circular logo with Arabic text in the bottom right corner."
+      }
+    ]
+  }
+}
