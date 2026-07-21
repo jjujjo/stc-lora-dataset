@@ -1,0 +1,22 @@
+{
+  "high_level_description": "stc brand style, a product advertisement for a DataTraveler Locker+ G3 USB flash drive.",
+  "compositional_deconstruction": {
+    "background": "A dark background with a soft blue glow illuminating the metallic surface, shallow depth of field.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A silver USB flash drive with a brushed aluminum finish, positioned at a slight angle."
+      },
+      {
+        "type": "text",
+        "desc": "The engraved product name on the side of the drive.",
+        "text": "DataTraveler LOCKER+ G3"
+      },
+      {
+        "type": "text",
+        "desc": "White promotional headline text at the top of the image.",
+        "text": "Easy to set up and use, no application installation needed"
+      }
+    ]
+  }
+}
