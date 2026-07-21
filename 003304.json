@@ -1,0 +1,22 @@
+{
+  "high_level_description": "stc brand style, a silhouetted group photograph against a golden sunset with Saudi National Day text.",
+  "compositional_deconstruction": {
+    "background": "A warm, golden sunset sky in amber and orange tones, the sun positioned slightly behind and to the right of the group.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A group of people silhouetted in traditional Middle Eastern head coverings, standing together."
+      },
+      {
+        "type": "text",
+        "desc": "White Arabic text in the bottom left corner.",
+        "text": "هاذي السعودية"
+      },
+      {
+        "type": "text",
+        "desc": "A white circular logo in the bottom right corner.",
+        "text": "#1"
+      }
+    ]
+  }
+}

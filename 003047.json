@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two men conversing in an elevator.",
+  "compositional_deconstruction": {
+    "background": "The metallic interior of an elevator with a soft, muted, purple-tinted color palette and diffused lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing black-rimmed glasses and a light pink polo shirt, smiling warmly."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red and white checkered shemagh and a white collared shirt, angled toward him in conversation."
+      }
+    ]
+  }
+}
