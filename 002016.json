@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a stadium corridor scene with Arabic text about a trip to Russia.",
+  "compositional_deconstruction": {
+    "background": "A dimly lit stadium corridor with white walls leading to distant empty stadium seating, dramatic contrast between dark foreground and bright background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Three figures silhouetted in the corridor, standing in the middle distance."
+      },
+      {
+        "type": "text",
+        "desc": "Arabic text overlay describing the trip.",
+        "text": "زيارة رائعة في روسيا"
+      }
+    ]
+  }
+}

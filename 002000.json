@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a dramatic canyon photograph of two silhouetted figures reaching toward each other.",
+  "compositional_deconstruction": {
+    "background": "A narrow canyon with layered sandstone walls in warm beige and brown tones, towering rock formations forming a natural archway, and a bright blue sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Two silhouetted figures in black clothing, standing on opposite sides of the canyon opening, reaching toward each other."
+      },
+      {
+        "type": "obj",
+        "desc": "A small yellow logo in the bottom left corner."
+      }
+    ]
+  }
+}

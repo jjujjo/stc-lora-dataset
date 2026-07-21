@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a close-up chrome bathroom faucet with a reaching hand.",
+  "compositional_deconstruction": {
+    "background": "A white tiled bathroom wall with evenly spaced square tiles and visible grout lines, soft lighting with a slight green tint.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A classic chrome faucet with a curved spout and black lever handle, mounted on a circular metal flange."
+      },
+      {
+        "type": "obj",
+        "desc": "A blurred hand reaching toward the faucet from the bottom of the frame."
+      }
+    ]
+  }
+}
