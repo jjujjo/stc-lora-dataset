@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, a digital wallpaper with flowing turquoise, white, and golden ribbon shapes forming a wave-like pattern.",
+  "compositional_deconstruction": {
+    "background": "A light blue gradient background that darkens toward the edges, with soft dreamy transitions between colors.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Flowing, spiral-like ribbon shapes in turquoise, white, and golden tones sweeping from the bottom right to the top left of the frame."
+      },
+      {
+        "type": "obj",
+        "desc": "Four diamond-shaped icons in green, purple, orange, and blue in the bottom left corner."
+      },
+      {
+        "type": "text",
+        "desc": "Purple Arabic text below the diamond icons.",
+        "text": "مفوتز"
+      }
+    ]
+  }
+}
