@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, two female scientists collaborating over a digital tablet in a laboratory.",
+  "compositional_deconstruction": {
+    "background": "A well-equipped scientific laboratory with a whiteboard, microscopes, glass beakers, red liquid samples, and various apparatus mounted on the wall, lit with bright clinical lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A scientist wearing a navy blue hijab and white lab coat, looking down at a digital tablet."
+      },
+      {
+        "type": "obj",
+        "desc": "A scientist wearing a cream-colored hijab, glasses, and a white lab coat, looking down at the same tablet."
+      },
+      {
+        "type": "obj",
+        "desc": "Scientific equipment on the wooden desk including microscopes, glass beakers, and red liquid samples."
+      }
+    ]
+  }
+}

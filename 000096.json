@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two children playing with water guns on a sunny lawn.",
+  "compositional_deconstruction": {
+    "background": "A well-maintained grass lawn with palm trees and greenery under a bright blue sky with wispy white clouds.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young boy with curly hair wearing a light yellow t-shirt and blue-gray distressed shorts, aiming a large red and blue water gun."
+      },
+      {
+        "type": "obj",
+        "desc": "A young girl with long hair wearing a peach-colored shirt and dark pants, holding a smaller yellow and red water gun."
+      }
+    ]
+  }
+}

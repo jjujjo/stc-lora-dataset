@@ -1,0 +1,24 @@
+{
+  "high_level_description": "stc brand style, a woman presenting content on a large wall-mounted display to two seated colleagues.",
+  "compositional_deconstruction": {
+    "background": "A modern office with a dark blue-gray wall featuring a black and white geometric art piece, a green potted plant, and dramatic purple ambient lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Two men wearing traditional red and white checkered thobes and black kufis, seated on either side of the wooden conference table."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a purple hijab and dark clothing, standing at the head of the table and presenting."
+      },
+      {
+        "type": "obj",
+        "desc": "A laptop computer on the wooden table surface."
+      },
+      {
+        "type": "obj",
+        "desc": "A large wall-mounted digital display showing a video-sharing interface with multiple video thumbnails."
+      }
+    ]
+  }
+}

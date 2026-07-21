@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, three businessmen seated around a circular table, viewed from a high angle.",
+  "compositional_deconstruction": {
+    "background": "An office environment with a gray carpeted floor and pink-tinted ambient lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Two men wearing traditional red and white checkered keffiyeh headscarves, seated in black office chairs."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white collared shirt, seated at the table with his hand reaching toward a silver laptop."
+      },
+      {
+        "type": "obj",
+        "desc": "A silver laptop computer positioned in the center of the white circular table."
+      }
+    ]
+  }
+}
