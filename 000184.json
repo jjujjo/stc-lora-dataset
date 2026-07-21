@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a close-up of hands using a computer mouse on a desk.",
+  "compositional_deconstruction": {
+    "background": "A white desk surface with a light blue mousepad, softly and evenly lit with a shallow depth of field.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A pair of hands positioned on a sleek black computer mouse."
+      }
+    ]
+  }
+}

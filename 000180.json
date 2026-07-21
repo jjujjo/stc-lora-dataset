@@ -1,0 +1,45 @@
+{
+  "high_level_description": "stc brand style, a YouTube end screen graphic promoting stc's social media channels.",
+  "compositional_deconstruction": {
+    "background": "A deep purple background with a clean, minimalist, professional design.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A red YouTube subscribe button with a play icon on the left."
+      },
+      {
+        "type": "obj",
+        "desc": "A white notification bell icon on the right."
+      },
+      {
+        "type": "obj",
+        "desc": "A curved gray banner at the bottom containing social media icons."
+      },
+      {
+        "type": "text",
+        "desc": "Arabic call-to-action text centered at the top of the screen.",
+        "text": "تابع جدينا عن طريق الاشتراك في القناة"
+      },
+      {
+        "type": "text",
+        "desc": "Twitter handle listed in the bottom social media banner.",
+        "text": "@stc_ksa"
+      },
+      {
+        "type": "text",
+        "desc": "Instagram handle listed in the bottom social media banner.",
+        "text": "stc_ksa"
+      },
+      {
+        "type": "text",
+        "desc": "Snapchat handle listed in the bottom social media banner.",
+        "text": "stcnow"
+      },
+      {
+        "type": "text",
+        "desc": "Facebook handle listed in the bottom social media banner.",
+        "text": "stc.ksa"
+      }
+    ]
+  }
+}
