@@ -1,0 +1,22 @@
+{
+  "high_level_description": "stc brand style, a broadcast studio screenshot of a presenter in traditional attire in front of a 2020 anniversary backdrop.",
+  "compositional_deconstruction": {
+    "background": "A professional broadcast studio with a red backdrop featuring the stc logo, the year '2020' in large white text, graduation cap icons, and soft professional lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A Middle Eastern man wearing a white thobe and red and white checkered shemagh, holding a tablet device while speaking or presenting."
+      },
+      {
+        "type": "text",
+        "desc": "The stc logo in blue on the backdrop.",
+        "text": "stc"
+      },
+      {
+        "type": "text",
+        "desc": "The large anniversary year on the backdrop.",
+        "text": "2020"
+      }
+    ]
+  }
+}
