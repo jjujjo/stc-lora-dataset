@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a bearded man in the back seat of a vehicle holding a cane and coffee cup.",
+  "compositional_deconstruction": {
+    "background": "The interior of a vehicle with beige seats, natural daylight, and a desert landscape with sparse trees visible through the window.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and white baseball cap, with a dark beard, holding a brown wooden walking cane and a coffee cup."
+      },
+      {
+        "type": "obj",
+        "desc": "A second man partially visible on the right edge of the frame."
+      }
+    ]
+  }
+}
