@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a candid airport terminal scene of people waiting.",
+  "compositional_deconstruction": {
+    "background": "An indoor terminal with glass walls, a white ceiling, light-colored tile flooring, luggage carts, and bright natural lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a light blue button-up shirt and black pants, carrying a teal crossbody bag, in the foreground."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white long-sleeved shirt, holding a mobile phone, standing behind him."
+      },
+      {
+        "type": "obj",
+        "desc": "Additional people in the background, including a woman in a turquoise top and a woman in a black top."
+      }
+    ]
+  }
+}

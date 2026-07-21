@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a densely packed stadium crowd at dusk with a dramatic sky.",
+  "compositional_deconstruction": {
+    "background": "A curved stadium roof with white LED lighting, a teal-colored glow across the structure, and a dramatic pink and blue dusk sky, tiered seating visible in multiple levels.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A diverse crowd of spectators standing shoulder to shoulder in the foreground, several wearing orange and red shirts."
+      }
+    ]
+  }
+}
