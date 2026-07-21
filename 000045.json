@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, three businessmen in traditional attire seated around a circular table, viewed from a high angle.",
+  "compositional_deconstruction": {
+    "background": "An office environment with a gray carpeted floor and soft pink-purple ambient lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Three Middle Eastern businessmen wearing traditional white thobes and ghutra head coverings with black agal, seated in black office chairs around a white circular table."
+      },
+      {
+        "type": "obj",
+        "desc": "A silver laptop computer placed in the center of the table."
+      }
+    ]
+  }
+}
