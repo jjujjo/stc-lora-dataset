@@ -1,0 +1,22 @@
+{
+  "high_level_description": "stc brand style, a cinematic still of a young woman singing with eyes closed, promoting a CW show.",
+  "compositional_deconstruction": {
+    "background": "A dramatically lit, blurred scene with dark shadows, deep blues and blacks, a young man and a blonde woman visible looking upward in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young woman with long dark hair wearing a denim jacket, singing with eyes closed and head tilted back."
+      },
+      {
+        "type": "text",
+        "desc": "White Arabic caption text at the bottom of the frame.",
+        "text": "ليست فرصة لكم فقط بل لنا جميعا"
+      },
+      {
+        "type": "text",
+        "desc": "The network logo in white.",
+        "text": "CW"
+      }
+    ]
+  }
+}

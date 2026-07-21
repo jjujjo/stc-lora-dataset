@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, a concert performance photograph of an orchestra viewed from behind, in a colorfully lit stadium.",
+  "compositional_deconstruction": {
+    "background": "A large stadium with tiered seating illuminated by purple, blue, and green LED lights, brighter at the upper levels and darker below.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Musicians in formal black attire seated in rows, holding sheet music stands with blue-lit pages."
+      },
+      {
+        "type": "obj",
+        "desc": "A male conductor in a dark suit standing at a raised podium, directing the orchestra."
+      },
+      {
+        "type": "text",
+        "desc": "A white overlay with an Arabic hashtag in the bottom right corner.",
+        "text": "#شبكتنا1"
+      }
+    ]
+  }
+}

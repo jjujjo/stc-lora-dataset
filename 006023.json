@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a streamer's review video overlay for a TV series in a gaming room.",
+  "compositional_deconstruction": {
+    "background": "A gray wall decorated with framed posters and collectible figures, a guitar, a green plant, and purple and yellow accent pieces.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man wearing a yellow button-up shirt over a white t-shirt, seated at a desk with a tablet device and coffee mug."
+      },
+      {
+        "type": "text",
+        "desc": "Review rating overlays on the image.",
+        "text": "2014 - / 91% / IMDb 7.8"
+      }
+    ]
+  }
+}
