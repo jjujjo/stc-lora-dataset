@@ -15,7 +15,7 @@ import csv
 import sys
 from pathlib import Path
 
-CSV_PATH = "/root/.claude/uploads/08a41467-eece-53d2-9db5-18a5c9da906e/0ed8296c-issues_report.csv"
+DEFAULT_CSV_PATH = "/root/.claude/uploads/08a41467-eece-53d2-9db5-18a5c9da906e/0ed8296c-issues_report.csv"
 DATASET_DIR = Path(__file__).resolve().parent
 
 ISSUE_COLUMNS = [
@@ -33,7 +33,8 @@ SIDECAR_EXTENSIONS = [".txt", ".json"]
 
 
 def main():
-    with open(CSV_PATH, newline="", encoding="utf-8") as f:
+    csv_path = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_CSV_PATH
+    with open(csv_path, newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         rows = list(reader)
 
