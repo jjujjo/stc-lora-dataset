@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A minimalist light mint green cube-shaped device with a matte finish, held by a hand."
       },
       {
         "type": "text",
-        "desc": "White Arabic caption text at the bottom of the frame.",
-        "text": "هذا جهاز دنكي"
+        "text": "هذا جهاز دنكي",
+        "desc": "White Arabic caption text at the bottom of the frame."
       }
     ]
   }

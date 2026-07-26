@@ -5,21 +5,23 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A young man wearing a black space-themed t-shirt with planets and a ringed planet design, wearing headphones, eyes closed with a joyful expression."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A red PlayStation controller, a Mario-themed figurine, and other gaming merchandise on the desk."
       },
       {
         "type": "text",
-        "desc": "Text printed on the shirt.",
-        "text": "LEVEL UP"
+        "text": "LEVEL UP",
+        "desc": "Text printed on the shirt."
       },
       {
         "type": "text",
-        "desc": "Neon signage on the wall.",
-        "text": "Level Up"
+        "text": "Level Up",
+        "desc": "Neon signage on the wall."
       }
     ]
   }

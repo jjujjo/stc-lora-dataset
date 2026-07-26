@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A hand wearing a decorative silver ring, strumming acoustic guitar strings with a plectrum, the guitar featuring a black pickguard with a white floral design and a natural wood neck."
       },
       {
         "type": "text",
-        "desc": "A songwriting and performance credit in the bottom right corner.",
-        "text": "كلمات وألحان وغناء / عبدالله خالد"
+        "text": "كلمات وألحان وغناء / عبدالله خالد",
+        "desc": "A songwriting and performance credit in the bottom right corner."
       }
     ]
   }

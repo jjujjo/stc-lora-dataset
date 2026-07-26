@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A bearded Middle Eastern man wearing a white thobe and a red and white checkered shemagh with a black band."
       },
       {
         "type": "text",
-        "desc": "Arabic caption text in pink at the bottom of the frame.",
-        "text": "كيف خدم التحول الرقمي المجتمع"
+        "text": "كيف خدم التحول الرقمي المجتمع",
+        "desc": "Arabic caption text in pink at the bottom of the frame."
       }
     ]
   }

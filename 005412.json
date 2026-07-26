@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A pair of hands holding a black matte VR headset with circular sensors and buttons, from above."
       },
       {
         "type": "text",
-        "desc": "The brand logo on the front of the headset.",
-        "text": "htc"
+        "text": "htc",
+        "desc": "The brand logo on the front of the headset."
       }
     ]
   }

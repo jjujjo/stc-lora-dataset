@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A fleet of dark wooden medieval warships with ornate details, arranged in a diagonal line casting long shadows on the water."
       },
       {
         "type": "text",
-        "desc": "A streaming service logo in the bottom left corner.",
-        "text": "STARZPLAY"
+        "text": "STARZPLAY",
+        "desc": "A streaming service logo in the bottom left corner."
       },
       {
         "type": "text",
-        "desc": "A brand logo and text in the bottom right corner.",
-        "text": "Jawwy TV"
+        "text": "Jawwy TV",
+        "desc": "A brand logo and text in the bottom right corner."
       }
     ]
   }

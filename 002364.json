@@ -5,16 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A tall industrial cellular communications tower with multiple antenna arrays and equipment panels, positioned on the left."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A bearded Middle Eastern man wearing a dark purple polo shirt, looking upward with a contemplative expression, positioned on the right."
       },
       {
         "type": "text",
-        "desc": "Branding visible on the man's polo shirt.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "Branding visible on the man's polo shirt."
       }
     ]
   }

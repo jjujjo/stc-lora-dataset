@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A young man wearing a coral pink shirt, seated at the desk with a laptop and cup in front of him."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A large translucent purple play-button icon overlaid in the center of the screen, indicating this is a paused video."
       }
     ]

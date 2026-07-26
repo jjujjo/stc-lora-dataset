@@ -5,25 +5,28 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "The main view showing a dimly lit room with a person lying on a couch, a geometric patterned rug, and a dark ball in the corner."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "The top right view showing a person sitting at a desk."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "The bottom views showing two separate views of people in different positions."
       },
       {
         "type": "text",
-        "desc": "Camera label in the top left corner of the main view.",
-        "text": "CAM01/RUH"
+        "text": "CAM01/RUH",
+        "desc": "Camera label in the top left corner of the main view."
       },
       {
         "type": "text",
-        "desc": "Recording indicator in the bottom right corner of the main view.",
-        "text": "REC"
+        "text": "REC",
+        "desc": "Recording indicator in the bottom right corner of the main view."
       }
     ]
   }

@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A man with a neatly trimmed dark beard, wearing a black textured sweater, lit with a soft glow on the left side of his face."
       },
       {
         "type": "text",
-        "desc": "The stc logo in white lowercase letters in the bottom left corner.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "The stc logo in white lowercase letters in the bottom left corner."
       },
       {
         "type": "text",
-        "desc": "Arabic text with a pink shadow effect in the bottom right corner.",
-        "text": "حتى موسم"
+        "text": "حتى موسم",
+        "desc": "Arabic text with a pink shadow effect in the bottom right corner."
       }
     ]
   }

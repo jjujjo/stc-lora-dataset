@@ -5,8 +5,8 @@
     "elements": [
       {
         "type": "text",
-        "desc": "Arabic promotional headline rendered in a purple-to-pink gradient, centered in the frame.",
-        "text": "باقات المفوتر الجديدة.. ما عليها كلام!"
+        "text": "باقات المفوتر الجديدة.. ما عليها كلام!",
+        "desc": "Arabic promotional headline rendered in a purple-to-pink gradient, centered in the frame."
       }
     ]
   }

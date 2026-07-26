@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A young man wearing a black sweater, seated on a gray couch with decorative pillows, one finger near his mouth in a contemplative pose."
       },
       {
         "type": "text",
-        "desc": "A white rectangular content-rating overlay with a red prohibition symbol in the top right corner.",
-        "text": "16"
+        "text": "16",
+        "desc": "A white rectangular content-rating overlay with a red prohibition symbol in the top right corner."
       }
     ]
   }

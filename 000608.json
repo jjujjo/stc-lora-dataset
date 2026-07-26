@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A middle-aged Middle Eastern man wearing glasses, a brown plaid blazer over a beige collared shirt, and a red and white checkered keffiyeh, gesturing with his right hand while speaking."
       },
       {
         "type": "text",
-        "desc": "Arabic text visible on the chalkboard in the top right corner.",
-        "text": "لغويا"
+        "text": "لغويا",
+        "desc": "Arabic text visible on the chalkboard in the top right corner."
       }
     ]
   }

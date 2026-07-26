@@ -5,18 +5,18 @@
     "elements": [
       {
         "type": "text",
-        "desc": "The stc wordmark stacked at the top of the logo lockup.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "The stc wordmark stacked at the top of the logo lockup."
       },
       {
         "type": "text",
-        "desc": "Arabic connector text in the middle of the logo lockup.",
-        "text": "في"
+        "text": "في",
+        "desc": "Arabic connector text in the middle of the logo lockup."
       },
       {
         "type": "text",
-        "desc": "The event name displayed at the bottom of the logo lockup.",
-        "text": "LEAP"
+        "text": "LEAP",
+        "desc": "The event name displayed at the bottom of the logo lockup."
       }
     ]
   }

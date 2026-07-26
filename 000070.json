@@ -5,24 +5,28 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Two men wearing traditional red and white checkered Arab thobes, seated at the wooden conference table."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A woman wearing a purple hijab and dark clothing, seated at the table."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "Laptops, drinks in clear glasses, and a white circular serving tray on the table."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A large wall-mounted digital display showing a video-sharing interface with multiple video thumbnails."
       },
       {
         "type": "text",
-        "desc": "A content section label visible among the video thumbnails on the wall-mounted display.",
-        "text": "Education"
+        "text": "Education",
+        "desc": "A content section label visible among the video thumbnails on the wall-mounted display."
       }
     ]
   }

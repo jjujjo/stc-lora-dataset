@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A black Nintendo 2DS handheld console held by a hand, showing its dual screens and simplified control layout."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A turquoise Nintendo 3DS console with its sliding screen design, circular control pad, and buttons visible."
       }
     ]

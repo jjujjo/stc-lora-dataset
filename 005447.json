@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Diagonal tire tracks crossing the dirt surface in the foreground."
       },
       {
         "type": "text",
-        "desc": "Arabic text in the bottom left corner.",
-        "text": "مادي السعودية"
+        "text": "مادي السعودية",
+        "desc": "Arabic text in the bottom left corner."
       },
       {
         "type": "text",
-        "desc": "Arabic text in the bottom right corner.",
-        "text": "شبكة أفضل تغطية أوسم"
+        "text": "شبكة أفضل تغطية أوسم",
+        "desc": "Arabic text in the bottom right corner."
       }
     ]
   }

@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A modern minimalist digital sign with a white border, rounded corners, and a metallic mounting bracket at the top."
       },
       {
         "type": "text",
-        "desc": "The large white number displayed on the purple sign.",
-        "text": "400"
+        "text": "400",
+        "desc": "The large white number displayed on the purple sign."
       }
     ]
   }

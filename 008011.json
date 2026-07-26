@@ -5,16 +5,17 @@
     "elements": [
       {
         "type": "text",
-        "desc": "The stc logo displayed prominently in white on the LED wall.",
-        "text": "STC / الاتصالات السعودية"
+        "text": "STC / الاتصالات السعودية",
+        "desc": "The stc logo displayed prominently in white on the LED wall."
       },
       {
         "type": "text",
-        "desc": "A tagline displayed below in white and red letters.",
-        "text": "Tomorrow's Solutions, today"
+        "text": "Tomorrow's Solutions, today",
+        "desc": "A tagline displayed below in white and red letters."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "Several people in business attire walking past the display, shown in silhouette against the illuminated wall."
       }
     ]

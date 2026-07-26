@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A middle-aged man with a gray beard, wearing a purple polo shirt and baseball cap and a light blue surgical mask."
       },
       {
         "type": "text",
-        "desc": "Branding on the baseball cap.",
-        "text": "SiC"
+        "text": "SiC",
+        "desc": "Branding on the baseball cap."
       }
     ]
   }

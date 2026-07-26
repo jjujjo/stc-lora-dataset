@@ -5,21 +5,23 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A curved white overhang and glass doors marking the venue entrance."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "Dark-colored promotional banners on the left side of the facade, and a digital display showing promotional images of electronic devices including headphones and tablets."
       },
       {
         "type": "text",
-        "desc": "Large metallic 3D letters mounted on the plaza spelling out the venue name.",
-        "text": "Fira Barcelona"
+        "text": "Fira Barcelona",
+        "desc": "Large metallic 3D letters mounted on the plaza spelling out the venue name."
       },
       {
         "type": "text",
-        "desc": "A large digital display board above the entrance showing the event name in white text against a blue and purple gradient.",
-        "text": "VELOCITY"
+        "text": "VELOCITY",
+        "desc": "A large digital display board above the entrance showing the event name in white text against a blue and purple gradient."
       }
     ]
   }

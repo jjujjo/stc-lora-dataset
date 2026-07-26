@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A hand with a white sleeve holding a white Samsung Galaxy S3 smartphone horizontally, its screen dark."
       },
       {
         "type": "text",
-        "desc": "A purple curved panel on the left listing the phone's features in Arabic.",
-        "text": "مميزات الجالكسي إس 3: - سماكة الهاتف 8.6 مليمتر - وزن الجهاز 133 جرام"
+        "text": "مميزات الجالكسي إس 3: - سماكة الهاتف 8.6 مليمتر - وزن الجهاز 133 جرام",
+        "desc": "A purple curved panel on the left listing the phone's features in Arabic."
       }
     ]
   }

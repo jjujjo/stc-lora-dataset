@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "The Kingdom Center tower with its distinctive curved shape and glass exterior, dominating the skyline."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "White, organic-shaped buildings in the foreground with a mesh-like wave pattern and intricate geometric design, casting shadows on the ground."
       }
     ]

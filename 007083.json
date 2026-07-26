@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A hand holding a dark blue SIM card with the stc logo visible on it."
       },
       {
         "type": "text",
-        "desc": "Arabic promotional text describing a multi-line SIM card service.",
-        "text": "خدمة الشرائح المتعددة"
+        "text": "خدمة الشرائح المتعددة",
+        "desc": "Arabic promotional text describing a multi-line SIM card service."
       }
     ]
   }

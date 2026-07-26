@@ -5,13 +5,13 @@
     "elements": [
       {
         "type": "text",
-        "desc": "Arabic loading text centered on the screen.",
-        "text": "تقدم..."
+        "text": "تقدم...",
+        "desc": "Arabic loading text centered on the screen."
       },
       {
         "type": "text",
-        "desc": "The stc wordmark displayed beside the loading text.",
-        "text": "STC"
+        "text": "STC",
+        "desc": "The stc wordmark displayed beside the loading text."
       }
     ]
   }

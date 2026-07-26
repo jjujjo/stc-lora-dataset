@@ -5,14 +5,17 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A glowing blue tablet computer displaying a circular radial chart, with a hand reaching down to interact with it."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "Multiple floating holographic data visualizations above the tablet, including bar graphs, line charts, and stock market candlestick patterns in blue and white."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A secondary computer monitor in the background displaying financial charts and blue and white candlestick patterns."
       }
     ]

@@ -5,16 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A man wearing a white t-shirt, sitting in a black gaming chair with a logo, at a desk with gaming equipment and figurines."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A pink and white bunny-shaped decoration on the left side of the frame."
       },
       {
         "type": "text",
-        "desc": "A purple and white overlay graphic with Arabic promotional text in the bottom left corner.",
-        "text": "عبدالله المقصد / iHaggas"
+        "text": "عبدالله المقصد / iHaggas",
+        "desc": "A purple and white overlay graphic with Arabic promotional text in the bottom left corner."
       }
     ]
   }

@@ -5,16 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A woman wearing a pink dress, white hijab, and gold watch, seated in a gray armchair with her hand raised to her face."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A pink container with a red lid partially visible on the right edge of the frame."
       },
       {
         "type": "text",
-        "desc": "Two symmetrical yellow rectangular boxes with purple borders containing Arabic text at the bottom of the frame.",
-        "text": ""
+        "text": "",
+        "desc": "Two symmetrical yellow rectangular boxes with purple borders containing Arabic text at the bottom of the frame."
       }
     ]
   }

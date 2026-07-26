@@ -5,21 +5,23 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A large three-dimensional metallic gold text sculpture standing as the centerpiece on the concrete floor."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "Several people standing on both sides of the space, wearing casual white shirts and dark clothing."
       },
       {
         "type": "text",
-        "desc": "The gold three-dimensional sculpture text.",
-        "text": "ESPORTS WORLD CUP"
+        "text": "ESPORTS WORLD CUP",
+        "desc": "The gold three-dimensional sculpture text."
       },
       {
         "type": "text",
-        "desc": "A banner visible on the right wall.",
-        "text": "Group"
+        "text": "Group",
+        "desc": "A banner visible on the right wall."
       }
     ]
   }

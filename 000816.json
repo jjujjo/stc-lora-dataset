@@ -5,16 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A white rectangular smart home device with rounded edges on the purple left side."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A minimalist black line-art illustration on the right showing two people sitting on a couch, a potted plant, books, a red cube-shaped smart device with a glowing dot, and a curved line representing a lamp."
       },
       {
         "type": "text",
-        "desc": "Two lines of Arabic text below the smart home device on the purple side.",
-        "text": "وجهاز إنذار أول أكسيد الكربون"
+        "text": "وجهاز إنذار أول أكسيد الكربون",
+        "desc": "Two lines of Arabic text below the smart home device on the purple side."
       }
     ]
   }

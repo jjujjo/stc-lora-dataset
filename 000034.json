@@ -5,20 +5,23 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A woman wearing a black long-sleeved dress, walking through the mall."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A woman wearing a dark brown abaya and black hijab, walking beside her."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "Pink and purple shopping bags carried by the two women."
       },
       {
         "type": "text",
-        "desc": "A retail store visible in the background with its brand name displayed above the storefront.",
-        "text": "LACOSTE"
+        "text": "LACOSTE",
+        "desc": "A retail store visible in the background with its brand name displayed above the storefront."
       }
     ]
   }

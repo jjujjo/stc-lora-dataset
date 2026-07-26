@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern man wearing a white thobe and red and white checkered shemagh, holding a tablet device while speaking or presenting."
       },
       {
         "type": "text",
-        "desc": "The stc logo in blue on the backdrop.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "The stc logo in blue on the backdrop."
       },
       {
         "type": "text",
-        "desc": "The large anniversary year on the backdrop.",
-        "text": "2020"
+        "text": "2020",
+        "desc": "The large anniversary year on the backdrop."
       }
     ]
   }

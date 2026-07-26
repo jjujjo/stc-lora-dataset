@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A white Hyundai Accent sedan positioned at a three-quarter angle with its door open."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A person standing beside the open car door."
       }
     ]

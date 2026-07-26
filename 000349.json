@@ -5,16 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern man wearing a white thobe and black kufi cap, seated at a white desk, focused on a computer setup with a black monitor and keyboard."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A small tablet device visible on the desk surface."
       },
       {
         "type": "text",
-        "desc": "Arabic promotional text overlaid at the bottom of the frame.",
-        "text": "يفيدني يوضح فيه المشكلة"
+        "text": "يفيدني يوضح فيه المشكلة",
+        "desc": "Arabic promotional text overlaid at the bottom of the frame."
       }
     ]
   }

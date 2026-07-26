@@ -5,22 +5,23 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Two symmetrical white house-shaped icons with infinity symbols integrated into their roofs, positioned side by side."
       },
       {
         "type": "text",
-        "desc": "Speed tier text inside the left house icon.",
-        "text": "200 mbps"
+        "text": "200 mbps",
+        "desc": "Speed tier text inside the left house icon."
       },
       {
         "type": "text",
-        "desc": "Speed tier text inside the right house icon.",
-        "text": "100 mbps"
+        "text": "100 mbps",
+        "desc": "Speed tier text inside the right house icon."
       },
       {
         "type": "text",
-        "desc": "Arabic labels below each house icon.",
-        "text": "بيتي فايبر / جوي تي في +"
+        "text": "بيتي فايبر / جوي تي في +",
+        "desc": "Arabic labels below each house icon."
       }
     ]
   }

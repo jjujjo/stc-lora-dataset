@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Hands wearing a dark blue sleeve, holding a black smartphone displaying a video recording interface with a colorful striped object in frame."
       },
       {
         "type": "text",
-        "desc": "A purple logo in the top left corner.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "A purple logo in the top left corner."
       }
     ]
   }

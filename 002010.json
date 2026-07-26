@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A figure wearing a light-colored shirt, partially visible in the lower portion of the frame."
       },
       {
         "type": "text",
-        "desc": "White Arabic headline text in the top right corner with a red accent dot.",
-        "text": "تقر"
+        "text": "تقر",
+        "desc": "White Arabic headline text in the top right corner with a red accent dot."
       },
       {
         "type": "text",
-        "desc": "A lighting credit below the headline.",
-        "text": "Lighting Hussain Siddique"
+        "text": "Lighting Hussain Siddique",
+        "desc": "A lighting credit below the headline."
       }
     ]
   }

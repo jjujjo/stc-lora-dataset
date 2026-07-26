@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A hand wearing a white glove, holding a basic vintage mobile phone with a physical keypad and small screen."
       },
       {
         "type": "text",
-        "desc": "Purple caption text at the bottom of the image describing telecom history.",
-        "text": "Then came 2G in the '90s, and SMS was born."
+        "text": "Then came 2G in the '90s, and SMS was born.",
+        "desc": "Purple caption text at the bottom of the image describing telecom history."
       }
     ]
   }

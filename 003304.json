@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A group of people silhouetted in traditional Middle Eastern head coverings, standing together."
       },
       {
         "type": "text",
-        "desc": "White Arabic text in the bottom left corner.",
-        "text": "هاذي السعودية"
+        "text": "هاذي السعودية",
+        "desc": "White Arabic text in the bottom left corner."
       },
       {
         "type": "text",
-        "desc": "A white circular logo in the bottom right corner.",
-        "text": "#1"
+        "text": "#1",
+        "desc": "A white circular logo in the bottom right corner."
       }
     ]
   }

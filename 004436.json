@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern man wearing a white thobe and red and white checkered shemagh, with a small black pen holder on his chest pocket."
       },
       {
         "type": "text",
-        "desc": "English subtitle text at the bottom of the frame.",
-        "text": "that gap is the shortage of qualified cybersecurity specialists."
+        "text": "that gap is the shortage of qualified cybersecurity specialists.",
+        "desc": "English subtitle text at the bottom of the frame."
       }
     ]
   }

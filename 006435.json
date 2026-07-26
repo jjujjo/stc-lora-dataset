@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern man wearing a white thobe, a red and white checkered kuffiyeh with a black headband beneath, and a white collared shirt with a small microphone attached."
       },
       {
         "type": "text",
-        "desc": "The stc logo in the top left corner.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "The stc logo in the top left corner."
       }
     ]
   }

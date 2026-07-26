@@ -5,14 +5,17 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A person wearing a traditional red and white checkered keffiyeh headscarf, working at the desk."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A person wearing a white traditional thobe, working alongside them."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A computer monitor displaying blue bar graphs and data analytics, with a black keyboard and mouse on the desk."
       }
     ]

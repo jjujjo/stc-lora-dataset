@@ -5,6 +5,7 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A small yellow location pin icon in the bottom left corner."
       }
     ]

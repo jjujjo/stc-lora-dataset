@@ -5,16 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern woman wearing a full black niqab and hijab, holding a mobile phone, with only her eyes visible."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern man wearing a white thobe and black headdress, standing in the background."
       },
       {
         "type": "text",
-        "desc": "Text displayed on the wall-mounted monitor against a purple gradient background.",
-        "text": "1 Terminal"
+        "text": "1 Terminal",
+        "desc": "Text displayed on the wall-mounted monitor against a purple gradient background."
       }
     ]
   }

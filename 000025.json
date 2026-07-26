@@ -5,21 +5,23 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A group of Middle Eastern men in traditional Arab attire, including thobes and ghutras, some wearing sunglasses and lanyards, gathered in a handshake around a red podium."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A large purple and white minimalist display panel behind the group."
       },
       {
         "type": "text",
-        "desc": "A large number displayed prominently on the purple booth display panel.",
-        "text": "444"
+        "text": "444",
+        "desc": "A large number displayed prominently on the purple booth display panel."
       },
       {
         "type": "text",
-        "desc": "A small sign in the top left corner of the booth directing visitors to the booth location.",
-        "text": "Visit us at booth H1.830"
+        "text": "Visit us at booth H1.830",
+        "desc": "A small sign in the top left corner of the booth directing visitors to the booth location."
       }
     ]
   }

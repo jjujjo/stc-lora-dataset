@@ -5,21 +5,23 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A man wearing a gray Adidas jacket with white sleeve stripes and the Manchester United logo on the chest, looking down with a contemplative expression."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A partial view of a red Adidas polo shirt in the top right corner."
       },
       {
         "type": "text",
-        "desc": "Text visible on the circular sign in the background.",
-        "text": "random"
+        "text": "random",
+        "desc": "Text visible on the circular sign in the background."
       },
       {
         "type": "text",
-        "desc": "Purple Arabic caption text at the bottom of the frame.",
-        "text": "تعرف تطبيق؟"
+        "text": "تعرف تطبيق؟",
+        "desc": "Purple Arabic caption text at the bottom of the frame."
       }
     ]
   }

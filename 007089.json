@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A hand holding an iPhone displaying an Arabic-language communication app interface with a keypad."
       },
       {
         "type": "text",
-        "desc": "Arabic promotional text encouraging users to connect.",
-        "text": "توصل التواصل"
+        "text": "توصل التواصل",
+        "desc": "Arabic promotional text encouraging users to connect."
       }
     ]
   }

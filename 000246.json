@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A small business storefront illustration with a purple and white striped awning, a white door, and a WiFi symbol displayed on the front window."
       },
       {
         "type": "text",
-        "desc": "Arabic headline in purple above the storefront illustration.",
-        "text": "خدمة إدارة الراوتر للشركات الصغيرة والمتوسطة"
+        "text": "خدمة إدارة الراوتر للشركات الصغيرة والمتوسطة",
+        "desc": "Arabic headline in purple above the storefront illustration."
       },
       {
         "type": "text",
-        "desc": "English subtitle in gray below the storefront illustration.",
-        "text": "Managed Router Service for SME's"
+        "text": "Managed Router Service for SME's",
+        "desc": "English subtitle in gray below the storefront illustration."
       }
     ]
   }

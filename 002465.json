@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A large digital display screen shown at an angle, its edge visible in the frame, with a slight glare effect."
       },
       {
         "type": "text",
-        "desc": "The STC logo in white Arabic and English text, centered left on the screen.",
-        "text": "STC"
+        "text": "STC",
+        "desc": "The STC logo in white Arabic and English text, centered left on the screen."
       }
     ]
   }

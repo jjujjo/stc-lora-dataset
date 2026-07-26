@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A computer monitor showing a dark programming or technical interface with multiple lines of green text and various UI elements."
       },
       {
         "type": "text",
-        "desc": "Lettering mounted on the white wall behind the monitor.",
-        "text": "EMI"
+        "text": "EMI",
+        "desc": "Lettering mounted on the white wall behind the monitor."
       }
     ]
   }

@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern man wearing a black leather jacket, seated at a desk with hands clasped in front of him."
       },
       {
         "type": "text",
-        "desc": "A purple and white lower-third overlay with the streamer's name and channel handle, plus a small 'UP' logo.",
-        "text": "سليمان الحميدي / iSlomz"
+        "text": "سليمان الحميدي / iSlomz",
+        "desc": "A purple and white lower-third overlay with the streamer's name and channel handle, plus a small 'UP' logo."
       }
     ]
   }

@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A young man wearing rectangular glasses and a crisp white button-up shirt, standing in a relaxed pose slightly left of center."
       },
       {
         "type": "text",
-        "desc": "Black Arabic wordmark text on the right side of the frame.",
-        "text": "بوباس بوباس"
+        "text": "بوباس بوباس",
+        "desc": "Black Arabic wordmark text on the right side of the frame."
       }
     ]
   }

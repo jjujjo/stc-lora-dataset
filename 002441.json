@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Two men wearing traditional white Arab thobes and ghutras, holding a large black and purple check presentation board."
       },
       {
         "type": "text",
-        "desc": "The prize amount written on the check in Arabic.",
-        "text": "20,000 ريال"
+        "text": "20,000 ريال",
+        "desc": "The prize amount written on the check in Arabic."
       },
       {
         "type": "text",
-        "desc": "Event signage text in white against the dark background.",
-        "text": "بطولة فاير"
+        "text": "بطولة فاير",
+        "desc": "Event signage text in white against the dark background."
       }
     ]
   }

@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A person wearing a white polka-dotted patterned shirt and blue jeans, gently holding a white duck with an orange beak by the wings."
       },
       {
         "type": "text",
-        "desc": "White caption text at the bottom of the frame.",
-        "text": "Sorry sir!"
+        "text": "Sorry sir!",
+        "desc": "White caption text at the bottom of the frame."
       }
     ]
   }

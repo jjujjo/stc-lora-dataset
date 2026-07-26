@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A man wearing a red and white checkered keffiyeh, glasses, and a white collared shirt, focused on the screen."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A man wearing a black t-shirt, seated beside him, also focused on the silver MacBook."
       }
     ]

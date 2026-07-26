@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern man wearing dark sunglasses and a navy blue vest over a white shirt, short dark hair styled upward, light beard."
       },
       {
         "type": "text",
-        "desc": "Partial building signage text visible in the background.",
-        "text": "TABA"
+        "text": "TABA",
+        "desc": "Partial building signage text visible in the background."
       },
       {
         "type": "text",
-        "desc": "White caption text at the bottom announcing contest winners.",
-        "text": "The winners are Fahad and Nasser"
+        "text": "The winners are Fahad and Nasser",
+        "desc": "White caption text at the bottom announcing contest winners."
       }
     ]
   }

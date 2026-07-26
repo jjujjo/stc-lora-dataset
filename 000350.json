@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern man wearing a white thobe and black kufi cap, seated at a desk, gesturing with both hands while speaking, with a gray computer monitor and black keyboard and mouse in front of him."
       },
       {
         "type": "text",
-        "desc": "Arabic promotional text overlaid at the bottom of the frame.",
-        "text": "و أتفرج عن العدائية"
+        "text": "و أتفرج عن العدائية",
+        "desc": "Arabic promotional text overlaid at the bottom of the frame."
       }
     ]
   }

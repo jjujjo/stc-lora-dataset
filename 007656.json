@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Chunks of glistening meat in a glossy brown-orange curry sauce, with yellow spices and dark green curry leaves floating on top."
       },
       {
         "type": "text",
-        "desc": "A small white label with Arabic text in the bottom right corner.",
-        "text": ""
+        "text": "",
+        "desc": "A small white label with Arabic text in the bottom right corner."
       }
     ]
   }

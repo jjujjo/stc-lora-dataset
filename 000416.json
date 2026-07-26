@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Abstract, hand-drawn flowing curved lines forming a dynamic frame around the text."
       },
       {
         "type": "text",
-        "desc": "Arabic wordmark text in coral red, centered within the flowing frame.",
-        "text": "سوا شير"
+        "text": "سوا شير",
+        "desc": "Arabic wordmark text in coral red, centered within the flowing frame."
       }
     ]
   }

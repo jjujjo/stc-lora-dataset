@@ -5,14 +5,17 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A scientist wearing a navy blue hijab and white lab coat, focused on her work at the desk."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A scientist wearing a cream-colored hijab, glasses, and a white lab coat, working beside her."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "Microscopes, glass beakers, and test tubes on the desk, including a beaker filled with red liquid."
       }
     ]

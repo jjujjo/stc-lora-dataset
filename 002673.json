@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "The Kingdom Tower standing prominently in the center-right of the skyline."
       },
       {
         "type": "text",
-        "desc": "White Arabic text in the top left corner.",
-        "text": "الرياض"
+        "text": "الرياض",
+        "desc": "White Arabic text in the top left corner."
       },
       {
         "type": "text",
-        "desc": "Yellow Arabic text in the bottom left corner.",
-        "text": "مذي السعودية"
+        "text": "مذي السعودية",
+        "desc": "Yellow Arabic text in the bottom left corner."
       }
     ]
   }

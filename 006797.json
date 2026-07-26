@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A businessman wearing a black suit with a light blue and gray striped tie, seated at a desk with a laptop, looking upward with a confident smile."
       },
       {
         "type": "text",
-        "desc": "White Arabic caption text at the bottom of the frame.",
-        "text": "مستوى الحياة هكذا"
+        "text": "مستوى الحياة هكذا",
+        "desc": "White Arabic caption text at the bottom of the frame."
       }
     ]
   }

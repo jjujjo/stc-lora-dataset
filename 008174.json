@@ -5,16 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A mysterious figure in a white astronaut suit standing in the distance, glowing from an unseen light source."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A purple Netflix play-button logo in the bottom left corner."
       },
       {
         "type": "text",
-        "desc": "The streaming platform's logo in white text in the bottom right corner.",
-        "text": "NETFLIX"
+        "text": "NETFLIX",
+        "desc": "The streaming platform's logo in white text in the bottom right corner."
       }
     ]
   }

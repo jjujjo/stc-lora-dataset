@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A pair of worn, scuffed dark blue children's shoes resting on the window sill."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A small white overlay with Arabic text and a hashtag in the bottom right corner."
       }
     ]

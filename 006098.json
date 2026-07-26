@@ -5,16 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "The Kaaba, covered in black and white fabric with gold trim and decorative bands, positioned slightly off-center."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A massive crowd of pilgrims wearing white clothing, filling the courtyard around the Kaaba."
       },
       {
         "type": "text",
-        "desc": "White caption text at the bottom of the image.",
-        "text": "And blessed are the souls that long for it"
+        "text": "And blessed are the souls that long for it",
+        "desc": "White caption text at the bottom of the image."
       }
     ]
   }

@@ -5,6 +5,7 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A black wireframe drone shaped as a regular icosahedron with 20 triangular faces, four propellers with blue and red LED lights mounted at its vertices, constructed from thin black metal rods and joints."
       }
     ]

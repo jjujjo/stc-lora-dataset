@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A speaker wearing a red and white checkered keffiyeh and a beige thobe, gesturing with their left hand raised, a purple lanyard around their neck."
       },
       {
         "type": "text",
-        "desc": "White conference title text at the top of the frame.",
-        "text": "future of comm"
+        "text": "future of comm",
+        "desc": "White conference title text at the top of the frame."
       }
     ]
   }

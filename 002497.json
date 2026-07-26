@@ -5,16 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern man wearing a black graphic t-shirt, reclining on a tan leather couch with a contemplative expression."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A clear plastic water bottle on a dark surface in front of him."
       },
       {
         "type": "text",
-        "desc": "Arabic caption text at the bottom of the frame.",
-        "text": "جاني اتصال قبل شوي وكنت للسفر"
+        "text": "جاني اتصال قبل شوي وكنت للسفر",
+        "desc": "Arabic caption text at the bottom of the frame."
       }
     ]
   }

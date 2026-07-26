@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Four evenly spaced dark purple circles arranged in a vertical line on the left, casting shadows on the pink surface."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A single white rectangular shape with rounded corners, partially cut off on the right edge of the frame."
       }
     ]

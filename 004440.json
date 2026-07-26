@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern man wearing a red and white checkered kufi headdress and a white thobe with red accents, neatly trimmed dark beard, shown in profile facing right."
       },
       {
         "type": "text",
-        "desc": "White Arabic name and title text in the top right corner.",
-        "text": "محمد المنتخب"
+        "text": "محمد المنتخب",
+        "desc": "White Arabic name and title text in the top right corner."
       },
       {
         "type": "text",
-        "desc": "English caption text at the bottom of the frame.",
-        "text": "identify trends in cyberspace, and notify the relevant authorities"
+        "text": "identify trends in cyberspace, and notify the relevant authorities",
+        "desc": "English caption text at the bottom of the frame."
       }
     ]
   }

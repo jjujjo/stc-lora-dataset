@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A man with short brown hair wearing a white and red jersey, shown in profile on the left."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A man with a distinctive mustache and beard wearing a red jersey, shown in profile on the right, facing the other player."
       }
     ]

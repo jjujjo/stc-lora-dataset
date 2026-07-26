@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A large illuminated purple sign with Arabic text hanging on the wall."
       },
       {
         "type": "text",
-        "desc": "The illuminated wall sign text.",
-        "text": "قطاف"
+        "text": "قطاف",
+        "desc": "The illuminated wall sign text."
       },
       {
         "type": "text",
-        "desc": "Reward point values shown in yellow and purple boxes at the bottom of the image.",
-        "text": "34,500 / 2,500 / 20,000 / 3,000"
+        "text": "34,500 / 2,500 / 20,000 / 3,000",
+        "desc": "Reward point values shown in yellow and purple boxes at the bottom of the image."
       }
     ]
   }

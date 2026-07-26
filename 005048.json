@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Sweeping curved tiers of red plastic stadium seating rising toward the roof."
       },
       {
         "type": "text",
-        "desc": "White text visible on the red seating.",
-        "text": "MAN utd"
+        "text": "MAN utd",
+        "desc": "White text visible on the red seating."
       }
     ]
   }

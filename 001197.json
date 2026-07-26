@@ -5,16 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A man wearing a white polo shirt with a fingerprint design printed on the back, shown in profile."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A man wearing a royal blue jacket, standing beside him."
       },
       {
         "type": "text",
-        "desc": "Arabic text printed on the back of the white polo shirt.",
-        "text": "وثق رقمك بصمتك"
+        "text": "وثق رقمك بصمتك",
+        "desc": "Arabic text printed on the back of the white polo shirt."
       }
     ]
   }

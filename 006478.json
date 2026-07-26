@@ -5,8 +5,8 @@
     "elements": [
       {
         "type": "text",
-        "desc": "White Arabic text centered in the image.",
-        "text": "اليوم العالمي لتجربة العميل"
+        "text": "اليوم العالمي لتجربة العميل",
+        "desc": "White Arabic text centered in the image."
       }
     ]
   }

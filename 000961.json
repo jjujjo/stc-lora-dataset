@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern male presenter wearing a white thobe and red and white checkered shemagh, holding papers in both hands at waist level, wearing a black microphone."
       },
       {
         "type": "text",
-        "desc": "The stc logo in blue on the left side of the frame.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "The stc logo in blue on the left side of the frame."
       },
       {
         "type": "text",
-        "desc": "Large white anniversary number on the red backdrop.",
-        "text": "20"
+        "text": "20",
+        "desc": "Large white anniversary number on the red backdrop."
       }
     ]
   }

@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A man wearing a dark gray suit and light blue striped dress shirt, speaking to the camera."
       },
       {
         "type": "text",
-        "desc": "Purple Arabic text on a white banner in the upper right corner.",
-        "text": "بَتَال القوَس"
+        "text": "بَتَال القوَس",
+        "desc": "Purple Arabic text on a white banner in the upper right corner."
       }
     ]
   }

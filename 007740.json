@@ -5,21 +5,23 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A single white Wi-Fi router with curved edges and blue LED indicators on the left panel."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "Three white Wi-Fi devices, two routers and a mesh extender, arranged in a row on the right panel."
       },
       {
         "type": "text",
-        "desc": "White Arabic text at the top of the right panel.",
-        "text": "بافة بيتي"
+        "text": "بافة بيتي",
+        "desc": "White Arabic text at the top of the right panel."
       },
       {
         "type": "text",
-        "desc": "White Arabic text at the bottom of the right panel.",
-        "text": "سمارت واي فاي"
+        "text": "سمارت واي فاي",
+        "desc": "White Arabic text at the bottom of the right panel."
       }
     ]
   }

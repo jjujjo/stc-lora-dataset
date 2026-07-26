@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A smartphone camera module with a metallic purple gradient finish, multiple circular lenses arranged diagonally, shown at a slight angle."
       },
       {
         "type": "text",
-        "desc": "Arabic label text in the top left corner.",
-        "text": "الكاميرا"
+        "text": "الكاميرا",
+        "desc": "Arabic label text in the top left corner."
       }
     ]
   }

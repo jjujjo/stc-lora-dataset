@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A bearded Middle Eastern man wearing a mint green button-up shirt, looking down at a computer screen with a focused expression."
       },
       {
         "type": "text",
-        "desc": "A semi-transparent white banner with black promotional text at the bottom of the image.",
-        "text": "stc's 5G Office services deliver that power to your business"
+        "text": "stc's 5G Office services deliver that power to your business",
+        "desc": "A semi-transparent white banner with black promotional text at the bottom of the image."
       }
     ]
   }

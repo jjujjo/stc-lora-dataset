@@ -5,20 +5,23 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A man standing, wearing a white traditional robe."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A man seated in a tan upholstered armchair."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A TV stand with electronic equipment visible in the background."
       },
       {
         "type": "text",
-        "desc": "A greeting text overlay at the bottom of the frame.",
-        "text": "hey there"
+        "text": "hey there",
+        "desc": "A greeting text overlay at the bottom of the frame."
       }
     ]
   }

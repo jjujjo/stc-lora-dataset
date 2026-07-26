@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A piece of golden-yellow honeycomb with a hexagonal pattern, held at an angle with a thin translucent stream of honey dripping downward."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A small yellow logo in the bottom left corner."
       }
     ]

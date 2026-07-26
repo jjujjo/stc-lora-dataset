@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A silhouetted figure standing with their back to the camera, dark against the glowing orange-white hot air balloon."
       },
       {
         "type": "text",
-        "desc": "Arabic and English text on the illuminated balloon.",
-        "text": "بستان الطوورة / winter at thoura"
+        "text": "بستان الطوورة / winter at thoura",
+        "desc": "Arabic and English text on the illuminated balloon."
       },
       {
         "type": "text",
-        "desc": "White promotional text in the top left corner.",
-        "text": "Powered by stc 5G"
+        "text": "Powered by stc 5G",
+        "desc": "White promotional text in the top left corner."
       }
     ]
   }

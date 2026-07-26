@@ -5,14 +5,17 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A glass high-rise building with a grid-like pattern of windows reflecting the sky."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A contemporary white angular structure with clean geometric lines and floor-to-ceiling windows."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A large green palm tree in the foreground, its fronds catching the sunlight."
       }
     ]

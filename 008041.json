@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A weathered military aircraft fuselage in faded olive green, with detached tail and wing sections scattered nearby, showing rust and battle damage."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A small yellow location marker icon in the bottom left corner."
       }
     ]

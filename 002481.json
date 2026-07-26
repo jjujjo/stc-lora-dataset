@@ -5,22 +5,23 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A pair of hands wearing a dark sleeve, holding an iPhone 14 Pro."
       },
       {
         "type": "text",
-        "desc": "The app header on the phone screen.",
-        "text": "Padel Double"
+        "text": "Padel Double",
+        "desc": "The app header on the phone screen."
       },
       {
         "type": "text",
-        "desc": "Booking details shown on the screen.",
-        "text": "Court 2 / Mon 23 - 4:00 PM to 6:00 PM / 350.00 SAR"
+        "text": "Court 2 / Mon 23 - 4:00 PM to 6:00 PM / 350.00 SAR",
+        "desc": "Booking details shown on the screen."
       },
       {
         "type": "text",
-        "desc": "Arabic button text at the bottom of the screen.",
-        "text": "احجز ملعب بادل"
+        "text": "احجز ملعب بادل",
+        "desc": "Arabic button text at the bottom of the screen."
       }
     ]
   }

@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern man wearing a light pink button-up shirt and red-tinted aviator sunglasses, seated centrally."
       },
       {
         "type": "text",
-        "desc": "Large purple Arabic text at the top right of the wall.",
-        "text": "مهماني"
+        "text": "مهماني",
+        "desc": "Large purple Arabic text at the top right of the wall."
       },
       {
         "type": "text",
-        "desc": "Black text below it.",
-        "text": "بح مع سوا / Bei Saw"
+        "text": "بح مع سوا / Bei Saw",
+        "desc": "Black text below it."
       }
     ]
   }

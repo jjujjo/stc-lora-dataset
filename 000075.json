@@ -5,18 +5,22 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A cyclist in the center wearing a red and beige windbreaker jacket, black cycling pants, and a gray helmet."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A cyclist on the left wearing a light gray jacket and black helmet."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A cyclist on the right wearing a purple jacket and black helmet."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "Three modern mountain bikes ridden by the cyclists, all wearing protective gloves."
       }
     ]

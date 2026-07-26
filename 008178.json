@@ -5,16 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A young man wearing a black and white checkered button-up shirt and a dark cardigan, seated at a dark wooden desk with a glass of water and a tablet."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A white teddy bear and several small figurines on the desk."
       },
       {
         "type": "text",
-        "desc": "A show title logo in red text on the right side of the frame.",
-        "text": "STRANGER THINGS"
+        "text": "STRANGER THINGS",
+        "desc": "A show title logo in red text on the right side of the frame."
       }
     ]
   }

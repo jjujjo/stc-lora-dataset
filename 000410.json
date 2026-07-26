@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A large illuminated digital billboard showing a figure in a light-colored outfit sitting in a contemplative pose against a dark blue background."
       },
       {
         "type": "text",
-        "desc": "The stc logo displayed in white text on the digital billboard.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "The stc logo displayed in white text on the digital billboard."
       }
     ]
   }

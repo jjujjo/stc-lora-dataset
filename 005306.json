@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern man wearing a white thobe, a red and white checkered kuffiyeh, and black-rimmed glasses, wearing a small black lapel microphone."
       },
       {
         "type": "text",
-        "desc": "A semi-transparent white and pink caption overlay in the bottom right corner.",
-        "text": ""
+        "text": "",
+        "desc": "A semi-transparent white and pink caption overlay in the bottom right corner."
       }
     ]
   }

@@ -5,22 +5,23 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A dark purple 3D scratch card with white edges and a white rectangular scratch-off area in the center."
       },
       {
         "type": "text",
-        "desc": "The scratch-off code displayed in purple text.",
-        "text": "80237463275477"
+        "text": "80237463275477",
+        "desc": "The scratch-off code displayed in purple text."
       },
       {
         "type": "text",
-        "desc": "English and Arabic label text above the code.",
-        "text": "Scratch area / منطقة الكشط"
+        "text": "Scratch area / منطقة الكشط",
+        "desc": "English and Arabic label text above the code."
       },
       {
         "type": "text",
-        "desc": "White Arabic text at the bottom of the image.",
-        "text": "والبطاقة تقول يا ساتر"
+        "text": "والبطاقة تقول يا ساتر",
+        "desc": "White Arabic text at the bottom of the image."
       }
     ]
   }

@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Two connected train cars with large rectangular red-painted doors, small windows, and gray ventilation units on top."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A person wearing a long brown coat entering through the left door."
       }
     ]

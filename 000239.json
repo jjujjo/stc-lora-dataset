@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A beige-colored pavilion with a tall central spire and a colonnade of arched columns supporting a flat roof."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A geometric rectangular water feature in the foreground, reflecting the pavilion and surrounding structures, connected by a curved concrete pathway."
       }
     ]

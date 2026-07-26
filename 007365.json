@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A silhouetted figure wearing a black baseball cap and dark jacket, viewed from behind."
       },
       {
         "type": "text",
-        "desc": "White promotional text at the top of the image.",
-        "text": "a brand new level"
+        "text": "a brand new level",
+        "desc": "White promotional text at the top of the image."
       }
     ]
   }

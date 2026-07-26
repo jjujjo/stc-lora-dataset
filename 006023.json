@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A young man wearing a yellow button-up shirt over a white t-shirt, seated at a desk with a tablet device and coffee mug."
       },
       {
         "type": "text",
-        "desc": "Review rating overlays on the image.",
-        "text": "2014 - / 91% / IMDb 7.8"
+        "text": "2014 - / 91% / IMDb 7.8",
+        "desc": "Review rating overlays on the image."
       }
     ]
   }

@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern woman wearing a black and white modern abaya, standing with hands clasped in front of her."
       },
       {
         "type": "text",
-        "desc": "White text displayed on a purple-lit wall in the background.",
-        "text": "قصص التقدم / forward stories"
+        "text": "قصص التقدم / forward stories",
+        "desc": "White text displayed on a purple-lit wall in the background."
       }
     ]
   }

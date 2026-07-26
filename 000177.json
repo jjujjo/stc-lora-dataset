@@ -5,26 +5,28 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern woman wearing a red jacket, white shirt, and a light-colored headscarf, holding a purple laptop."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "Various kitchen items visible on the counter, including a bowl."
       },
       {
         "type": "text",
-        "desc": "The stc brand logo displayed on the purple laptop.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "The stc brand logo displayed on the purple laptop."
       },
       {
         "type": "text",
-        "desc": "Arabic promotional text in the upper right corner of the frame.",
-        "text": "وأحسن أسعار"
+        "text": "وأحسن أسعار",
+        "desc": "Arabic promotional text in the upper right corner of the frame."
       },
       {
         "type": "text",
-        "desc": "English promotional text at the bottom of the frame.",
-        "text": "best prices"
+        "text": "best prices",
+        "desc": "English promotional text at the bottom of the frame."
       }
     ]
   }

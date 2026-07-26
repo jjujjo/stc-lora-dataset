@@ -5,14 +5,17 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A MacBook laptop surrounded by scattered papers, documents, and photographs."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A magazine and a coffee mug placed among the documents."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A piece of red-and-white promotional material lying among the workspace items."
       }
     ]

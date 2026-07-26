@@ -5,21 +5,23 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Multiple interactive kiosks with purple and black digital displays arranged in rows, featuring sleek glass and metal construction."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "Visitors, including men and women wearing traditional Middle Eastern attire such as thobes and hijabs, filling the space."
       },
       {
         "type": "text",
-        "desc": "Ceiling-mounted white LED text display naming the exhibition.",
-        "text": "SIC"
+        "text": "SIC",
+        "desc": "Ceiling-mounted white LED text display naming the exhibition."
       },
       {
         "type": "text",
-        "desc": "Ceiling-mounted white LED text display describing the exhibition theme.",
-        "text": "sustainable innovation"
+        "text": "sustainable innovation",
+        "desc": "Ceiling-mounted white LED text display describing the exhibition theme."
       }
     ]
   }

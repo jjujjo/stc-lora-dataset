@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A person wearing a black hijab and a beige sleeve, holding a silver microphone in the foreground."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A man wearing a pink and white checkered keffiyeh and a dark jacket, seated in the passenger seat in the background."
       }
     ]

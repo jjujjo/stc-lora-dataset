@@ -5,16 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Musicians in formal black attire seated in rows, holding sheet music stands with blue-lit pages."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A male conductor in a dark suit standing at a raised podium, directing the orchestra."
       },
       {
         "type": "text",
-        "desc": "A white overlay with an Arabic hashtag in the bottom right corner.",
-        "text": "#شبكتنا1"
+        "text": "#شبكتنا1",
+        "desc": "A white overlay with an Arabic hashtag in the bottom right corner."
       }
     ]
   }

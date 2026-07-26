@@ -5,18 +5,18 @@
     "elements": [
       {
         "type": "text",
-        "desc": "Bold white Arabic headline centered across the image.",
-        "text": "للعام السادس على التوالي"
+        "text": "للعام السادس على التوالي",
+        "desc": "Bold white Arabic headline centered across the image."
       },
       {
         "type": "text",
-        "desc": "Smaller Arabic text below the headline naming the ranking source.",
-        "text": "2026 BRAND FINANCE GLOBAL 500"
+        "text": "2026 BRAND FINANCE GLOBAL 500",
+        "desc": "Smaller Arabic text below the headline naming the ranking source."
       },
       {
         "type": "text",
-        "desc": "Additional smaller Arabic text following the ranking source.",
-        "text": "وفقًا ل"
+        "text": "وفقًا ل",
+        "desc": "Additional smaller Arabic text following the ranking source."
       }
     ]
   }

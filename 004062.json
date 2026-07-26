@@ -5,16 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A woman wearing a black niqab and dark patterned traditional dress, gesturing with her hands while speaking, seated in a gray armchair on the left."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A man wearing a white thobe and glasses, seated in a relaxed pose holding papers, in a gray armchair on the right."
       },
       {
         "type": "text",
-        "desc": "The stc logo in the top left corner of the frame.",
-        "text": "stc"
+        "text": "stc",
+        "desc": "The stc logo in the top left corner of the frame."
       }
     ]
   }

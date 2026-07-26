@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Three figures silhouetted in the corridor, standing in the middle distance."
       },
       {
         "type": "text",
-        "desc": "Arabic text overlay describing the trip.",
-        "text": "زيارة رائعة في روسيا"
+        "text": "زيارة رائعة في روسيا",
+        "desc": "Arabic text overlay describing the trip."
       }
     ]
   }

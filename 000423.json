@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A blurred figure wearing a white shirt, visible in the background."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "Three centered lines of Arabic dialogue text, the first line larger and purple, the two following lines smaller and pink."
       }
     ]

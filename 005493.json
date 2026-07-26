@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A dark tower on the left and a white tower with a geometric triangular window pattern on the right, both prominent in the foreground."
       },
       {
         "type": "text",
-        "desc": "White Arabic text in the bottom right corner.",
-        "text": "من وسط"
+        "text": "من وسط",
+        "desc": "White Arabic text in the bottom right corner."
       }
     ]
   }

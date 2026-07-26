@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A driver gesturing with his hand while speaking, wearing a black t-shirt."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A passenger wearing a white cap and white shirt, looking intently at something."
       }
     ]

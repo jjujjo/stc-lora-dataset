@@ -5,16 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A young Black man wearing a black wetsuit, standing confidently and holding a dark green surfboard vertically."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A yellow diving tank and regulator equipment partially visible in the foreground."
       },
       {
         "type": "text",
-        "desc": "Text on the surfboard within a geometric white line design.",
-        "text": "LDM"
+        "text": "LDM",
+        "desc": "Text on the surfboard within a geometric white line design."
       }
     ]
   }

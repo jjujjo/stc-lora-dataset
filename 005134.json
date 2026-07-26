@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Hands positioned at an angle, fingers interacting with a smartphone screen."
       },
       {
         "type": "text",
-        "desc": "Green Arabic header text on the phone screen.",
-        "text": "نفاذ"
+        "text": "نفاذ",
+        "desc": "Green Arabic header text on the phone screen."
       },
       {
         "type": "text",
-        "desc": "Smaller Arabic text below the header.",
-        "text": "الدخول على النظام"
+        "text": "الدخول على النظام",
+        "desc": "Smaller Arabic text below the header."
       }
     ]
   }

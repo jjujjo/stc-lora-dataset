@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A Middle Eastern man wearing a white thobe, white shemagh, and a dark vest, with a conference lanyard featuring red elements, hands clasped together in thought."
       },
       {
         "type": "text",
-        "desc": "The company logo mounted on the wall behind him.",
-        "text": "STC business"
+        "text": "STC business",
+        "desc": "The company logo mounted on the wall behind him."
       }
     ]
   }

@@ -5,16 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A man with blonde-brown hair holding a mobile phone, wearing an olive green Manchester United training sweatshirt."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A man with short black hair laughing, wearing a matching olive green Manchester United training sweatshirt."
       },
       {
         "type": "text",
-        "desc": "A small logo watermark in the bottom right corner.",
-        "text": "STC"
+        "text": "STC",
+        "desc": "A small logo watermark in the bottom right corner."
       }
     ]
   }

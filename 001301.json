@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A young Middle Eastern man wearing a red t-shirt with 'PLAYER 1' text, seated at a desk with gaming figurines including a pink robot-like figure."
       },
       {
         "type": "text",
-        "desc": "A purple and white overlay logo and handle in the bottom left corner.",
-        "text": "iHaggas"
+        "text": "iHaggas",
+        "desc": "A purple and white overlay logo and handle in the bottom left corner."
       }
     ]
   }

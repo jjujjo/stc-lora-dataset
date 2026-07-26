@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Several people in white clothing walking through the tunnel, silhouetted against the illuminated walls."
       },
       {
         "type": "text",
-        "desc": "Large white text displayed on both sides of the tunnel.",
-        "text": "LEAP"
+        "text": "LEAP",
+        "desc": "Large white text displayed on both sides of the tunnel."
       }
     ]
   }

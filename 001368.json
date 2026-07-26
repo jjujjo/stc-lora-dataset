@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A young Middle Eastern man wearing a red t-shirt, seated at a gaming desk with a yellow coffee mug and several small figurines."
       },
       {
         "type": "text",
-        "desc": "A semi-transparent Arabic promotional overlay with a small purple house-symbol logo at the bottom of the frame.",
-        "text": "جرب فرق تحميل الألعاب مع باقات الفايبر"
+        "text": "جرب فرق تحميل الألعاب مع باقات الفايبر",
+        "desc": "A semi-transparent Arabic promotional overlay with a small purple house-symbol logo at the bottom of the frame."
       }
     ]
   }

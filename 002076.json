@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "An elderly Middle Eastern man wearing traditional white Arab clothing and a red and white checkered headdress, gesturing with his right hand raised while speaking animatedly."
       },
       {
         "type": "text",
-        "desc": "White caption text at the bottom of the frame.",
-        "text": "and they patiently show and explain Sehhaty and Absher on it."
+        "text": "and they patiently show and explain Sehhaty and Absher on it.",
+        "desc": "White caption text at the bottom of the frame."
       }
     ]
   }

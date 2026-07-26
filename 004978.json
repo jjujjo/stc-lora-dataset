@@ -5,21 +5,23 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A man wearing a red and navy color-blocked hoodie with sunglasses perched on his head, seated on the left."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A man wearing a navy blue hoodie and dark sunglasses, seated on the right."
       },
       {
         "type": "text",
-        "desc": "Branding text on the navy hoodie.",
-        "text": "STWD"
+        "text": "STWD",
+        "desc": "Branding text on the navy hoodie."
       },
       {
         "type": "text",
-        "desc": "White promotional text in the top left corner.",
-        "text": "Powered by stc 5G"
+        "text": "Powered by stc 5G",
+        "desc": "White promotional text in the top left corner."
       }
     ]
   }

@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Hands holding a pen, writing on white papers on the desk."
       },
       {
         "type": "text",
-        "desc": "Text visible on one of the documents on the desk.",
-        "text": "WALKING DEAD"
+        "text": "WALKING DEAD",
+        "desc": "Text visible on one of the documents on the desk."
       }
     ]
   }

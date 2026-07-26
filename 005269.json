@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A silhouetted figure wearing a VR headset, shown in profile, touching a virtual interface screen on the purple side."
       },
       {
         "type": "text",
-        "desc": "White Arabic wordmark text on the pink side.",
-        "text": "بليس"
+        "text": "بليس",
+        "desc": "White Arabic wordmark text on the pink side."
       }
     ]
   }

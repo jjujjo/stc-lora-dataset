@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Dark brown rectangular photovoltaic cells arranged in a grid pattern with a metallic sheen."
       },
       {
         "type": "text",
-        "desc": "Arabic caption text at the bottom of the image in a thin elegant font.",
-        "text": "ستقوم سارة بالتحول في المناطق التالية"
+        "text": "ستقوم سارة بالتحول في المناطق التالية",
+        "desc": "Arabic caption text at the bottom of the image in a thin elegant font."
       }
     ]
   }

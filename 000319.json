@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A driver wearing a black t-shirt with a beard, seated behind the steering wheel."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A passenger wearing a white shirt, seated in the passenger seat."
       }
     ]

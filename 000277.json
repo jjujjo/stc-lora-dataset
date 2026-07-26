@@ -5,20 +5,23 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A man wearing a white thobe and red and white checkered shemagh, gesturing with his hands while speaking."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A man wearing a white thobe and red and white checkered shemagh, listening."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A large digital display screen showing a purple-tinted retail store interior."
       },
       {
         "type": "text",
-        "desc": "Text visible in the upper portion of the display screen.",
-        "text": "BIC"
+        "text": "BIC",
+        "desc": "Text visible in the upper portion of the display screen."
       }
     ]
   }

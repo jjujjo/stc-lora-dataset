@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A young man wearing a brown and black plaid button-up shirt, seated at a black gaming desk with a yellow cube-shaped mascot toy and a small red mascot toy."
       },
       {
         "type": "text",
-        "desc": "Neon signage on the wall.",
-        "text": "Level Up"
+        "text": "Level Up",
+        "desc": "Neon signage on the wall."
       }
     ]
   }

@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A bearded man wearing a white traditional thobe and headdress, wearing a lanyard with credentials, gesturing with his right hand while speaking."
       },
       {
         "type": "text",
-        "desc": "White text at the top of the pink wall.",
-        "text": "360 EXPERIENCE"
+        "text": "360 EXPERIENCE",
+        "desc": "White text at the top of the pink wall."
       }
     ]
   }

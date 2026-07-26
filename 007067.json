@@ -5,14 +5,17 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A young man in a black bow tie and white dress shirt, drinking from a glass, shot in close-up."
       },
       {
         "type": "text",
+        "text": "",
         "desc": "An Arabic subtitle caption displayed at the bottom of the screen."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A small blue logo watermark in the top left corner of the screen."
       }
     ]

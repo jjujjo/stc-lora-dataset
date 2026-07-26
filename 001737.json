@@ -5,22 +5,23 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A figure in a flowing white dress, standing with their back to the camera, silhouetted against the illuminated building."
       },
       {
         "type": "text",
-        "desc": "The event name in white capital letters on the right side of the frame.",
-        "text": "ANA ARABIA"
+        "text": "ANA ARABIA",
+        "desc": "The event name in white capital letters on the right side of the frame."
       },
       {
         "type": "text",
-        "desc": "The venue name in pink text below the event title.",
-        "text": "VIA Riyadh"
+        "text": "VIA Riyadh",
+        "desc": "The venue name in pink text below the event title."
       },
       {
         "type": "text",
-        "desc": "The event dates in white text below the venue name.",
-        "text": "2-8 nov 2025"
+        "text": "2-8 nov 2025",
+        "desc": "The event dates in white text below the venue name."
       }
     ]
   }

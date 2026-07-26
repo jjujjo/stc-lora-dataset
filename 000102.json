@@ -5,25 +5,28 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Two Western men in business suits standing behind two bright red podiums in the center."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "Several Middle Eastern men wearing traditional Saudi thobes and ghutras standing to the left and right."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "Additional attendees and photographers partially visible at the edges of the frame."
       },
       {
         "type": "text",
-        "desc": "A repeating logo pattern across the event backdrop.",
-        "text": "upsouce"
+        "text": "upsouce",
+        "desc": "A repeating logo pattern across the event backdrop."
       },
       {
         "type": "text",
-        "desc": "A repeating logo pattern across the event backdrop, alternating with the other sponsor logo.",
-        "text": "cognizant"
+        "text": "cognizant",
+        "desc": "A repeating logo pattern across the event backdrop, alternating with the other sponsor logo."
       }
     ]
   }

@@ -5,12 +5,13 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "Layered sedimentary rock formations with deep crevices, ridges, and natural sculptural shapes."
       },
       {
         "type": "text",
-        "desc": "White Arabic text centered in the image.",
-        "text": "المنطقة الشرقية"
+        "text": "المنطقة الشرقية",
+        "desc": "White Arabic text centered in the image."
       }
     ]
   }

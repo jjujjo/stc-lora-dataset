@@ -5,10 +5,12 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A classic chrome faucet with a curved spout and black lever handle, mounted on a circular metal flange."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A blurred hand reaching toward the faucet from the bottom of the frame."
       }
     ]

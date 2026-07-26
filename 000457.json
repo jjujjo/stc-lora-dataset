@@ -5,17 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A light gray vintage brick-shaped mobile phone with a single antenna, a speaker grille, and a numeric keypad with white numbers on gray buttons."
       },
       {
         "type": "text",
-        "desc": "Arabic text in purple on the right side of the illustration.",
-        "text": "الو؟ الو؟"
+        "text": "الو؟ الو؟",
+        "desc": "Arabic text in purple on the right side of the illustration."
       },
       {
         "type": "text",
-        "desc": "A caption in a gray text box at the bottom of the illustration.",
-        "text": "'Hello... Hamid"
+        "text": "'Hello... Hamid",
+        "desc": "A caption in a gray text box at the bottom of the illustration."
       }
     ]
   }

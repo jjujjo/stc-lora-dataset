@@ -5,16 +5,18 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A middle-aged man wearing a black polo shirt, seated at a desk, gesturing with his hand."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A large computer monitor behind him displaying a split-screen video call with five participants, three men and two women, arranged horizontally."
       },
       {
         "type": "text",
-        "desc": "Arabic text centered on the video call interface.",
-        "text": "متجدد"
+        "text": "متجدد",
+        "desc": "Arabic text centered on the video call interface."
       }
     ]
   }

@@ -5,36 +5,38 @@
     "elements": [
       {
         "type": "obj",
+        "text": "",
         "desc": "A red 'Subscribe' button with a play symbol on the left and a notification bell symbol on the right."
       },
       {
         "type": "obj",
+        "text": "",
         "desc": "A white rounded rectangle at the bottom containing purple social media icons."
       },
       {
         "type": "text",
-        "desc": "Purple Arabic call-to-action text at the top of the interface.",
-        "text": "تابع جدينا عن طريق الاشتراك في القناة"
+        "text": "تابع جدينا عن طريق الاشتراك في القناة",
+        "desc": "Purple Arabic call-to-action text at the top of the interface."
       },
       {
         "type": "text",
-        "desc": "Twitter handle in the bottom social media row.",
-        "text": "@stc_ksa"
+        "text": "@stc_ksa",
+        "desc": "Twitter handle in the bottom social media row."
       },
       {
         "type": "text",
-        "desc": "Instagram handle in the bottom social media row.",
-        "text": "stc_ksa"
+        "text": "stc_ksa",
+        "desc": "Instagram handle in the bottom social media row."
       },
       {
         "type": "text",
-        "desc": "LinkedIn handle in the bottom social media row.",
-        "text": "stcnow"
+        "text": "stcnow",
+        "desc": "LinkedIn handle in the bottom social media row."
       },
       {
         "type": "text",
-        "desc": "Facebook handle in the bottom social media row.",
-        "text": "stc.ksa"
+        "text": "stc.ksa",
+        "desc": "Facebook handle in the bottom social media row."
       }
     ]
   }
