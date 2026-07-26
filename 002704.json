@@ -5,12 +5,10 @@
     "elements": [
       {
         "type": "obj",
-        "text": "",
         "desc": "A red 'Subscribe' button with a play symbol on the left and a notification bell symbol on the right."
       },
       {
         "type": "obj",
-        "text": "",
         "desc": "A white rounded rectangle at the bottom containing purple social media icons."
       },
       {

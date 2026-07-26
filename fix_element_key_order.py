@@ -1,18 +1,18 @@
 #!/usr/bin/env python3
-"""Fix compositional_deconstruction.elements key order/missing 'text' in caption JSON files.
+"""Fix compositional_deconstruction.elements to match musubi_tuner's CaptionVerifier rules.
 
-Musubi Tuner's Ideogram 4 caption verifier expects each element dict to have
-keys in the exact order: "type", "text", "desc". This script scans every
-per-image caption JSON in the dataset directory and:
-  - adds "text": "" where missing
-  - reorders keys to exactly type, text, desc (any extra keys kept after, in
-    their original relative order)
+Source of truth: musubi_tuner/ideogram4/caption_verifier.py (CaptionVerifier class).
+  - type == "obj":  expected key order is (type, [bbox], desc, [color_palette])
+                    -> "text" is NEVER allowed on obj elements.
+  - type == "text": expected key order is (type, [bbox], text, desc, [color_palette])
+                    -> "text" is required, placed after bbox (if present) and before desc.
+  bbox / color_palette are optional and only checked when actually present.
 
-Only files whose top-level shape matches the expected schema
-(compositional_deconstruction.elements) are touched; other JSON files
-(e.g. import_data.json, dataset_ready.json) are skipped and reported
-separately. Run with --dry-run first (default); pass --apply to write
-changes, which also makes a full backup of the dataset directory first.
+This corrects an earlier version of this script that added "text": "" to every
+element regardless of type, which is invalid for "obj" elements.
+
+Run with --dry-run first (default); pass --apply to write changes, which also
+makes a full backup of the dataset directory first.
 """
 
 import argparse
@@ -22,69 +22,93 @@ import sys
 from pathlib import Path
 
 DATASET_DIR = Path(__file__).resolve().parent
-BACKUP_DIR = DATASET_DIR.parent / "stc-lora-dataset_backup"
+BACKUP_DIR = DATASET_DIR.parent / "stc-lora-dataset_backup_v2"
 
-REQUIRED_ORDER = ["type", "text", "desc"]
+ORDER_OBJ = ["type", "bbox", "desc", "color_palette"]
+ORDER_TEXT = ["type", "bbox", "text", "desc", "color_palette"]
 
 
-def fix_element(element: dict) -> tuple[dict, bool, bool]:
-    """Return (new_element, text_was_added, was_reordered)."""
-    text_added = "text" not in element
-    working = dict(element)
-    if text_added:
-        working["text"] = ""
+def fix_element(element: dict) -> tuple[dict, str]:
+    """Return (new_element, action) where action in
+    {"unchanged", "removed_text", "added_text", "reordered_only"}."""
+    elem_type = element.get("type")
+
+    if elem_type == "obj":
+        expected_order = ORDER_OBJ
+        working = dict(element)
+        removed_text = "text" in working
+        working.pop("text", None)
+    elif elem_type == "text":
+        expected_order = ORDER_TEXT
+        working = dict(element)
+        removed_text = False
+        if "text" not in working:
+            working["text"] = ""
+    else:
+        # Unknown/missing type: leave completely untouched, flagged separately.
+        return element, "unknown_type"
 
     original_keys = list(element.keys())
-    new_keys = [k for k in REQUIRED_ORDER if k in working]
-    extra_keys = [k for k in working if k not in REQUIRED_ORDER]
-    ordered_keys = new_keys + extra_keys
+
+    ordered_keys = [k for k in expected_order if k in working]
+    extra_keys = [k for k in working if k not in expected_order]
+    ordered_keys += extra_keys
 
     new_element = {k: working[k] for k in ordered_keys}
-    was_reordered = (not text_added) and (original_keys != ordered_keys)
 
-    return new_element, text_added, was_reordered
+    if elem_type == "obj" and removed_text:
+        action = "removed_text"
+    elif elem_type == "text" and "text" not in original_keys:
+        action = "added_text"
+    elif original_keys != ordered_keys:
+        action = "reordered_only"
+    else:
+        action = "unchanged"
+
+    return new_element, action
 
 
 def process_file(path: Path):
-    """Return (new_data_or_None, text_added_count, reordered_count, is_target_schema)."""
+    """Return (new_data_or_None, counts_dict, is_target_schema, unknown_type_flag)."""
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
     except (json.JSONDecodeError, UnicodeDecodeError):
-        return None, 0, 0, False
+        return None, {}, False, False
 
     if not isinstance(data, dict):
-        return None, 0, 0, False
+        return None, {}, False, False
 
     cd = data.get("compositional_deconstruction")
     if not isinstance(cd, dict) or "elements" not in cd or not isinstance(cd["elements"], list):
-        return None, 0, 0, False
+        return None, {}, False, False
 
-    text_added_count = 0
-    reordered_count = 0
+    counts = {"removed_text": 0, "added_text": 0, "reordered_only": 0}
     changed = False
+    unknown_type = False
     new_elements = []
 
     for element in cd["elements"]:
         if not isinstance(element, dict):
             new_elements.append(element)
             continue
-        new_element, text_added, was_reordered = fix_element(element)
-        if text_added:
-            text_added_count += 1
-            changed = True
-        elif was_reordered:
-            reordered_count += 1
+        new_element, action = fix_element(element)
+        if action == "unknown_type":
+            unknown_type = True
+            new_elements.append(element)
+            continue
+        if action != "unchanged":
+            counts[action] += 1
             changed = True
         new_elements.append(new_element)
 
     if not changed:
-        return None, 0, 0, True
+        return None, counts, True, unknown_type
 
     new_data = dict(data)
     new_cd = dict(cd)
     new_cd["elements"] = new_elements
     new_data["compositional_deconstruction"] = new_cd
-    return new_data, text_added_count, reordered_count, True
+    return new_data, counts, True, unknown_type
 
 
 def main():
@@ -98,39 +122,59 @@ def main():
     total_scanned = 0
     total_modified = 0
     total_skipped_non_target = 0
-    total_text_added = 0
+    total_removed_text = 0
+    total_added_text = 0
     total_reordered_only = 0
+    unknown_type_files = []
     examples = []
     to_write = []
 
     for path in json_files:
         total_scanned += 1
-        new_data, text_added, reordered, is_target = process_file(path)
+        new_data, counts, is_target, unknown_type = process_file(path)
 
         if not is_target:
             total_skipped_non_target += 1
             continue
 
+        if unknown_type:
+            unknown_type_files.append(path.name)
+
         if new_data is None:
-            continue  # target schema, but nothing needed fixing
+            continue
 
         total_modified += 1
-        total_text_added += text_added
-        total_reordered_only += reordered
+        total_removed_text += counts["removed_text"]
+        total_added_text += counts["added_text"]
+        total_reordered_only += counts["reordered_only"]
         to_write.append((path, new_data))
 
-        if len(examples) < args.show_examples:
+        if len(examples) < args.show_examples and counts["removed_text"] > 0:
+            original = json.loads(path.read_text(encoding="utf-8"))
+            examples.append((path.name, original, new_data))
+
+    # Ensure we show at least a few examples even if none had removed_text
+    if len(examples) < args.show_examples:
+        for path, new_data in to_write:
+            if len(examples) >= args.show_examples:
+                break
+            if path.name in [e[0] for e in examples]:
+                continue
             original = json.loads(path.read_text(encoding="utf-8"))
             examples.append((path.name, original, new_data))
 
     print("=" * 60)
-    print(f"{'DRY RUN' if not args.apply else 'APPLY'} - element key-order fix")
+    print(f"{'DRY RUN' if not args.apply else 'APPLY'} - element key-order fix v2 (type-aware)")
     print("=" * 60)
     print(f"Total JSON files scanned:        {total_scanned}")
     print(f"Skipped (not target schema):     {total_skipped_non_target}")
     print(f"Files that would be modified:    {total_modified}")
-    print(f"Elements with 'text' added:      {total_text_added}")
-    print(f"Elements reordered only:         {total_reordered_only}")
+    print(f"'text' removed from obj elements:{total_removed_text:>6}")
+    print(f"'text' added to text elements:   {total_added_text:>6}")
+    print(f"Elements reordered only:         {total_reordered_only:>6}")
+    print(f"Files with unknown element type: {len(unknown_type_files)}")
+    for name in unknown_type_files:
+        print(f"  - {name}")
     print()
 
     if not args.apply:

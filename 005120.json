@@ -5,12 +5,10 @@
     "elements": [
       {
         "type": "obj",
-        "text": "",
         "desc": "A purple and pink interface mockup showing a movie title header, a play button, navigation menu, and a grid of video thumbnails with purple play buttons."
       },
       {
         "type": "obj",
-        "text": "",
         "desc": "A secondary panel on the right with purple and white sections containing navigation icons and video playback controls."
       }
     ]

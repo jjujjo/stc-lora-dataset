@@ -5,12 +5,10 @@
     "elements": [
       {
         "type": "obj",
-        "text": "",
         "desc": "A young man in a coral-colored button-up shirt over a gray t-shirt, seated at a dark wooden desk, gesturing with both hands while speaking."
       },
       {
         "type": "obj",
-        "text": "",
         "desc": "A white teddy bear, a black tablet, and a silver coffee mug on the desk."
       },
       {
@@ -20,7 +18,6 @@
       },
       {
         "type": "obj",
-        "text": "",
         "desc": "A purple YouTube play-button icon in the bottom left corner."
       }
     ]
