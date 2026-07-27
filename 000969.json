@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, an stc spokesperson testimonial shot of a Saudi man in traditional dress speaking to camera against a plain studio backdrop.",
+  "compositional_deconstruction": {
+    "background": "A plain light grey studio backdrop with soft diagonal light streaks, giving a clean, minimal broadcast-interview look.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A Saudi man wearing a white thobe and a red-and-white checkered ghutra secured with a black agal, mid-sentence with an animated expression, a small lavalier microphone clipped to his collar."
+      },
+      {
+        "type": "obj",
+        "desc": "A purple stc-branded badge with a pen clipped to the man's chest pocket, alongside a visible identification lanyard."
+      },
+      {
+        "type": "text",
+        "text": "عبدالرحمن الدوسري - stc KSA",
+        "desc": "A white lower-third caption bar in the bottom right identifying the speaker by name and affiliation."
+      }
+    ]
+  }
+}
