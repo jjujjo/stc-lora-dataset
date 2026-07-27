@@ -1,16 +1,20 @@
 {
-  "high_level_description": "stc brand style, an ad graphic of a phone displaying an stc contact-verification screen, layered with bold Arabic text over blurred nightlife bokeh lighting.",
+  "high_level_description": "stc brand style, an ad graphic showing stc wifi router units beside bold white Arabic text advertising a smart wifi home package.",
   "compositional_deconstruction": {
-    "background": "A background split between solid deep purple on the left and blurred purple and pink bokeh string lights on the right.",
+    "background": "A background split between vivid pink-red on the left and deep purple on the right.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A hand holding a smartphone displaying a purple app screen asking how to contact the user, with a phone number field and dial pad."
+        "desc": "A single white stc-branded wifi router unit on the pink side."
+      },
+      {
+        "type": "obj",
+        "desc": "Three white stc-branded wifi router units arranged in a row on the purple side."
       },
       {
         "type": "text",
-        "text": "اختر رقم التواصل",
-        "desc": "Bold white and red Arabic text reading 'choose a contact number', repeated at different sizes."
+        "text": "باقة بيتي سمارت واي فاي",
+        "desc": "Bold white Arabic text reading 'My Home Smart WiFi package'."
       }
     ]
   }
