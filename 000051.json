@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man eating a chocolate bar while holding a dumbbell in a room lit with vivid pink lighting.",
+  "compositional_deconstruction": {
+    "background": "A room with dark curtains and a textured pink wall, split by dramatic pink and white diagonal lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a blue t-shirt, biting into a chocolate bar with one hand while curling a dumbbell with the other."
+      }
+    ]
+  }
+}

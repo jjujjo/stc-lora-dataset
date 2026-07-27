@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two Saudi businessmen descending an outdoor staircase past a green living wall, one carrying a leather briefcase.",
+  "compositional_deconstruction": {
+    "background": "An outdoor staircase beside a lush vertical garden wall, with warm and purple-toned architectural lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, walking down the stairs holding the railing."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, standing on the stairs holding a dark brown leather briefcase, smiling back at his colleague."
+      }
+    ]
+  }
+}

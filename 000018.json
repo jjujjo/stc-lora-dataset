@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, three Saudi colleagues discussing plans in a bright pink and white coworking space.",
+  "compositional_deconstruction": {
+    "background": "A bright coworking space with pink-toned walls, glass cubicles, and desks visible in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, seated at a round table."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, seated across from him at a desk with a monitor and keyboard, gesturing while talking."
+      }
+    ]
+  }
+}

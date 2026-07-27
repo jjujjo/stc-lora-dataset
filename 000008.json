@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a female engineer in a hard hat and safety vest holding an anemometer against a desert canyon backdrop lined with wind turbines.",
+  "compositional_deconstruction": {
+    "background": "A vast desert canyon landscape with sandstone cliffs, wind turbines, and a hazy purple-tinted sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a white hard hat, a black hijab, a high-visibility yellow safety vest over grey coveralls, holding up a handheld wind-speed anemometer."
+      }
+    ]
+  }
+}

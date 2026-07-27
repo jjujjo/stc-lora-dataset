@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a hand touching a glowing holographic financial chart projected above a tablet, with a stock monitor in the background.",
+  "compositional_deconstruction": {
+    "background": "A dim office desk at night lit with red and blue ambient lighting, a potted plant and keyboard visible.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A hand reaching toward a floating holographic display of blue bar charts, line graphs, and candlestick charts projected above a glowing tablet on the desk."
+      }
+    ]
+  }
+}

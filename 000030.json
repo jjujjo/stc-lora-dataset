@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, three Saudi colleagues in a purple-lit meeting room watching a woman present video content on a wall-mounted screen.",
+  "compositional_deconstruction": {
+    "background": "A purple-lit meeting room with a framed abstract poster, potted plants, and a wooden conference table with laptops and tea glasses.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Two men wearing white thobes and red-and-white checkered ghutras, seated at the table watching the screen."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a grey abaya and hijab, standing and pointing at a video streaming interface on the wall-mounted screen."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and red-and-white checkered ghutra, seated with his back to the camera, pointing toward the screen."
+      }
+    ]
+  }
+}

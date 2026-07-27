@@ -1,0 +1,13 @@
+{
+  "high_level_description": "stc brand style, a bold purple and red typographic ad graphic repeating an Arabic phrase asking if the viewer wants to buy an app subscription.",
+  "compositional_deconstruction": {
+    "background": "A solid deep purple background.",
+    "elements": [
+      {
+        "type": "text",
+        "text": "تبي تشتري تطبيق؟",
+        "desc": "Repeated rows of the same Arabic question in outlined text, with the center row filled solid red for emphasis."
+      }
+    ]
+  }
+}

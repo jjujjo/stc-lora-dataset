@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a purple-lit product photo of an stc wifi router on a marble console table beside a television and a lamp.",
+  "compositional_deconstruction": {
+    "background": "A softly lit living room console table in dark marble, with a television and a decorative lamp, lit with purple and pink tones.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A white stc-branded wifi router with a purple logo, standing upright on the console table next to a small black set-top box."
+      },
+      {
+        "type": "text",
+        "text": "قوي .. سرعته مجنونه",
+        "desc": "Bold white Arabic text reading 'powerful, its speed is crazy' beside the router."
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, three men mountain biking through a desert canyon, wearing helmets and colorful windbreaker jackets.",
+  "compositional_deconstruction": {
+    "background": "A vast sandy desert canyon landscape under a bright blue sky with scattered clouds.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man in the foreground wearing a red and beige jacket and a grey helmet, standing over his bicycle."
+      },
+      {
+        "type": "obj",
+        "desc": "A man on the left wearing a beige and black jacket, sunglasses, and a helmet, riding a yellow bicycle."
+      },
+      {
+        "type": "obj",
+        "desc": "A man on the right wearing a purple jacket and a helmet, riding a white bicycle."
+      }
+    ]
+  }
+}

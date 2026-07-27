@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a woman in a dark abaya standing at a desk using a laptop in a modern office with a green living wall.",
+  "compositional_deconstruction": {
+    "background": "A modern office with a monitor, a green plant wall, and wooden shelves in the background, lit with a red-toned accent.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a black hijab and a dark pleated abaya, standing at a desk and typing on a laptop while looking at the screen."
+      }
+    ]
+  }
+}

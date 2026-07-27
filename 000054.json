@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a hand holding a smartphone displaying a purple telecom app inside a luxury car interior.",
+  "compositional_deconstruction": {
+    "background": "The beige leather interior of a car, showing the steering wheel and headrest softly out of focus.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A hand holding a smartphone showing a purple app interface with circular menu icons and an Arabic greeting message."
+      }
+    ]
+  }
+}

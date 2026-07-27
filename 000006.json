@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a delivery man in an orange cap handing a payment terminal to a woman inside a modern restaurant with purple wood accents.",
+  "compositional_deconstruction": {
+    "background": "A modern restaurant interior with warm pendant lighting, greenery, and a purple wood-paneled counter in the foreground.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A delivery man wearing an orange cap and orange polo shirt, holding a paper delivery bag and a card payment terminal out toward the customer."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a white hijab and a navy blazer, holding a pizza box and tapping a card on the payment terminal."
+      }
+    ]
+  }
+}

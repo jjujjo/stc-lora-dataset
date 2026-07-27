@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a nurse in purple scrubs pushing an elderly woman in a black abaya and hijab in a wheelchair through a modern glass-walled hospital corridor.",
+  "compositional_deconstruction": {
+    "background": "A bright, modern hospital atrium with glass railings and marble flooring, lit with soft purple accent lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A male nurse wearing purple medical scrubs, standing behind a wheelchair and smiling down at the patient."
+      },
+      {
+        "type": "obj",
+        "desc": "An elderly woman wearing a black abaya and black hijab, seated in a wheelchair with her hands folded, looking up and smiling."
+      }
+    ]
+  }
+}

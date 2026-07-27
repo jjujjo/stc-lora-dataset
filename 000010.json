@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, an overhead view of three Saudi colleagues sitting around a round white table in a rose-lit office, gathered around a laptop.",
+  "compositional_deconstruction": {
+    "background": "A rose-toned carpeted office floor with a round white table, viewed from directly above.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Two men wearing white thobes and red-and-white checkered ghutras, seated at the table with one pointing at the laptop screen."
+      },
+      {
+        "type": "obj",
+        "desc": "A third man seen from behind, seated between them, facing the laptop."
+      }
+    ]
+  }
+}

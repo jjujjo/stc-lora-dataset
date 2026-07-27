@@ -1,0 +1,13 @@
+{
+  "high_level_description": "stc brand style, a minimal ad banner with a red and purple color block and white Arabic text wishing a good Ramadan.",
+  "compositional_deconstruction": {
+    "background": "A plain light grey background with a horizontal red and purple color-block banner.",
+    "elements": [
+      {
+        "type": "text",
+        "text": "خيرك حيّ في رمضان",
+        "desc": "White Arabic text on the purple portion of the banner, reading a Ramadan greeting phrase."
+      }
+    ]
+  }
+}

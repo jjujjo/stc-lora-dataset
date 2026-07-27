@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two Saudi men reviewing work at a computer desk in a bright pink-toned open-plan office.",
+  "compositional_deconstruction": {
+    "background": "A bright open-plan office with pink lighting, glass partitions, and colleagues working at desks in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, standing behind a seated colleague with a hand on the back of his chair."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, seated at the desk, writing with a pen while looking at a computer monitor."
+      }
+    ]
+  }
+}

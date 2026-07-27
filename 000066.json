@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, three young men taking a selfie together on a city street at night, lit with warm and purple neon lighting.",
+  "compositional_deconstruction": {
+    "background": "A blurred nighttime city street with bokeh lights and a purple-lit building facade in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a plaid flannel shirt, smiling and looking at the phone screen."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red zip-up jacket over a white shirt, holding up the smartphone to take the photo."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and glasses, smiling widely at the camera."
+      }
+    ]
+  }
+}

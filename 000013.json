@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, two boys in white thobes sitting at small desks using a laptop and tablet in front of a glass wall overlooking palm trees.",
+  "compositional_deconstruction": {
+    "background": "A bright indoor space with a glass wall showing palm trees and buildings outside, softly purple-tinted lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Two boys wearing white thobes, seated at small school desks; one types on a laptop while the other holds a purple tablet, both looking at the tablet screen."
+      }
+    ]
+  }
+}

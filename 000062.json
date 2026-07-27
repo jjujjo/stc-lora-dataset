@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two Saudi colleagues working together at a desktop computer in a colorful coworking space with purple and green accents.",
+  "compositional_deconstruction": {
+    "background": "A modern coworking space with purple geometric carpet tiles, pink signage, colorful stools, and people working in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra and glasses, seated and looking at the monitor."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a black t-shirt, seated beside him, talking and gesturing toward the screen."
+      }
+    ]
+  }
+}

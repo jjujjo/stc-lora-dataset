@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a flat purple line-art illustration of online data security, showing a laptop and phone connected to cloud storage and a padlock shield icon.",
+  "compositional_deconstruction": {
+    "background": "A plain white background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A purple line-art illustration of a laptop displaying a padlock inside a shield icon, with a smartphone in front of it and a hand touching the phone screen."
+      },
+      {
+        "type": "obj",
+        "desc": "Purple line-art icons surrounding the devices: a coffee mug, a shelf with books and a plant, an at-sign speech bubble, a wifi symbol, folders, a cloud-download icon, and a camera icon."
+      }
+    ]
+  }
+}

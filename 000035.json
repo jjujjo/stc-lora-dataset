@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two women in hijabs and lab coats conducting a chemistry experiment with test tubes and microscopes.",
+  "compositional_deconstruction": {
+    "background": "A science laboratory with a whiteboard covered in notes, glassware, and lab equipment in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a navy hijab and a white lab coat, using a pipette to transfer liquid into test tubes."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a beige hijab, glasses, and a white lab coat, looking through a microscope."
+      }
+    ]
+  }
+}
