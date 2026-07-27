@@ -1,0 +1,13 @@
+{
+  "high_level_description": "stc brand style, the stc wordmark logo centered on a solid purple background.",
+  "compositional_deconstruction": {
+    "background": "A solid deep purple background.",
+    "elements": [
+      {
+        "type": "text",
+        "text": "stc",
+        "desc": "The white stc wordmark logo centered in the frame, with a subtle drop shadow."
+      }
+    ]
+  }
+}
