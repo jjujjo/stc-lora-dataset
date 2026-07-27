@@ -1,11 +1,16 @@
 {
-  "high_level_description": "stc brand style, a man in a white thobe using a laptop while standing at a desk in a bright creative office space.",
+  "high_level_description": "stc brand style, a flat purple and white line-art illustration of two hands holding a smartphone displaying the stc app icon.",
   "compositional_deconstruction": {
-    "background": "A bright office with a green plant wall, wooden shelves with decor, and a purple-toned accent light.",
+    "background": "A solid deep purple background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe, standing at a wooden desk and typing on a laptop, with a monitor and a small architectural model on the desk."
+        "desc": "Two white line-art hands holding a smartphone, one finger tapping the screen."
+      },
+      {
+        "type": "text",
+        "text": "stc",
+        "desc": "The white stc app icon with rounded corners displayed on the phone screen."
       }
     ]
   }

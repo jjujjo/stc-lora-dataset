@@ -1,15 +1,16 @@
 {
-  "high_level_description": "stc brand style, two Saudi men in conversation in front of a large screen displaying an stc smart-city animation at an exhibition.",
+  "high_level_description": "stc brand style, an ad graphic of a hand holding an stc SIM card, beside bold white and outlined Arabic text advertising a multi-SIM service.",
   "compositional_deconstruction": {
-    "background": "An exhibition hall with a large screen showing an animated waterfront cityscape with the stc website address, small architectural models in the foreground.",
+    "background": "A background split between vivid pink-red on top and deep purple on the bottom.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, with a lavalier microphone clipped to his collar, looking at his colleague."
+        "desc": "A hand with pink nail polish holding a purple and white stc-branded SIM card between two fingers."
       },
       {
-        "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seen from behind, gesturing with both hands while speaking."
+        "type": "text",
+        "text": "خدمة الشرائح المتعددة",
+        "desc": "Bold white Arabic text reading 'multiple SIM service', repeated as a faint outlined watermark in the background."
       }
     ]
   }

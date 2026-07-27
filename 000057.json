@@ -1,12 +1,11 @@
 {
-  "high_level_description": "stc brand style, the stc wordmark logo centered on a plain white background.",
+  "high_level_description": "stc brand style, a dramatic close-up portrait of a young man's face lit with vivid red and blue cinematic lighting, wearing a headband.",
   "compositional_deconstruction": {
-    "background": "A plain white background.",
+    "background": "A completely dark background, lit only by colored light on the subject's face.",
     "elements": [
       {
-        "type": "text",
-        "text": "stc",
-        "desc": "The purple stc wordmark logo centered in the frame."
+        "type": "obj",
+        "desc": "A young man with a white headband across his forehead, looking upward with an intense expression, lit with strong red and blue cinematic lighting."
       }
     ]
   }

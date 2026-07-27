@@ -1,11 +1,20 @@
 {
-  "high_level_description": "stc brand style, a smiling man in a red-and-white ghutra working at a desktop computer beside a glowing pink cube on a wooden desk.",
+  "high_level_description": "stc brand style, an ad composite showing a wifi router product beside a phone screen mockup of its setup app, over a purple background.",
   "compositional_deconstruction": {
-    "background": "A warm wood-paneled office at dusk, with an illuminated abstract mural glowing in the background.",
+    "background": "A solid deep purple background with a white horizontal accent stripe and a red color block.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, smiling while typing on a keyboard, resting his other hand on a glowing pink cube branded with a company logo."
+        "desc": "A white cylindrical wifi router with visible ports, next to a hand pressing its power button."
+      },
+      {
+        "type": "obj",
+        "desc": "A smartphone mockup displaying a purple setup screen with step instructions and a blue device icon."
+      },
+      {
+        "type": "text",
+        "text": "اضغط على زر التشغيل 5 ثوانٍ",
+        "desc": "White and red Arabic instructional text telling the user to press the power button for five seconds."
       }
     ]
   }

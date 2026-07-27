@@ -1,15 +1,19 @@
 {
-  "high_level_description": "stc brand style, three Saudi colleagues examining a large blueprint map spread across a table in a purple-lit office.",
+  "high_level_description": "stc brand style, a woman in a dark purple abaya presenting to two colleagues at a glass-walled office table.",
   "compositional_deconstruction": {
-    "background": "A purple and beige lit office corner with a potted plant in the background.",
+    "background": "A bright glass-walled office with a view of an exterior sunshade structure, warm daylight.",
     "elements": [
       {
         "type": "obj",
-        "desc": "Two men wearing white thobes and red-and-white checkered ghutras, leaning over the table and pointing at the map."
+        "desc": "A woman wearing a dark purple and grey abaya and pink hijab, standing and gesturing with a stylus pen while smiling."
       },
       {
         "type": "obj",
-        "desc": "A woman wearing a light pink hijab and an embroidered cream abaya, pointing at a location on the map with her finger."
+        "desc": "A man wearing a light shirt, seated with his back partly to the camera, looking toward the woman."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, seated at a laptop, looking up at the woman."
       }
     ]
   }

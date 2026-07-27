@@ -1,19 +1,16 @@
 {
-  "high_level_description": "stc brand style, three young men taking a selfie together on a city street at night, lit with warm and purple neon lighting.",
+  "high_level_description": "stc brand style, an ad graphic showing an stc SIM registration app screen beside bold Arabic text reading 'choose a contact number', set against neon-lit bokeh.",
   "compositional_deconstruction": {
-    "background": "A blurred nighttime city street with bokeh lights and a purple-lit building facade in the background.",
+    "background": "A background split between solid deep purple on the left and blurred purple and blue nightlife bokeh lighting on the right.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a plaid flannel shirt, smiling and looking at the phone screen."
+        "desc": "A hand holding a smartphone displaying a purple SIM-upgrade app screen with a phone number input field and dial pad."
       },
       {
-        "type": "obj",
-        "desc": "A man wearing a red zip-up jacket over a white shirt, holding up the smartphone to take the photo."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a white thobe and glasses, smiling widely at the camera."
+        "type": "text",
+        "text": "اختر رقم التواصل",
+        "desc": "Bold white and red Arabic text reading 'choose a contact number'."
       }
     ]
   }

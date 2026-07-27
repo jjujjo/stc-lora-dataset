@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a woman in a mustard abaya and white hijab shopping for vegetables in a bright grocery store aisle.",
+  "high_level_description": "stc brand style, a woman in a hooded cloak looking through a telescope at night in a garden lined with illuminated palm trees.",
   "compositional_deconstruction": {
-    "background": "A grocery store produce aisle with shelves of vegetables, warm overhead lighting, and a purple-lit ceiling accent.",
+    "background": "A nighttime garden scene with illuminated palm trees, a starry sky, and warm string-light orbs on the ground.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a mustard yellow abaya and a white hijab, reaching for a bell pepper on the shelf while holding a black crate filled with peppers."
+        "desc": "A woman wearing a white hijab and a purple hooded cloak, kneeling on a traditional patterned rug and looking through a telescope, with a camera and tea glass beside her."
       }
     ]
   }

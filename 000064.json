@@ -1,16 +1,16 @@
 {
-  "high_level_description": "stc brand style, a low-angle portrait of a man in an stc-branded shirt looking up at a telecom tower against a hazy sky.",
+  "high_level_description": "stc brand style, an ad graphic showing an stc app login screen mockup beside bold purple Arabic text instructing the user to enter their phone number.",
   "compositional_deconstruction": {
-    "background": "A hazy pink and purple sky with a telecom transmission tower rising behind the man, framed by black letterbox bars.",
+    "background": "A plain white background with a grey caption bar along the bottom.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man with short dark hair, wearing a dark purple polo shirt, looking upward with a determined expression."
+        "desc": "A smartphone mockup outlined in purple, displaying the stc app welcome screen with a phone number field and pink continue button."
       },
       {
         "type": "text",
-        "text": "stc",
-        "desc": "The white stc wordmark printed on the chest of the man's shirt."
+        "text": "أكتب رقم جوالك",
+        "desc": "Large purple Arabic text reading 'enter your phone number'."
       }
     ]
   }

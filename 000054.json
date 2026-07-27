@@ -1,11 +1,16 @@
 {
-  "high_level_description": "stc brand style, a hand holding a smartphone displaying a purple telecom app inside a luxury car interior.",
+  "high_level_description": "stc brand style, a woman in a purple hijab and yellow outfit browsing a tablet while seated in an armchair, lit with vivid purple and yellow tones.",
   "compositional_deconstruction": {
-    "background": "The beige leather interior of a car, showing the steering wheel and headrest softly out of focus.",
+    "background": "A textured marble-like wall lit with dramatic purple and pink lighting, a small round side table beside the armchair.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A hand holding a smartphone showing a purple app interface with circular menu icons and an Arabic greeting message."
+        "desc": "A woman wearing a purple hijab and a matching yellow top and pants, seated in a pink armchair and holding up a tablet with both hands."
+      },
+      {
+        "type": "text",
+        "text": "سرعات عالية",
+        "desc": "Partially visible white Arabic text reading 'high speeds' near the tablet screen."
       }
     ]
   }

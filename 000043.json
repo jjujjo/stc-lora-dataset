@@ -1,15 +1,15 @@
 {
-  "high_level_description": "stc brand style, an overhead view of a man in a ghutra pointing at a data dashboard on a computer monitor while a colleague takes notes.",
+  "high_level_description": "stc brand style, two Saudi men discussing a smart-city presentation displayed on a large screen at an exhibition booth.",
   "compositional_deconstruction": {
-    "background": "A minimalist white desk viewed from directly above, lit with a soft purple tone.",
+    "background": "An exhibition booth with a large purple-lit display screen showing a 3D city model, small architectural models on a table in the foreground.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra, standing and pointing at a bar chart dashboard on the monitor."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, looking at his colleague while a lavalier microphone is clipped to his collar."
       },
       {
         "type": "obj",
-        "desc": "A person wearing a white hijab and black top, seated at the keyboard holding a pen."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, gesturing with both hands while speaking."
       }
     ]
   }

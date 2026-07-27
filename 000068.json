@@ -1,11 +1,16 @@
 {
-  "high_level_description": "stc brand style, a dramatic close-up portrait of a young man's face lit with vivid red and blue cinematic lighting, wearing a headband.",
+  "high_level_description": "stc brand style, an ad graphic of a phone displaying an stc contact-verification screen, layered with bold Arabic text over blurred nightlife bokeh lighting.",
   "compositional_deconstruction": {
-    "background": "A completely dark background, lit only by colored light on the subject's face.",
+    "background": "A background split between solid deep purple on the left and blurred purple and pink bokeh string lights on the right.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A young man with a white headband across his forehead, looking upward with an intense expression, lit with strong red and blue cinematic lighting."
+        "desc": "A hand holding a smartphone displaying a purple app screen asking how to contact the user, with a phone number field and dial pad."
+      },
+      {
+        "type": "text",
+        "text": "اختر رقم التواصل",
+        "desc": "Bold white and red Arabic text reading 'choose a contact number', repeated at different sizes."
       }
     ]
   }

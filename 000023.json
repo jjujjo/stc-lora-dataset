@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, two Saudi men reviewing work at a computer desk in a bright pink-toned open-plan office.",
+  "high_level_description": "stc brand style, a man in a red-and-white ghutra being photographed from all sides by multiple hands holding smartphones.",
   "compositional_deconstruction": {
-    "background": "A bright open-plan office with pink lighting, glass partitions, and colleagues working at desks in the background.",
+    "background": "A plain soft lavender studio background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra, standing behind a seated colleague with a hand on the back of his chair."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a white thobe, seated at the desk, writing with a pen while looking at a computer monitor."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, standing with arms crossed and smiling, surrounded by five hands holding up smartphones photographing him from different angles."
       }
     ]
   }

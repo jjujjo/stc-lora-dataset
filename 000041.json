@@ -1,19 +1,11 @@
 {
-  "high_level_description": "stc brand style, three Saudi colleagues having a conversation over coffee at a small wooden table lit by a warm pendant lamp.",
+  "high_level_description": "stc brand style, a man eating a chocolate bar while holding a dumbbell in a room lit with vivid pink lighting.",
   "compositional_deconstruction": {
-    "background": "A dim office corner with a potted plant and a hanging pendant lamp casting warm light.",
+    "background": "A room with dark curtains and a textured pink wall, split by dramatic pink and white diagonal lighting.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra, seated and gesturing with his hand while talking."
-      },
-      {
-        "type": "obj",
-        "desc": "A man in a dark suit, seated across the table listening."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a grey hijab, seated beside the man in the suit, writing notes."
+        "desc": "A man wearing a blue t-shirt, biting into a chocolate bar with one hand while curling a dumbbell with the other."
       }
     ]
   }

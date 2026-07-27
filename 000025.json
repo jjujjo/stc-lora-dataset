@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a man in a red-and-white ghutra being photographed from all sides by multiple hands holding smartphones.",
+  "high_level_description": "stc brand style, a woman in a mustard abaya and white hijab shopping for vegetables in a bright grocery store aisle.",
   "compositional_deconstruction": {
-    "background": "A plain soft lavender studio background.",
+    "background": "A grocery store produce aisle with shelves of vegetables, warm overhead lighting, and a purple-lit ceiling accent.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, standing with arms crossed and smiling, surrounded by five hands holding up smartphones photographing him from different angles."
+        "desc": "A woman wearing a mustard yellow abaya and a white hijab, reaching for a bell pepper on the shelf while holding a black crate filled with peppers."
       }
     ]
   }

@@ -1,19 +1,20 @@
 {
-  "high_level_description": "stc brand style, a set of flat purple and pink streaming app interface mockups shown on overlapping browser and phone screens.",
+  "high_level_description": "stc brand style, an ad graphic with the stc logo, a phone screen mockup, and bold Arabic text inviting the user to add extra data.",
   "compositional_deconstruction": {
-    "background": "A plain white background with a purple and red color-block accent bar.",
+    "background": "A background split between deep purple on top and white on the bottom, with a red accent stripe.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A browser window mockup showing a video streaming homepage with a play icon logo, a movie title placeholder, and a row of show thumbnails."
+        "desc": "The white stc wordmark logo in the top right corner."
       },
       {
         "type": "obj",
-        "desc": "A second browser window mockup showing a grid of category icons and two rows of video thumbnails under 'Originals' and 'Continue Watching' labels."
+        "desc": "A partially visible smartphone mockup outlined in purple in the lower left."
       },
       {
-        "type": "obj",
-        "desc": "A phone screen mockup showing a streaming series page with a play button and a row of thumbnails labeled 'Live Now'."
+        "type": "text",
+        "text": "تبي تضيف بيانات إضافية",
+        "desc": "Bold white Arabic text on a red banner, reading 'want to add extra data'."
       }
     ]
   }

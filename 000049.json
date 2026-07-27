@@ -1,19 +1,12 @@
 {
-  "high_level_description": "stc brand style, four Saudi colleagues collaborating around a wooden table in a purple-lit meeting room, working on laptops and a tablet.",
+  "high_level_description": "stc brand style, a minimal ad banner with a red and purple color block and white Arabic text wishing a good Ramadan.",
   "compositional_deconstruction": {
-    "background": "A modern meeting room with vertical wood slat partitions, potted plants, and warm pendant lighting against purple-toned walls.",
+    "background": "A plain light grey background with a horizontal red and purple color-block banner.",
     "elements": [
       {
-        "type": "obj",
-        "desc": "Two men wearing white thobes and red-and-white checkered ghutras, seated side by side working on laptops."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a purple abaya and matching hijab, leaning in and pointing at a tablet on the table."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a black abaya and black hijab, seated at the end of the table listening."
+        "type": "text",
+        "text": "خيرك حيّ في رمضان",
+        "desc": "White Arabic text on the purple portion of the banner, reading a Ramadan greeting phrase."
       }
     ]
   }

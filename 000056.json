@@ -1,12 +1,15 @@
 {
-  "high_level_description": "stc brand style, the stc wordmark logo centered on a plain white background.",
+  "high_level_description": "stc brand style, two Saudi men in conversation in front of a large screen displaying an stc smart-city animation at an exhibition.",
   "compositional_deconstruction": {
-    "background": "A plain white background.",
+    "background": "An exhibition hall with a large screen showing an animated waterfront cityscape with the stc website address, small architectural models in the foreground.",
     "elements": [
       {
-        "type": "text",
-        "text": "stc",
-        "desc": "The purple stc wordmark logo centered in the frame."
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, with a lavalier microphone clipped to his collar, looking at his colleague."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seen from behind, gesturing with both hands while speaking."
       }
     ]
   }

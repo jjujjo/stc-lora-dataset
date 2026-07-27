@@ -1,16 +1,16 @@
 {
-  "high_level_description": "stc brand style, a flat purple and white line-art illustration of two hands holding a smartphone displaying the stc app icon.",
+  "high_level_description": "stc brand style, an ad graphic of a man wearing a VR phone headset, paired with bold white Arabic text on a red color block.",
   "compositional_deconstruction": {
-    "background": "A solid deep purple background.",
+    "background": "A background split vertically between deep purple on the left and red-pink on the right.",
     "elements": [
       {
         "type": "obj",
-        "desc": "Two white line-art hands holding a smartphone, one finger tapping the screen."
+        "desc": "A man seen from the side, wearing a VR headset with a smartphone slotted into the front, lit with blue and red light."
       },
       {
         "type": "text",
-        "text": "stc",
-        "desc": "The white stc app icon with rounded corners displayed on the phone screen."
+        "text": "بلس",
+        "desc": "Large white Arabic text reading 'Plus' on the red portion of the background."
       }
     ]
   }

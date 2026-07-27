@@ -1,11 +1,16 @@
 {
-  "high_level_description": "stc brand style, an extreme close-up of a man in a red-and-white ghutra wearing glasses that reflect a glowing digital data overlay.",
+  "high_level_description": "stc brand style, an ad graphic of a purple stc recharge card with a scratch-off code, beside bold white Arabic text.",
   "compositional_deconstruction": {
-    "background": "A dark background with soft blue and purple bokeh lighting, framed by black letterbox bars.",
+    "background": "A solid vivid pink-red background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra and round glasses, looking down, with faint digital numbers and icons reflected in his lenses."
+        "desc": "A stack of purple recharge cards with a white scratch-off area revealing a long numeric code."
+      },
+      {
+        "type": "text",
+        "text": "والبطاقة تقول يا ساتر",
+        "desc": "Bold white Arabic text below the card, a colloquial phrase expressing surprise at the card's value."
       }
     ]
   }

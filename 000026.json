@@ -1,19 +1,11 @@
 {
-  "high_level_description": "stc brand style, a woman in a dark purple abaya presenting to two colleagues at a glass-walled office table.",
+  "high_level_description": "stc brand style, a man working on a laptop at a dark countertop in a cozy home setting with warm curtains in the background.",
   "compositional_deconstruction": {
-    "background": "A bright glass-walled office with a view of an exterior sunshade structure, warm daylight.",
+    "background": "A cozy interior with beige curtains, a dried floral arrangement, and warm ambient lighting with a purple accent.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a dark purple and grey abaya and pink hijab, standing and gesturing with a stylus pen while smiling."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a light shirt, seated with his back partly to the camera, looking toward the woman."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra, seated at a laptop, looking up at the woman."
+        "desc": "A man wearing a beige t-shirt, seated and typing on a laptop with a mug of coffee beside him."
       }
     ]
   }

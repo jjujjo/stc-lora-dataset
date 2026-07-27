@@ -1,15 +1,20 @@
 {
-  "high_level_description": "stc brand style, an overhead view of three Saudi colleagues sitting around a round table in a rose-lit office, gathered around a laptop.",
+  "high_level_description": "stc brand style, an ad graphic for a carbon monoxide alarm device, pairing a product photo with a flat illustration of a family at home.",
   "compositional_deconstruction": {
-    "background": "A rose-toned carpeted office floor with a round table, viewed from directly above.",
+    "background": "A background split between solid deep purple on the left and white on the right.",
     "elements": [
       {
         "type": "obj",
-        "desc": "Two men wearing white thobes and red-and-white checkered ghutras, seated at the table with one pointing at the laptop screen."
+        "desc": "A white square smart alarm device with a circular button, photographed against the purple panel."
       },
       {
         "type": "obj",
-        "desc": "A third man seen from behind, seated between them, facing the laptop."
+        "desc": "A flat purple line-art illustration of a man and a woman in a hijab sitting on a couch, with a red alarm icon and shelf decor above them."
+      },
+      {
+        "type": "text",
+        "text": "وجهاز إنذار أول أكسيد الكربون",
+        "desc": "White and red Arabic text reading 'and a carbon monoxide alarm device' beneath the product photo."
       }
     ]
   }

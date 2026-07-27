@@ -1,19 +1,15 @@
 {
-  "high_level_description": "stc brand style, four Saudi colleagues collaborating around a wooden table in a purple-lit meeting room, working on laptops and a tablet.",
+  "high_level_description": "stc brand style, two construction engineers in hard hats and safety vests reviewing a blueprint outside a modern building under construction.",
   "compositional_deconstruction": {
-    "background": "A modern meeting room with vertical wood slat partitions, potted plants, and warm pendant lighting against purple-toned walls.",
+    "background": "A modern building under construction with wood-slat cladding and a curved roof structure, under a bright blue sky.",
     "elements": [
       {
         "type": "obj",
-        "desc": "Two men wearing white thobes and red-and-white checkered ghutras, seated side by side working on laptops."
+        "desc": "A man wearing a white hard hat, safety glasses, and a high-visibility vest over a grey shirt, holding a tablet and pointing at the blueprint."
       },
       {
         "type": "obj",
-        "desc": "A woman wearing a purple abaya and matching hijab, leaning in and pointing at a tablet on the table."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a black abaya and black hijab, seated at the end of the table listening."
+        "desc": "A man wearing a white hard hat and a high-visibility vest, holding up a large blueprint sheet and smiling."
       }
     ]
   }

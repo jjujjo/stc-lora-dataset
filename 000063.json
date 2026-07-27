@@ -1,20 +1,20 @@
 {
-  "high_level_description": "stc brand style, an ad composite showing a wifi router product beside a phone screen mockup of its setup app, over a purple background.",
+  "high_level_description": "stc brand style, an ad graphic of a man and a woman in a hijab listening to music on headphones, layered with bold Arabic text reading 'offers'.",
   "compositional_deconstruction": {
-    "background": "A solid deep purple background with a white horizontal accent stripe and a red color block.",
+    "background": "A background split between deep purple and vivid pink-red, lit with cool blue tones on the subjects.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A white cylindrical wifi router with visible ports, next to a hand pressing its power button."
+        "desc": "A man wearing a white t-shirt, wearing over-ear headphones and looking down at a tablet."
       },
       {
         "type": "obj",
-        "desc": "A smartphone mockup displaying a purple setup screen with step instructions and a blue device icon."
+        "desc": "A woman wearing a black hijab and black outfit, wearing headphones, smiling with her eyes closed and holding a smartphone."
       },
       {
         "type": "text",
-        "text": "اضغط على زر التشغيل 5 ثوانٍ",
-        "desc": "White and red Arabic instructional text telling the user to press the power button for five seconds."
+        "text": "العروض",
+        "desc": "Large white Arabic text repeated three times, reading 'the offers'."
       }
     ]
   }

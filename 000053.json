@@ -1,15 +1,16 @@
 {
-  "high_level_description": "stc brand style, two Saudi men discussing a smart-city presentation displayed on a large screen at an exhibition booth.",
+  "high_level_description": "stc brand style, a low-angle portrait of a man in an stc-branded shirt looking up at a telecom tower against a hazy sky.",
   "compositional_deconstruction": {
-    "background": "An exhibition booth with a large purple-lit display screen showing a 3D city model, small architectural models on a table in the foreground.",
+    "background": "A hazy pink and purple sky with a telecom transmission tower rising behind the man, framed by black letterbox bars.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, looking at his colleague while a lavalier microphone is clipped to his collar."
+        "desc": "A man with short dark hair, wearing a dark purple polo shirt, looking upward with a determined expression."
       },
       {
-        "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, gesturing with both hands while speaking."
+        "type": "text",
+        "text": "stc",
+        "desc": "The white stc wordmark printed on the chest of the man's shirt."
       }
     ]
   }

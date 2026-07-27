@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a man working on a laptop at a dark countertop in a cozy home setting with warm curtains in the background.",
+  "high_level_description": "stc brand style, a boy in a mustard sweater smiling while washing his hands at a bathroom sink lit with purple accent lighting.",
   "compositional_deconstruction": {
-    "background": "A cozy interior with beige curtains, a dried floral arrangement, and warm ambient lighting with a purple accent.",
+    "background": "A bathroom with a grey stone sink, black faucet, and a hanging plant, lit with soft purple lighting.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a beige t-shirt, seated and typing on a laptop with a mug of coffee beside him."
+        "desc": "A boy wearing a mustard yellow sweater, smiling and rubbing soapy hands together under running water at the sink."
       }
     ]
   }

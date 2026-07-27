@@ -1,15 +1,19 @@
 {
-  "high_level_description": "stc brand style, two women in hijabs and lab coats conducting a chemistry experiment with test tubes and microscopes.",
+  "high_level_description": "stc brand style, three Saudi colleagues having a conversation over coffee at a small wooden table lit by a warm pendant lamp.",
   "compositional_deconstruction": {
-    "background": "A science laboratory with a whiteboard covered in notes, glassware, and lab equipment in the background.",
+    "background": "A dim office corner with a potted plant and a hanging pendant lamp casting warm light.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a navy hijab and a white lab coat, using a pipette to transfer liquid into test tubes."
+        "desc": "A man wearing a red-and-white checkered ghutra, seated and gesturing with his hand while talking."
       },
       {
         "type": "obj",
-        "desc": "A woman wearing a beige hijab, glasses, and a white lab coat, looking through a microscope."
+        "desc": "A man in a dark suit, seated across the table listening."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a grey hijab, seated beside the man in the suit, writing notes."
       }
     ]
   }

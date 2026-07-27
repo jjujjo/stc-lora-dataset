@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a woman in a black abaya typing on a laptop in a dim office lit with a warm pink glow.",
+  "high_level_description": "stc brand style, a man in a white thobe using a laptop while standing at a desk in a bright creative office space.",
   "compositional_deconstruction": {
-    "background": "A dim glass-walled office at night with reflections and a warm pink ambient glow.",
+    "background": "A bright office with a green plant wall, wooden shelves with decor, and a purple-toned accent light.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a beige hijab and a black abaya, seated and typing on a silver laptop with a focused expression."
+        "desc": "A man wearing a white thobe, standing at a wooden desk and typing on a laptop, with a monitor and a small architectural model on the desk."
       }
     ]
   }

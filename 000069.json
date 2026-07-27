@@ -1,16 +1,20 @@
 {
-  "high_level_description": "stc brand style, a purple-lit product photo of an stc wifi router on a marble console table beside a television and a lamp.",
+  "high_level_description": "stc brand style, an ad graphic showing stc wifi router units beside bold white Arabic text advertising a smart wifi home package.",
   "compositional_deconstruction": {
-    "background": "A softly lit living room console table in dark marble, with a television and a decorative lamp, lit with purple and pink tones.",
+    "background": "A background split between vivid pink-red on the left and deep purple on the right.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A white stc-branded wifi router with a purple logo, standing upright on the console table next to a small black set-top box."
+        "desc": "A single white stc-branded wifi router unit on the pink side."
+      },
+      {
+        "type": "obj",
+        "desc": "Three white stc-branded wifi router units arranged in a row on the purple side."
       },
       {
         "type": "text",
-        "text": "قوي .. سرعته مجنونه",
-        "desc": "Bold white Arabic text reading 'powerful, its speed is crazy' beside the router."
+        "text": "باقة بيتي سمارت واي فاي",
+        "desc": "Bold white Arabic text reading 'My Home Smart WiFi package'."
       }
     ]
   }

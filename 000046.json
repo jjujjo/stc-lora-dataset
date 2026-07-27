@@ -1,11 +1,12 @@
 {
-  "high_level_description": "stc brand style, a woman in a dark abaya standing at a desk using a laptop in a modern office with a green living wall.",
+  "high_level_description": "stc brand style, the stc wordmark logo centered on a plain white background.",
   "compositional_deconstruction": {
-    "background": "A modern office with a monitor, a green plant wall, and wooden shelves in the background, lit with a red-toned accent.",
+    "background": "A plain white background.",
     "elements": [
       {
-        "type": "obj",
-        "desc": "A woman wearing a black hijab and a dark pleated abaya, standing at a desk and typing on a laptop while looking at the screen."
+        "type": "text",
+        "text": "stc",
+        "desc": "The purple stc wordmark logo centered in the frame."
       }
     ]
   }

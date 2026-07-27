@@ -1,11 +1,15 @@
 {
-  "high_level_description": "stc brand style, a close-up of a man checking his phone against a warm wood-slat wall lit with pink neon light.",
+  "high_level_description": "stc brand style, two women in hijabs and lab coats conducting a chemistry experiment with test tubes and microscopes.",
   "compositional_deconstruction": {
-    "background": "A warm wood-slat wall lit by a pink neon glow, with soft bokeh lighting on the left.",
+    "background": "A science laboratory with a whiteboard covered in notes, glassware, and lab equipment in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man with short dark hair wearing a sage green polo shirt, looking down and typing on a white smartphone."
+        "desc": "A woman wearing a navy hijab and a white lab coat, using a pipette to transfer liquid into test tubes."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a beige hijab, glasses, and a white lab coat, looking through a microscope."
       }
     ]
   }
