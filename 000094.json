@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man in a red-and-white ghutra working at a bank of computer monitors displaying code and network diagnostics in a dark room.",
+  "compositional_deconstruction": {
+    "background": "A dark control room lit only by the glow of multiple monitors.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, seen from behind, seated at a desk facing several monitors displaying lines of code and a network dashboard with a speed gauge."
+      }
+    ]
+  }
+}

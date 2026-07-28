@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a satellite orbiting above a large radio telescope dish under a starry night sky in the desert.",
+  "compositional_deconstruction": {
+    "background": "A starry night sky over desert dunes, with a Milky Way band visible.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A satellite with solar panels positioned high in the starry sky."
+      },
+      {
+        "type": "obj",
+        "desc": "A large parabolic satellite dish antenna mounted on a pole in the desert, pointed upward."
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, three colleagues collaborating around a table with tablets and laptops, lit with warm orange lighting.",
+  "compositional_deconstruction": {
+    "background": "A warmly lit office with vertical wood-slat partitions and a glowing wall sconce.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, typing on a laptop, smiling."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seated beside him with a laptop, smiling."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a purple hijab and abaya, reaching toward a tablet propped on the table, smiling."
+      }
+    ]
+  }
+}

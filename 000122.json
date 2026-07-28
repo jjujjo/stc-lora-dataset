@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a satellite with an stc-branded panel orbiting above a desert landscape seen from space.",
+  "compositional_deconstruction": {
+    "background": "A view of Earth's curved horizon from orbit, showing a desert mountain landscape with a starry black sky above.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A satellite with solar panels and a dish antenna orbiting above the planet."
+      },
+      {
+        "type": "text",
+        "text": "stc",
+        "desc": "A tall white panel with a small red accent bar attached to the satellite, suggesting the stc brand color."
+      }
+    ]
+  }
+}

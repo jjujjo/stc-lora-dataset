@@ -1,16 +1,11 @@
 {
-  "high_level_description": "stc brand style, an ad graphic of a man wearing a VR phone headset, paired with bold white Arabic text on a red color block.",
+  "high_level_description": "stc brand style, a hand tapping a smartphone screen showing a government login portal, against a blurred purple bokeh background.",
   "compositional_deconstruction": {
-    "background": "A background split vertically between deep purple on the left and red-pink on the right.",
+    "background": "A dark background filled with glowing purple and blue bokeh light circles.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man seen from the side, wearing a VR headset with a smartphone slotted into the front, lit with blue and red light."
-      },
-      {
-        "type": "text",
-        "text": "بلس",
-        "desc": "Large white Arabic text reading 'Plus' on the red portion of the background."
+        "desc": "A hand holding a smartphone and tapping the screen, which displays a green-and-white government authentication portal with a step progress indicator."
       }
     ]
   }

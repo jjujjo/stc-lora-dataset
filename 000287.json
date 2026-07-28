@@ -1,0 +1,24 @@
+{
+  "high_level_description": "stc brand style, four colleagues using their devices together in a vivid pink and purple lit lounge space.",
+  "compositional_deconstruction": {
+    "background": "A vivid pink and purple lit lounge with mustard-colored modular seating and a wall-mounted blank screen.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a pink wrap, holding a tablet."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra and a white thobe, seated and looking at a smartphone."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a beige hijab, standing and looking at a smartphone."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a plaid shirt, seated and typing on a laptop, wearing wireless earbuds and a smartwatch."
+      }
+    ]
+  }
+}

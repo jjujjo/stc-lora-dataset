@@ -1,16 +1,20 @@
 {
-  "high_level_description": "stc brand style, an ad graphic of a hand holding an stc SIM card, beside bold white and outlined Arabic text advertising a multi-SIM service.",
+  "high_level_description": "stc brand style, an ad graphic showing stc wifi router units beside bold white Arabic text advertising a smart wifi home package.",
   "compositional_deconstruction": {
-    "background": "A background split between vivid pink-red on top and deep purple on the bottom.",
+    "background": "A background split between vivid pink-red on the left and deep purple on the right.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A hand with pink nail polish holding a purple and white stc-branded SIM card between two fingers."
+        "desc": "A single white stc-branded wifi router unit on the pink side."
+      },
+      {
+        "type": "obj",
+        "desc": "Three white stc-branded wifi router units arranged in a row on the purple side."
       },
       {
         "type": "text",
-        "text": "خدمة الشرائح المتعددة",
-        "desc": "Bold white Arabic text reading 'multiple SIM service', repeated as a faint outlined watermark in the background."
+        "text": "باقة بيتي سمارت واي فاي",
+        "desc": "Bold white Arabic text reading 'My Home Smart WiFi package'."
       }
     ]
   }

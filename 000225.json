@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a couple relaxing together in a vivid purple-and-red styled lounge, each using their smartphones.",
+  "compositional_deconstruction": {
+    "background": "A bold purple-and-red styled room with ribbed curtain walls, a red curved wall shelf displaying tech accessories, and a purple guitar leaning nearby.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing white ear cups and a pink pleated skirt with a white top, smiling while holding up a smartphone."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a lavender polo shirt, seated on a purple bench, smiling while holding a smartphone."
+      }
+    ]
+  }
+}

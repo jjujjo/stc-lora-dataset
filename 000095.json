@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, two Saudi men in a discussion beside a desk with an architectural model, lit with purple accent lighting.",
+  "compositional_deconstruction": {
+    "background": "A plain white studio wall with soft purple accent lighting and a hint of a picture frame in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seated and gesturing while speaking."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, standing and leaning on the desk, listening."
+      },
+      {
+        "type": "obj",
+        "desc": "A small white architectural model of a building sitting on the wooden desk between them."
+      }
+    ]
+  }
+}

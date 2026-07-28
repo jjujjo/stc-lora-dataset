@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a smiling delivery man sitting on a bench beside a large insulated delivery bag, waving while holding up his phone.",
+  "compositional_deconstruction": {
+    "background": "A plain vivid purple studio background with a subtle textured pattern.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a grey cap and polo shirt, seated on a wooden bench, smiling and waving one hand while holding a white smartphone in the other."
+      },
+      {
+        "type": "obj",
+        "desc": "A large lavender-colored insulated delivery backpack resting on the bench beside him."
+      }
+    ]
+  }
+}

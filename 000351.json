@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, three medical professionals in white coats standing confidently in front of glowing blue diagnostic screens.",
+  "compositional_deconstruction": {
+    "background": "A dim room with multiple glowing blue medical diagnostic screens displaying anatomical scans and data on the wall behind them.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a white hijab, a white coat, and a stethoscope, standing with hands in her pockets."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a white hijab and a white coat, standing in the center with hands in her pockets."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white coat, standing with arms crossed."
+      }
+    ]
+  }
+}

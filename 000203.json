@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two Saudi men standing before a large interactive wall map showing global network connections.",
+  "compositional_deconstruction": {
+    "background": "A large wall-mounted map screen displaying a glowing world map with animated flight-path style connection lines in blue, pink, and white, above a wood-paneled floor.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, gesturing toward the map with both hands."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, seen from behind, standing and observing the map."
+      }
+    ]
+  }
+}

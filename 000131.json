@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a smiling couple using a smartphone together in a bright, modern living room with purple ambient lighting.",
+  "compositional_deconstruction": {
+    "background": "A bright modern living room with a beige sofa, floor lamp, and a smart speaker on the coffee table, lit by purple ceiling accent lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, smiling while holding up a smartphone."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a grey hijab and abaya, smiling and pointing at the phone screen."
+      }
+    ]
+  }
+}

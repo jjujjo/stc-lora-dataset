@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a nighttime industrial facility with glowing beacon connectivity icons and a satellite formation in the sky above.",
+  "compositional_deconstruction": {
+    "background": "A desert facility at night with warehouse buildings lit by warm floodlights, a starry sky, and a crescent moon.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A row of satellites with solar panels flying in formation across the night sky."
+      },
+      {
+        "type": "text",
+        "text": "",
+        "desc": "A glowing white and red vertical light beam rising from the facility roof, flanked by a globe/no-signal icon and a WiFi signal icon connected by dashed lines."
+      }
+    ]
+  }
+}

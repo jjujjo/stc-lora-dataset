@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two Saudi men chatting over coffee, one on the phone and the other holding a tablet, in a bright cafe overlooking the city.",
+  "compositional_deconstruction": {
+    "background": "A bright cafe with floor-to-ceiling windows overlooking a city skyline, with a hanging pendant light beside the table.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, smiling while talking on a smartphone."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, smiling and gesturing while holding a tablet, with two coffee cups on the table between them."
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a woman pointing at a laptop screen while explaining something to a seated man wearing a red-and-white ghutra.",
+  "compositional_deconstruction": {
+    "background": "A bright modern office with wood-slat ceiling beams and tall windows in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a maroon hijab and abaya and glasses, standing and pointing at the laptop screen."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, a red-and-white checkered ghutra, and glasses, seated and resting his chin on his hand while looking at the laptop."
+      }
+    ]
+  }
+}

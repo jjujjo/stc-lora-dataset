@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a Saudi man in a red-and-white ghutra gesturing while talking to a seated colleague in a bright open office.",
+  "compositional_deconstruction": {
+    "background": "A bright modern open-plan office with cubicles, plants, and blurred colleagues in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, standing and gesturing with both hands while speaking."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white shirt, seated at a desk with an open laptop, listening and smiling."
+      }
+    ]
+  }
+}

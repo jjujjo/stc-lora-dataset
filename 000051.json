@@ -1,15 +1,20 @@
 {
-  "high_level_description": "stc brand style, two Saudi colleagues working together at a desktop computer in a colorful coworking space with purple and green accents.",
+  "high_level_description": "stc brand style, an ad composite showing a wifi router product beside a phone screen mockup of its setup app, over a purple background.",
   "compositional_deconstruction": {
-    "background": "A modern coworking space with purple geometric carpet tiles, pink signage, colorful stools, and people working in the background.",
+    "background": "A solid deep purple background with a white horizontal accent stripe and a red color block.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra and glasses, seated and looking at the monitor."
+        "desc": "A white cylindrical wifi router with visible ports, next to a hand pressing its power button."
       },
       {
         "type": "obj",
-        "desc": "A man wearing a black t-shirt, seated beside him, talking and gesturing toward the screen."
+        "desc": "A smartphone mockup displaying a purple setup screen with step instructions and a blue device icon."
+      },
+      {
+        "type": "text",
+        "text": "اضغط على زر التشغيل 5 ثوانٍ",
+        "desc": "White and red Arabic instructional text telling the user to press the power button for five seconds."
       }
     ]
   }

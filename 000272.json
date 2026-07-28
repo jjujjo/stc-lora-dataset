@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a smiling man jogging along a city sidewalk lined with palm trees while holding his phone.",
+  "compositional_deconstruction": {
+    "background": "A wide city sidewalk lined with tall palm trees and modern glass skyscrapers, with light traffic on the road.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a grey zip-up jacket over a white t-shirt and navy joggers, jogging while holding a smartphone in one hand, wearing a smartwatch."
+      }
+    ]
+  }
+}

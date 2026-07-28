@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a Saudi man pointing at a laptop screen while a woman in a maroon hijab looks on.",
+  "compositional_deconstruction": {
+    "background": "A room with a wood-slat partition and a warm wall sconce light in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing glasses and a maroon hijab and abaya, seated and looking at a laptop displaying a colorful chart."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra and glasses, standing and pointing at the laptop screen."
+      }
+    ]
+  }
+}

@@ -1,16 +1,20 @@
 {
-  "high_level_description": "stc brand style, an ad graphic of a purple stc recharge card with a scratch-off code, beside bold white Arabic text.",
+  "high_level_description": "stc brand style, an ad graphic with the stc logo, a phone screen mockup, and bold Arabic text inviting the user to add extra data.",
   "compositional_deconstruction": {
-    "background": "A solid vivid pink-red background.",
+    "background": "A background split between deep purple on top and white on the bottom, with a red accent stripe.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A stack of purple recharge cards with a white scratch-off area revealing a long numeric code."
+        "desc": "The white stc wordmark logo in the top right corner."
+      },
+      {
+        "type": "obj",
+        "desc": "A partially visible smartphone mockup outlined in purple in the lower left."
       },
       {
         "type": "text",
-        "text": "والبطاقة تقول يا ساتر",
-        "desc": "Bold white Arabic text below the card, a colloquial phrase expressing surprise at the card's value."
+        "text": "تبي تضيف بيانات إضافية",
+        "desc": "Bold white Arabic text on a red banner, reading 'want to add extra data'."
       }
     ]
   }

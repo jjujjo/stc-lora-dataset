@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a bald man adjusting equipment inside a dark data center server rack.",
+  "compositional_deconstruction": {
+    "background": "A dark data center aisle with blue ambient lighting reflecting off server racks.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A bald man wearing glasses and a white polo shirt, reaching up to adjust a component on a rack-mounted server unit."
+      }
+    ]
+  }
+}

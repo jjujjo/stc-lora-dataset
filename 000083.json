@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man in a white thobe using a laptop at a wooden desk in a modern office, lit with purple lighting.",
+  "compositional_deconstruction": {
+    "background": "A modern office with a whiteboard, a green plant wall, and wooden shelves, lit with a purple accent.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, standing at a desk and typing on a rose-gold laptop, with a small architectural model and keyboard beside him."
+      }
+    ]
+  }
+}

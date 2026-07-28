@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a close-up product shot of a white stc-branded WiFi router standing on a dark marble counter, lit with vivid pink and purple lighting.",
+  "compositional_deconstruction": {
+    "background": "A dark marble counter with a marble wall panel behind it, lit dramatically with pink and purple ambient light.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A white WiFi router with a purple stc logo on its lower panel, standing upright on the counter."
+      },
+      {
+        "type": "text",
+        "text": "stc",
+        "desc": "Purple stc logo printed on the lower section of the router."
+      }
+    ]
+  }
+}

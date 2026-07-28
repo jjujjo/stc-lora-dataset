@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, three colleagues in conversation at a standing table with a view of the sea, one man seen from behind.",
+  "compositional_deconstruction": {
+    "background": "A bright office space with floor-to-ceiling windows overlooking the sea and palm trees, with a teal accent stripe on the carpet.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, gesturing while speaking, holding a dark mug."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a light pink shirt, seen from behind, seated and listening."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a white hijab and a grey cardigan, smiling and listening, with a tablet on the table in front of her."
+      }
+    ]
+  }
+}

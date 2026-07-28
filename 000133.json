@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man in a red-and-white ghutra talking on his phone while walking through a bright hallway.",
+  "compositional_deconstruction": {
+    "background": "A bright hallway with a blurred green plant and a dark wooden column in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, a red-and-white checkered ghutra, and glasses, talking on a smartphone."
+      }
+    ]
+  }
+}

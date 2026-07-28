@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a mother and daughter taking a selfie together on a park bench, with a modern building in the background.",
+  "compositional_deconstruction": {
+    "background": "A sunny park lawn with hedges, palm trees, and a modern glass-and-wood building in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a maroon hijab and a pink blouse, smiling while holding up a smartphone to take a selfie."
+      },
+      {
+        "type": "obj",
+        "desc": "A young girl wearing a rust-colored jacket and jeans, smiling and holding a tablet, seated beside her."
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, an overhead view of a man with a laptop standing among towering rows of illuminated purple server racks in a vast data center.",
+  "compositional_deconstruction": {
+    "background": "A vast data center with rows of tall black server racks glowing with purple ambient light and blue status indicators, viewed from a high angle.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, standing and typing on a laptop, dwarfed by the surrounding server racks."
+      }
+    ]
+  }
+}

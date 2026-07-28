@@ -1,16 +1,16 @@
 {
-  "high_level_description": "stc brand style, an ad graphic showing an stc SIM registration app screen beside bold Arabic text reading 'choose a contact number', set against neon-lit bokeh.",
+  "high_level_description": "stc brand style, an ad graphic of a hand holding an stc SIM card, beside bold white and outlined Arabic text advertising a multi-SIM service.",
   "compositional_deconstruction": {
-    "background": "A background split between solid deep purple on the left and blurred purple and blue nightlife bokeh lighting on the right.",
+    "background": "A background split between vivid pink-red on top and deep purple on the bottom.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A hand holding a smartphone displaying a purple SIM-upgrade app screen with a phone number input field and dial pad."
+        "desc": "A hand with pink nail polish holding a purple and white stc-branded SIM card between two fingers."
       },
       {
         "type": "text",
-        "text": "اختر رقم التواصل",
-        "desc": "Bold white and red Arabic text reading 'choose a contact number'."
+        "text": "خدمة الشرائح المتعددة",
+        "desc": "Bold white Arabic text reading 'multiple SIM service', repeated as a faint outlined watermark in the background."
       }
     ]
   }

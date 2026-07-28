@@ -1,11 +1,19 @@
 {
-  "high_level_description": "stc brand style, an extreme close-up of a man in a red-and-white ghutra wearing glasses that reflect a glowing digital data overlay.",
+  "high_level_description": "stc brand style, a set of flat purple and pink streaming app interface mockups shown on overlapping browser and phone screens.",
   "compositional_deconstruction": {
-    "background": "A dark background with soft blue and purple bokeh lighting, framed by black letterbox bars.",
+    "background": "A plain white background with a purple and red color-block accent bar.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra and round glasses, looking down, with faint digital numbers and icons reflected in his lenses."
+        "desc": "A browser window mockup showing a video streaming homepage with a play icon logo, a movie title placeholder, and a row of show thumbnails."
+      },
+      {
+        "type": "obj",
+        "desc": "A second browser window mockup showing a grid of category icons and two rows of video thumbnails under 'Originals' and 'Continue Watching' labels."
+      },
+      {
+        "type": "obj",
+        "desc": "A phone screen mockup showing a streaming series page with a play button and a row of thumbnails labeled 'Live Now'."
       }
     ]
   }

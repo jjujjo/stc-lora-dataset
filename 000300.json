@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, an overhead view of a Saudi man standing beside a seated colleague pointing at a stock chart on a monitor.",
+  "compositional_deconstruction": {
+    "background": "A bright office desk viewed from a high angle, with a monitor stand and a pink sticky note visible.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a grey blazer, seated and pointing at a monitor displaying a green line chart."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, standing beside the desk, holding a folder."
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a smiling man adjusting his car's touchscreen while driving past palm trees.",
+  "compositional_deconstruction": {
+    "background": "The interior of a car with a view of palm trees and greenery through the window under a clear sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, smiling while touching a screen mounted on the steering wheel."
+      }
+    ]
+  }
+}

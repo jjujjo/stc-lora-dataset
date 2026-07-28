@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a young boy riding a kick scooter down a tree-lined pedestrian path in a modern neighborhood.",
+  "compositional_deconstruction": {
+    "background": "A tree-lined pedestrian path between modern buildings, with potted shrubs along the walkway.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A boy wearing a white t-shirt, light pants, and a black helmet, riding a kick scooter and smiling toward the camera."
+      }
+    ]
+  }
+}

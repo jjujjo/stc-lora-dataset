@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a close-up of a woman in a maroon hijab working on a laptop displaying a stc webpage.",
+  "compositional_deconstruction": {
+    "background": "A dim modern office with warm bokeh lights in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing glasses and a maroon hijab, looking at a laptop screen displaying a webpage with an architectural photo and a red button."
+      },
+      {
+        "type": "text",
+        "text": "stc",
+        "desc": "Small purple stc logo visible in the top corner of the laptop screen."
+      }
+    ]
+  }
+}

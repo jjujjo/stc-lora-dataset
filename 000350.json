@@ -1,0 +1,28 @@
+{
+  "high_level_description": "stc brand style, a Saudi man standing and addressing four seated colleagues around a white conference table with a desk phone.",
+  "compositional_deconstruction": {
+    "background": "A bright conference room with floor-to-ceiling windows overlooking a building exterior.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing glasses and a white thobe, seated and listening with a tablet in front of him."
+      },
+      {
+        "type": "obj",
+        "desc": "A bald man wearing a white thobe, seated beside him, listening."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, standing at the head of the table and gesturing while speaking."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, seated and listening with hands clasped."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, seated at the end of the table, listening."
+      }
+    ]
+  }
+}

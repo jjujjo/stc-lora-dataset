@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a woman in a navy abaya talking on the phone while walking through a bright office hallway.",
+  "compositional_deconstruction": {
+    "background": "A bright office hallway with framed artwork and a potted plant in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a navy hijab and a flowing navy abaya, holding a smartphone to her ear."
+      }
+    ]
+  }
+}

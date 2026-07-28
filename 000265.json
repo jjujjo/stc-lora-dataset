@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, two men cheering excitedly on a couch while watching a game, with snacks and drinks on the coffee table.",
+  "compositional_deconstruction": {
+    "background": "A bright living room with framed art on the wall, a floor lamp, and a potted plant.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, laughing and clapping."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a navy t-shirt and a smartwatch, cheering with both fists raised, mouth open in excitement."
+      },
+      {
+        "type": "text",
+        "text": "",
+        "desc": "A coffee table in the foreground holding bowls of chips and popcorn, canned drinks, and a glass of cola."
+      }
+    ]
+  }
+}

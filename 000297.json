@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two workers in hard hats and safety vests reviewing a tablet in front of stacked shipping containers at sunset.",
+  "compositional_deconstruction": {
+    "background": "Stacked shipping containers marked with cargo labels, lit by warm golden sunset light with sun flare.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a maroon hijab and a green high-visibility safety vest, smiling and holding a tablet."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white hard hat and a green high-visibility safety vest, looking at the tablet."
+      }
+    ]
+  }
+}

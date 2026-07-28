@@ -1,12 +1,16 @@
 {
-  "high_level_description": "stc brand style, a minimal ad banner with a red and purple color block and white Arabic text wishing a good Ramadan.",
+  "high_level_description": "stc brand style, a flat purple and white line-art illustration of two hands holding a smartphone displaying the stc app icon.",
   "compositional_deconstruction": {
-    "background": "A plain light grey background with a horizontal red and purple color-block banner.",
+    "background": "A solid deep purple background.",
     "elements": [
       {
+        "type": "obj",
+        "desc": "Two white line-art hands holding a smartphone, one finger tapping the screen."
+      },
+      {
         "type": "text",
-        "text": "خيرك حيّ في رمضان",
-        "desc": "White Arabic text on the purple portion of the banner, reading a Ramadan greeting phrase."
+        "text": "stc",
+        "desc": "The white stc app icon with rounded corners displayed on the phone screen."
       }
     ]
   }

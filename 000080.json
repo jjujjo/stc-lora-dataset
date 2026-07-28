@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a woman in a lavender abaya taking a selfie inside a bright modern building with a spiral staircase.",
+  "compositional_deconstruction": {
+    "background": "A bright, minimalist building interior with a curved staircase and warm accent lighting along the railing.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a beige hijab and a lavender abaya, smiling while holding up a smartphone to take a selfie."
+      }
+    ]
+  }
+}

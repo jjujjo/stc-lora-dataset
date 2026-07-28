@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, an abstract aerial view of glowing purple neon lines crossing over a dark cityscape grid at night.",
+  "compositional_deconstruction": {
+    "background": "A dark aerial cityscape at night viewed from directly above, with scattered building lights.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Glowing purple and white neon light lines running diagonally across roads, crossing at a bright intersection point."
+      }
+    ]
+  }
+}

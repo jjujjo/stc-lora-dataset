@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two women taking a selfie together outside a luxury boutique in a shopping mall.",
+  "compositional_deconstruction": {
+    "background": "A bright luxury shopping mall storefront with glass display windows, mannequins, and warm ceiling spotlights.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a white hijab and a light purple abaya, smiling and holding a phone and a white handbag."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a navy hijab and a cream embroidered wrap, holding up a smartphone to take the selfie, with white shopping bags on her arm."
+      }
+    ]
+  }
+}

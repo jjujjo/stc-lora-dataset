@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, a stc-branded skyscraper glowing purple at night beneath a satellite and starry sky.",
+  "compositional_deconstruction": {
+    "background": "A night skyline of illuminated skyscrapers under a starry sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A satellite with solar panels positioned above the city skyline."
+      },
+      {
+        "type": "obj",
+        "desc": "A tall purple-lit skyscraper among a cluster of illuminated city towers."
+      },
+      {
+        "type": "text",
+        "text": "stc",
+        "desc": "A tall vertical white panel with a red accent bar mounted atop the central tower, echoing the stc brand mark."
+      }
+    ]
+  }
+}

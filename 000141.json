@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two hands emerging from a purple curtain, each holding a metallic evening clutch bag.",
+  "compositional_deconstruction": {
+    "background": "A rich purple velvet curtain with deep folds.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A hand wearing a cream sleeve, holding a silver crystal-embellished clutch bag."
+      },
+      {
+        "type": "obj",
+        "desc": "A hand wearing a patterned sleeve, holding a gold textured envelope clutch bag."
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, an overhead view of two Saudi men reviewing a presentation on a laptop with a colleague seated between them.",
+  "compositional_deconstruction": {
+    "background": "A round pink-lit table viewed from directly above.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, seated and reaching toward the laptop."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, seated on the other side, also reaching toward the laptop."
+      },
+      {
+        "type": "obj",
+        "desc": "A man seen from behind, seated at the table facing the laptop, which displays a presentation slide."
+      }
+    ]
+  }
+}

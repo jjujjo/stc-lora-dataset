@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a smiling man using a touchscreen point-of-sale tablet at a retail clothing store counter.",
+  "compositional_deconstruction": {
+    "background": "A retail store counter displaying decorative mugs and beaded bracelets, with clothing racks in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man with a beard, wearing a sage green shirt and a lanyard, smiling while tapping on a tablet mounted on a stand at the counter."
+      }
+    ]
+  }
+}

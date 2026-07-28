@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a woman and a man in an office lounge looking at a tablet together.",
+  "compositional_deconstruction": {
+    "background": "A bright office lounge with white cabinets, a potted plant, and orange armchairs.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a black hijab and a black embroidered abaya, pointing at the tablet screen while holding a cup."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and glasses, holding a tablet and looking at it, with a pen in his shirt pocket."
+      }
+    ]
+  }
+}

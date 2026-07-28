@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a smiling man in a red-and-white ghutra walking through a tree-lined path while checking his phone.",
+  "compositional_deconstruction": {
+    "background": "A tree-lined stone path with warm autumn-toned foliage and green hedges.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, smiling while looking down at a smartphone, carrying a black briefcase."
+      }
+    ]
+  }
+}

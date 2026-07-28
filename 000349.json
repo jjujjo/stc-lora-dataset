@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a man and woman analyzing a stock chart on a monitor in a purple-lit office overlooking a pyramid-shaped building.",
+  "compositional_deconstruction": {
+    "background": "A dim purple-lit office with angled skylights and a distant pyramid-shaped building visible through the window.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a beige hijab, typing on a keyboard while looking at a monitor."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, seated beside her, also typing, with a monitor displaying a purple candlestick chart between them."
+      }
+    ]
+  }
+}

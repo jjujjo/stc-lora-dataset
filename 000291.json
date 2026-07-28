@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a split night view of an oil refinery and an offshore oil platform, both overlaid with connectivity icons and a satellite formation in the sky.",
+  "compositional_deconstruction": {
+    "background": "Two nighttime industrial panels side by side: an oil refinery with a tall flare stack on the left, and an offshore drilling platform over dark water on the right, both under starry skies with satellites flying overhead.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A row of satellites with solar panels flying in formation across the night sky."
+      },
+      {
+        "type": "text",
+        "text": "",
+        "desc": "White line-art icons overlaid on the scene including a shield, a globe/WiFi signal icon, and a cloud icon, connected by dashed lines."
+      }
+    ]
+  }
+}

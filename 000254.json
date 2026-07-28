@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man seated at a dining table using a device in a moody purple-lit modern loft apartment at night.",
+  "compositional_deconstruction": {
+    "background": "A moody purple-lit open-plan loft apartment at night, with built-in shelving displaying decor, sofas, and floor-to-ceiling windows showing a glowing city skyline and abstract light patterns.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a mustard-yellow top, seated at a wooden dining table, looking down at a device in front of him."
+      }
+    ]
+  }
+}

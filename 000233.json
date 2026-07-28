@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man interacting with a glowing touchscreen table in a futuristic purple-lit exhibit space.",
+  "compositional_deconstruction": {
+    "background": "A futuristic exhibit space with a glowing purple grid pattern on the back wall and red accent lighting along the base.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, leaning on a glowing white touchscreen table with his arms crossed, pointing at it with one finger."
+      }
+    ]
+  }
+}

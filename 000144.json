@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a construction worker holding a walkie-talkie at an industrial site at dusk.",
+  "compositional_deconstruction": {
+    "background": "An industrial facility at dusk with warm orange lights glowing against a purple-blue sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing safety glasses, a white hard hat, and a navy coverall with a reflective stripe, holding a walkie-talkie up near his shoulder."
+      }
+    ]
+  }
+}

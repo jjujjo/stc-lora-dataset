@@ -1,12 +1,19 @@
 {
-  "high_level_description": "stc brand style, the stc wordmark logo centered on a solid purple background.",
+  "high_level_description": "stc brand style, a mother and her two daughters smiling at a laptop screen together on a couch, lit with vivid purple lighting.",
   "compositional_deconstruction": {
-    "background": "A solid deep purple background.",
+    "background": "A cozy living room couch with patterned purple cushions and floor-length curtains, lit by a warm lamp and dramatic purple ambient lighting.",
     "elements": [
       {
-        "type": "text",
-        "text": "stc",
-        "desc": "The white stc wordmark logo centered in the frame, with a subtle drop shadow."
+        "type": "obj",
+        "desc": "A woman wearing a purple hijab, seated in the middle, smiling and typing on a laptop."
+      },
+      {
+        "type": "obj",
+        "desc": "A young girl seated on the left, laughing and looking at the laptop screen."
+      },
+      {
+        "type": "obj",
+        "desc": "A young girl seated on the right, smiling and looking at the laptop screen."
       }
     ]
   }

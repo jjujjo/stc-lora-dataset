@@ -1,16 +1,11 @@
 {
-  "high_level_description": "stc brand style, an ad graphic showing an stc app login screen mockup beside bold purple Arabic text instructing the user to enter their phone number.",
+  "high_level_description": "stc brand style, a close-up of hands holding a smartphone displaying a glowing digital clock and date in Arabic, lit with purple lighting.",
   "compositional_deconstruction": {
-    "background": "A plain white background with a grey caption bar along the bottom.",
+    "background": "A softly blurred purple and lavender background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A smartphone mockup outlined in purple, displaying the stc app welcome screen with a phone number field and pink continue button."
-      },
-      {
-        "type": "text",
-        "text": "أكتب رقم جوالك",
-        "desc": "Large purple Arabic text reading 'enter your phone number'."
+        "desc": "A pair of hands holding a smartphone that displays a glowing translucent digital clock and Arabic date on its lock screen."
       }
     ]
   }

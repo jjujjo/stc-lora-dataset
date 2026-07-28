@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a smiling man checking his smartphone while standing in a minimalist beige office.",
+  "compositional_deconstruction": {
+    "background": "A minimalist beige and dark office interior with a monitor and desk visible in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man with grey hair wearing a beige linen shirt, smiling widely while looking down at a smartphone in his hands."
+      }
+    ]
+  }
+}

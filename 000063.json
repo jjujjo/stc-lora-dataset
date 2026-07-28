@@ -1,20 +1,16 @@
 {
-  "high_level_description": "stc brand style, an ad graphic of a man and a woman in a hijab listening to music on headphones, layered with bold Arabic text reading 'offers'.",
+  "high_level_description": "stc brand style, an ad graphic showing an stc app login screen mockup beside bold purple Arabic text instructing the user to enter their phone number.",
   "compositional_deconstruction": {
-    "background": "A background split between deep purple and vivid pink-red, lit with cool blue tones on the subjects.",
+    "background": "A plain white background with a grey caption bar along the bottom.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white t-shirt, wearing over-ear headphones and looking down at a tablet."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a black hijab and black outfit, wearing headphones, smiling with her eyes closed and holding a smartphone."
+        "desc": "A smartphone mockup outlined in purple, displaying the stc app welcome screen with a phone number field and pink continue button."
       },
       {
         "type": "text",
-        "text": "العروض",
-        "desc": "Large white Arabic text repeated three times, reading 'the offers'."
+        "text": "أكتب رقم جوالك",
+        "desc": "Large purple Arabic text reading 'enter your phone number'."
       }
     ]
   }

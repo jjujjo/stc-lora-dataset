@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a woman and man seated across a wooden table with laptops in a dimly lit cafe at night.",
+  "compositional_deconstruction": {
+    "background": "A dim cafe at night with warm string lights and pendant bulbs glowing in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a beige hijab and glasses, seen from behind, seated in front of a laptop with a notebook and a canister."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, a red-and-white checkered ghutra, and glasses, seated across the table with an open laptop, smiling."
+      }
+    ]
+  }
+}

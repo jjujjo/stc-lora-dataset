@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a smiling woman using a tablet while standing in a warmly lit restaurant with wood-slat walls.",
+  "compositional_deconstruction": {
+    "background": "A warmly lit restaurant interior with vertical wood-slat paneling and blurred tables in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a purple hijab and a white embroidered dress, smiling while tapping on a tablet held in both hands, with a watch on her wrist."
+      }
+    ]
+  }
+}

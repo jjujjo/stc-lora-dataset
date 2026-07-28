@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a smiling woman sitting on a rooftop ledge holding a coffee cup and a yellow smartphone case.",
+  "compositional_deconstruction": {
+    "background": "A rooftop with wooden slat vents and dense green shrubbery in the background under a clear blue sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing sunglasses and a purple robe over dark clothing, smiling while holding a white coffee cup in one hand and a yellow phone case in the other, seated with legs crossed."
+      }
+    ]
+  }
+}

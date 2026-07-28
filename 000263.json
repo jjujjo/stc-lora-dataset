@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, an overhead view of a smiling man on a phone call while relaxing in a poolside chair with a drink nearby.",
+  "compositional_deconstruction": {
+    "background": "A sunlit swimming pool edge with light beige stone tiling, viewed from a high angle.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing sunglasses and a purple tie-dye shirt with white pants, smiling while holding a smartphone to his ear, seated in a mustard-yellow chair with a pink drink on a small round table beside him."
+      }
+    ]
+  }
+}

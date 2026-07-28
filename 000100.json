@@ -1,0 +1,24 @@
+{
+  "high_level_description": "stc brand style, an overhead view of four colleagues collaborating around a wooden table with a tablet showing a world map.",
+  "compositional_deconstruction": {
+    "background": "A grey wooden conference table with black office chairs, lit by purple-tinted studio lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, typing on a laptop with a phone beside him."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a purple hijab and abaya, hands clasped, wearing a gold watch."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman in a cream and pink top, writing in a notebook beside a coffee cup."
+      },
+      {
+        "type": "obj",
+        "desc": "A bald man wearing glasses and a white shirt, touching a tablet displaying a dark-blue interface with a green world map and 'stc' text, with a stylus pen pointing at it from across the table."
+      }
+    ]
+  }
+}

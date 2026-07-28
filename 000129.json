@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a man monitoring multiple screens displaying medical scan data and vital signs in a modern office.",
+  "compositional_deconstruction": {
+    "background": "A dim modern office with wood-toned walls and warm accent lighting, with several large monitors mounted on the desk.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man with short dark hair, wearing a light blue collared shirt, typing on a keyboard while looking at monitors."
+      },
+      {
+        "type": "text",
+        "text": "167 98 22 118 9",
+        "desc": "Glowing blue and pink vital-sign readouts on the monitors, alongside a scanned image of a heart and a human torso with a highlighted chest area."
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man working on a laptop displaying a stock chart in a dark server room.",
+  "compositional_deconstruction": {
+    "background": "A dark data center with server racks glowing with blue lights in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing glasses and a grey polo shirt, typing on a laptop that displays a green line chart, with a smartwatch on his wrist."
+      }
+    ]
+  }
+}

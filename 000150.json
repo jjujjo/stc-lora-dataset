@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a smiling man typing on a laptop at a wooden counter, lit with purple ambient lighting.",
+  "compositional_deconstruction": {
+    "background": "A modern office space with glass partitions and green plants, lit with a purple accent glow.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man with short dark hair and a beard, wearing a white thobe, smiling while typing on a silver laptop."
+      }
+    ]
+  }
+}

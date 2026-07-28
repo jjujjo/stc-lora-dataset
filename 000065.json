@@ -1,11 +1,16 @@
 {
-  "high_level_description": "stc brand style, a close-up of hands holding a smartphone displaying a glowing digital clock and date in Arabic, lit with purple lighting.",
+  "high_level_description": "stc brand style, an ad graphic showing an stc SIM registration app screen beside bold Arabic text reading 'choose a contact number', set against neon-lit bokeh.",
   "compositional_deconstruction": {
-    "background": "A softly blurred purple and lavender background.",
+    "background": "A background split between solid deep purple on the left and blurred purple and blue nightlife bokeh lighting on the right.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A pair of hands holding a smartphone that displays a glowing translucent digital clock and Arabic date on its lock screen."
+        "desc": "A hand holding a smartphone displaying a purple SIM-upgrade app screen with a phone number input field and dial pad."
+      },
+      {
+        "type": "text",
+        "text": "اختر رقم التواصل",
+        "desc": "Bold white and red Arabic text reading 'choose a contact number'."
       }
     ]
   }

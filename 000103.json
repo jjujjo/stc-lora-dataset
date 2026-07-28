@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a very dark, moody close-up of a manicured hand holding a smartphone showing a blurry lock screen notification, inside a car at night.",
+  "compositional_deconstruction": {
+    "background": "A dark car interior at night with teal ambient light.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A hand with manicured nails holding a smartphone displaying a blurry teal-tinted lock screen with an unreadable SMS notification bubble."
+      },
+      {
+        "type": "obj",
+        "desc": "A person wearing a pink-mauve blazer, wavy hair visible blurred in the background."
+      }
+    ]
+  }
+}

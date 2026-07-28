@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a surprised man using a laptop in a lounge chair beside a glowing lamp shaped like bent piping, lit with vivid purple lighting.",
+  "compositional_deconstruction": {
+    "background": "A plain vivid purple studio background with a woven rug and a small round side table holding a bowl of popcorn and an stc smart speaker.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a rust-orange shirt jacket, sitting in a grey lounge chair with a surprised expression, typing on a laptop."
+      },
+      {
+        "type": "text",
+        "text": "stc",
+        "desc": "Small text visible on the white cylindrical smart speaker on the side table."
+      }
+    ]
+  }
+}

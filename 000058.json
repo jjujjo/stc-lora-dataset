@@ -1,16 +1,11 @@
 {
-  "high_level_description": "stc brand style, a purple-lit product photo of an stc wifi router on a marble console table beside a television and a lamp.",
+  "high_level_description": "stc brand style, an extreme close-up of a man in a red-and-white ghutra wearing glasses that reflect a glowing digital data overlay.",
   "compositional_deconstruction": {
-    "background": "A softly lit living room console table in dark marble, with a television and a decorative lamp, lit with purple and pink tones.",
+    "background": "A dark background with soft blue and purple bokeh lighting, framed by black letterbox bars.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A white stc-branded wifi router with a purple logo, standing upright on the console table next to a small black set-top box."
-      },
-      {
-        "type": "text",
-        "text": "قوي .. سرعته مجنونه",
-        "desc": "Bold white Arabic text reading 'powerful, its speed is crazy' beside the router."
+        "desc": "A man wearing a red-and-white checkered ghutra and round glasses, looking down, with faint digital numbers and icons reflected in his lenses."
       }
     ]
   }

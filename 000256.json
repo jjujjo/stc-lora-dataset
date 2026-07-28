@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a satellite with solar panels displaying an embedded desert road scene, orbiting above Earth at sunrise.",
+  "compositional_deconstruction": {
+    "background": "A view of Earth's curved horizon glowing with a sunrise, dotted with city lights below.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A satellite with a dish antenna and solar panels showing an embedded aerial image of a desert road and a small vehicle."
+      }
+    ]
+  }
+}

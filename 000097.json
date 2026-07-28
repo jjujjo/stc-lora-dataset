@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two Saudi men working on laptops at a small round table in a glass-walled cafe.",
+  "compositional_deconstruction": {
+    "background": "A glass-walled cafe interior with a blurred reflection and a view of greenery outside.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, seated and typing on a laptop, reflected in the glass beside him."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, seated at the same table with a laptop and a cup of coffee."
+      }
+    ]
+  }
+}

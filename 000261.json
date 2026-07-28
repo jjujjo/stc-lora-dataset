@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a satellite with solar panels displaying an embedded cargo ship image, orbiting above a nighttime Earth.",
+  "compositional_deconstruction": {
+    "background": "A view of Earth's curved horizon at night, glowing with scattered city lights below a starry sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A satellite with a dish antenna and solar panels showing an embedded aerial image of a red cargo ship leaving a wake in the ocean."
+      }
+    ]
+  }
+}

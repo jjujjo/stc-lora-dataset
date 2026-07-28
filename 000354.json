@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a Saudi man talking on the phone while standing on an indoor balcony in a bright modern building.",
+  "compositional_deconstruction": {
+    "background": "A bright modern building interior with angular white and wood-paneled walls and a skylight.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a black smartwatch, standing at a glass railing, holding a smartphone to his ear."
+      }
+    ]
+  }
+}

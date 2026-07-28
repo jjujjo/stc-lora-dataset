@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a close-up of a hand typing on a laptop displaying a green stock chart in a dark server room.",
+  "compositional_deconstruction": {
+    "background": "A dark server room with blue lit racks and a glowing light in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A hand typing on the keyboard of a laptop displaying a rising green line chart."
+      }
+    ]
+  }
+}

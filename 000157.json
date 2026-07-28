@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two utility workers in hard hats and safety vests handling large spools of purple and orange cable in an industrial facility.",
+  "compositional_deconstruction": {
+    "background": "A large industrial warehouse with metal support columns, overhead skylights, and purple ambient lighting.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a white hijab, a white hard hat, and a green high-visibility safety vest, handling a spool of purple cable."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white hard hat and a green high-visibility safety vest over a blue coverall, standing beside a spool of orange cable."
+      }
+    ]
+  }
+}

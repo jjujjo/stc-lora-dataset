@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a mother and daughter laughing together on a couch at home, lit with warm purple lighting.",
+  "compositional_deconstruction": {
+    "background": "A cozy living room with sheer purple-lit curtains, a framed abstract print, a potted palm, and a patterned rug.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a beige hijab and a deep purple abaya, smiling and holding a remote control."
+      },
+      {
+        "type": "obj",
+        "desc": "A young girl seated on her lap, laughing with her hand over her mouth."
+      }
+    ]
+  }
+}

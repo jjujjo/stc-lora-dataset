@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a hand holding a perfume bottle above pink pedestals displaying lipstick and a dropper bottle, against a vivid pink background with a striped circular backdrop.",
+  "compositional_deconstruction": {
+    "background": "A vivid pink studio background with a red-and-pink striped circular pattern.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A hand holding a pink perfume bottle with a faceted cap above the pedestals."
+      },
+      {
+        "type": "obj",
+        "desc": "A red lipstick tube standing open on one pedestal."
+      },
+      {
+        "type": "obj",
+        "desc": "A clear glass dropper bottle standing on another pedestal."
+      }
+    ]
+  }
+}

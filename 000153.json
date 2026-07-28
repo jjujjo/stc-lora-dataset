@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a bald man pointing toward a large monitor while a bearded colleague looks on, in a dim control room.",
+  "compositional_deconstruction": {
+    "background": "A dim control room with a large monitor displaying small red icons and a wood-slat ceiling.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man with short dark hair and a beard, wearing a white shirt, seated and looking toward the monitor with his hand on a keyboard."
+      },
+      {
+        "type": "obj",
+        "desc": "A bald man wearing a white shirt, standing behind him and pointing toward the monitor."
+      }
+    ]
+  }
+}

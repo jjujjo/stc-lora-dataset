@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, a purple stc-branded mobile education trailer parked outdoors with rows of white chairs set up for an event.",
+  "compositional_deconstruction": {
+    "background": "A clear blue sky above a paved outdoor event area with a decorative white sculpture in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A purple shipping-container-style trailer with white lettering reading an education program name and a lit window, accessed by a metal staircase."
+      },
+      {
+        "type": "obj",
+        "desc": "Rows of white chairs arranged on a patterned red rug in front of the trailer, cordoned off with purple stanchion ropes."
+      },
+      {
+        "type": "text",
+        "text": "stc Education4All",
+        "desc": "White text on the purple trailer reading the program name, with an Arabic subtitle below it."
+      }
+    ]
+  }
+}

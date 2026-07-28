@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a satellite with solar panels displaying embedded desert road footage, flying through a starry night sky.",
+  "compositional_deconstruction": {
+    "background": "A dense starry night sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A satellite with a dish antenna and solar panels showing an embedded aerial image of trucks driving on a desert road at night."
+      }
+    ]
+  }
+}

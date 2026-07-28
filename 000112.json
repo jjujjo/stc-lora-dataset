@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a woman in a white hijab and lab coat interacting with a glowing touchscreen table displaying medical scans.",
+  "compositional_deconstruction": {
+    "background": "A dim medical room lit with blue and pink ambient light, with monitors and equipment visible in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a white hijab and a white lab coat, resting her hands on a glowing touchscreen table displaying an anatomical scan and data panels."
+      }
+    ]
+  }
+}

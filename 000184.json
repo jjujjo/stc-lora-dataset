@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a father and son playing video games together on the floor of a bright living room.",
+  "compositional_deconstruction": {
+    "background": "A bright living room with a grey sofa, sheer white curtains, and a small side table with a lamp and snacks.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a navy t-shirt, seated on the edge of the sofa holding a game controller, smiling."
+      },
+      {
+        "type": "obj",
+        "desc": "A young boy wearing an orange t-shirt, sitting cross-legged on the rug, holding a game controller and laughing."
+      }
+    ]
+  }
+}

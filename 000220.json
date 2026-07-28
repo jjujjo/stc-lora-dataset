@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man crouching beside an open server rack, reading data on a tablet.",
+  "compositional_deconstruction": {
+    "background": "A data center aisle with dark server racks featuring blue and purple status lights, against a plain beige wall.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing glasses and a grey polo shirt, crouching and looking at a tablet in his hands, with a smartwatch on his wrist."
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two Saudi men in white thobes looking intently at an off-screen monitor, one pointing forward.",
+  "compositional_deconstruction": {
+    "background": "A dark room with a wood-slat ceiling and a large monitor glowing to the side.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, looking straight ahead with his hand near a keyboard."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, standing behind him and pointing forward toward the monitor."
+      }
+    ]
+  }
+}

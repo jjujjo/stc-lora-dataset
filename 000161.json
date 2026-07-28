@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a family cheering while watching a screen together at an outdoor movie night on a lawn.",
+  "compositional_deconstruction": {
+    "background": "A grassy backyard at night, lit by a warm lantern and floor lamp beside a blank projector screen, with a woven rug and coffee table set with snacks and drinks in the foreground.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a red t-shirt, seated on a wicker chair with one fist raised in celebration."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a pink shirt, seated with a young boy on his lap, both cheering with raised fists."
+      },
+      {
+        "type": "obj",
+        "desc": "A young boy wearing a blue shirt, seated on a wicker chair, clapping."
+      }
+    ]
+  }
+}

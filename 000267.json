@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a smiling man sitting on a table using a tablet while his laptop is open in front of him.",
+  "compositional_deconstruction": {
+    "background": "A bright minimalist room with a glass-paned door, potted plants, and a small stc router visible on a side table.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a cream vest over a striped shirt, smiling while holding a tablet, seated on the edge of a table with an open laptop, a purple mug, and notebooks beside him."
+      }
+    ]
+  }
+}

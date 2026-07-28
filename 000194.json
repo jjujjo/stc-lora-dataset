@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a smiling woman in a mustard apron checking her phone in a trophy-lined room.",
+  "compositional_deconstruction": {
+    "background": "A warmly lit room with wooden shelving displaying trophies, and a soft yellow glow in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a white hijab and a mustard-yellow embroidered top with a striped apron, smiling while looking down at a smartphone."
+      }
+    ]
+  }
+}

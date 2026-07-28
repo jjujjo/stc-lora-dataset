@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a close-up product shot of a white stc-branded WiFi router beside a hand typing on a laptop.",
+  "compositional_deconstruction": {
+    "background": "A dim purple-lit desk setting with a blank wall in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A hand typing on a laptop keyboard, with a wristwatch visible, beside an open tablet."
+      },
+      {
+        "type": "obj",
+        "desc": "A white WiFi router with a purple stc logo standing on the desk."
+      }
+    ]
+  }
+}

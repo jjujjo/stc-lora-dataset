@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, an aerial view of a large mission control room with rows of desks and giant wall screens displaying maps and network diagrams, lit in vivid red.",
+  "compositional_deconstruction": {
+    "background": "A large amphitheater-style control room lit dramatically in red, with curved rows of desks and monitors.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Rows of operators seated at curved desks facing forward."
+      },
+      {
+        "type": "text",
+        "text": "DATA TRANSMISSION BACKBONE",
+        "desc": "Large wall-mounted screens displaying a world map with connection lines, a grid of network status indicators, and a node diagram."
+      }
+    ]
+  }
+}

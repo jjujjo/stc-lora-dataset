@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a woman in a hijab typing at a computer in a modern glass-walled office at dusk.",
+  "compositional_deconstruction": {
+    "background": "A modern glass-walled office with city buildings visible through the windows, softly lit at dusk.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a grey hijab and a black top, typing on a keyboard while looking at a monitor displaying a document."
+      }
+    ]
+  }
+}

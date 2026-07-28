@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a woman relaxing in a hammock in a palm grove, smiling while using a tablet.",
+  "compositional_deconstruction": {
+    "background": "A lush green palm grove with tall palm trunks and grass, softly lit by daylight.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a grey hijab and wrapped in an orange and mustard-yellow blanket, smiling while holding a tablet, reclining in a white macrame hammock with a purple cushion."
+      }
+    ]
+  }
+}

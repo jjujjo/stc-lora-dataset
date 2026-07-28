@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a dense crowd of football fans cheering with raised arms at a stadium.",
+  "compositional_deconstruction": {
+    "background": "A packed football stadium crowd holding green and white flags.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A young man wearing a lavender t-shirt in the foreground, cheering with a clenched fist raised."
+      },
+      {
+        "type": "obj",
+        "desc": "Surrounding fans wearing green and white jerseys, cheering with raised arms amid green flags."
+      }
+    ]
+  }
+}

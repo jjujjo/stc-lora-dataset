@@ -1,20 +1,16 @@
 {
-  "high_level_description": "stc brand style, an ad composite showing a wifi router product beside a phone screen mockup of its setup app, over a purple background.",
+  "high_level_description": "stc brand style, a low-angle portrait of a man in an stc-branded shirt looking up at a telecom tower against a hazy sky.",
   "compositional_deconstruction": {
-    "background": "A solid deep purple background with a white horizontal accent stripe and a red color block.",
+    "background": "A hazy pink and purple sky with a telecom transmission tower rising behind the man, framed by black letterbox bars.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A white cylindrical wifi router with visible ports, next to a hand pressing its power button."
-      },
-      {
-        "type": "obj",
-        "desc": "A smartphone mockup displaying a purple setup screen with step instructions and a blue device icon."
+        "desc": "A man with short dark hair, wearing a dark purple polo shirt, looking upward with a determined expression."
       },
       {
         "type": "text",
-        "text": "اضغط على زر التشغيل 5 ثوانٍ",
-        "desc": "White and red Arabic instructional text telling the user to press the power button for five seconds."
+        "text": "stc",
+        "desc": "The white stc wordmark printed on the chest of the man's shirt."
       }
     ]
   }

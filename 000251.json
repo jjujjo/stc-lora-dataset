@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, a duotone graphic of two Saudi men shaking hands, overlaid with purple business icon graphics.",
+  "compositional_deconstruction": {
+    "background": "A duotone grey and purple background with abstract geometric color blocks.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra and a white thobe, smiling while shaking hands."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, seen from behind, shaking hands with him."
+      },
+      {
+        "type": "text",
+        "text": "",
+        "desc": "White line-art icons overlaid on the image including a video call frame icon and a rising bar-and-line growth chart, with a faint bar graph pattern along the bottom."
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a smiling Saudi man checking his phone in front of a glass office building.",
+  "compositional_deconstruction": {
+    "background": "A modern glass office building facade reflecting the sky, with another glass tower visible in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a black smartwatch, smiling while looking at a smartphone in both hands."
+      }
+    ]
+  }
+}

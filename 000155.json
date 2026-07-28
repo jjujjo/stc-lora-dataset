@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man interacting with a glowing touchscreen table displaying a network map, in front of a large data visualization screen.",
+  "compositional_deconstruction": {
+    "background": "A dark room with a large wall screen showing a glowing network map of connected lines and nodes in blue, pink, and white.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, leaning over a glowing white touchscreen table and pointing at it with one finger."
+      }
+    ]
+  }
+}

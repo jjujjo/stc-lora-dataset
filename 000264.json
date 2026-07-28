@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man with wired earphones playing a game on his smartphone while seated on an airplane.",
+  "compositional_deconstruction": {
+    "background": "The interior of an airplane cabin with blue seats visible around him.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man with a beard, wearing a white thobe and wired earphones, smiling while holding a smartphone horizontally in both hands."
+      }
+    ]
+  }
+}

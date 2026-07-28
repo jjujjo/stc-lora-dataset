@@ -1,11 +1,20 @@
 {
-  "high_level_description": "stc brand style, a hand tapping a smartphone screen showing a government login portal, against a blurred purple bokeh background.",
+  "high_level_description": "stc brand style, an ad graphic of a man and a woman in a hijab listening to music on headphones, layered with bold Arabic text reading 'offers'.",
   "compositional_deconstruction": {
-    "background": "A dark background filled with glowing purple and blue bokeh light circles.",
+    "background": "A background split between deep purple and vivid pink-red, lit with cool blue tones on the subjects.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A hand holding a smartphone and tapping the screen, which displays a green-and-white government authentication portal with a step progress indicator."
+        "desc": "A man wearing a white t-shirt, wearing over-ear headphones and looking down at a tablet."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a black hijab and black outfit, wearing headphones, smiling with her eyes closed and holding a smartphone."
+      },
+      {
+        "type": "text",
+        "text": "العروض",
+        "desc": "Large white Arabic text repeated three times, reading 'the offers'."
       }
     ]
   }

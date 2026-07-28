@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a smiling man sitting atop a tall concrete pillar while talking on the phone, viewed from a low angle.",
+  "compositional_deconstruction": {
+    "background": "A modern building facade with angled beige support beams and glass windows, photographed from a low angle against a clear sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a light blue t-shirt and dark pants, sitting cross-legged on top of a tall pillar, smiling while holding a smartphone to his ear."
+      }
+    ]
+  }
+}

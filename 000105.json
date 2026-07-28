@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a woman on the phone smiling in a cafe, with a man visible at a table in the background.",
+  "compositional_deconstruction": {
+    "background": "A warmly lit cafe interior with wood-slat paneling and large windows letting in soft daylight.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a grey hijab and abaya, smiling while talking on a smartphone, with a coffee cup and pastry on the table in front of her."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing glasses and a dark cardigan, seated at a table in the background with a mug."
+      }
+    ]
+  }
+}

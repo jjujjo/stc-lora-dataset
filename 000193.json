@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, a night-shift industrial worker checking a tablet beneath a formation of satellites in the starry sky.",
+  "compositional_deconstruction": {
+    "background": "A dark industrial site at night with warm lights glowing from machinery and a starry sky filled with a row of satellites overhead.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white hard hat and a high-visibility safety jacket, looking down at a tablet in his hands."
+      },
+      {
+        "type": "obj",
+        "desc": "A row of satellites with solar panels flying in formation across the night sky."
+      },
+      {
+        "type": "text",
+        "text": "",
+        "desc": "A dashed line diagram connecting a speed gauge icon and a battery/lightning icon to the scene below, suggesting network monitoring."
+      }
+    ]
+  }
+}

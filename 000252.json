@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two men playing a virtual reality game together in a cozy beige living room.",
+  "compositional_deconstruction": {
+    "background": "A cozy beige living room with sheer white curtains, a potted plant, and a small stc-branded speaker on a side table.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a grey hoodie, standing and smiling while wearing a white VR headset and holding two controllers."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a brown polo shirt, seated on a sofa, wearing a VR headset and reaching a controller forward."
+      }
+    ]
+  }
+}

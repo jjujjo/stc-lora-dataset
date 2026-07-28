@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a diagram-style graphic of a woman pointing upward beside a smartphone connected to a bank card, laptop, computer, and the stc logo.",
+  "compositional_deconstruction": {
+    "background": "A plain white background with purple line-art icons and connector lines forming a flowchart.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a hijab, lit in purple and red, pointing upward with her index finger."
+      },
+      {
+        "type": "text",
+        "text": "bill",
+        "desc": "Red text displayed on a smartphone icon in the center of the diagram, connected by lines to a bank card icon, a laptop icon, a desktop monitor icon, and an stc storefront icon."
+      }
+    ]
+  }
+}

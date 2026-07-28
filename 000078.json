@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a close-up of colorful network cables plugged into a server patch panel, lit with vivid blue and pink lighting.",
+  "compositional_deconstruction": {
+    "background": "A dark server room, lit dramatically with blue and pink light reflecting off the bundled cables.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Dense bundles of network cables in white and dark colors, routed through cable management arms into labeled patch panels marked with port numbers."
+      }
+    ]
+  }
+}

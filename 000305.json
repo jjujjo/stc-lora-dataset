@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two Saudi men walking side by side beneath a sculptural fabric canopy structure.",
+  "compositional_deconstruction": {
+    "background": "A modern outdoor plaza with sail-like fabric canopy structures, mirrored columns, and trees.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, walking and glancing to the side."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a black skullcap, walking beside him."
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a smiling man in a red-and-white ghutra using a tablet against a dark teal background.",
+  "compositional_deconstruction": {
+    "background": "A plain dark teal studio background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, smiling while tapping on a dark tablet held in his hands."
+      }
+    ]
+  }
+}

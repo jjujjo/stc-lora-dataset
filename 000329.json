@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a split night desert scene showing an offshore oil rig transitioning into an SUV driving through rocky desert terrain, with a satellite overhead.",
+  "compositional_deconstruction": {
+    "background": "Two panels side by side: a lit offshore oil platform over dark water under a starry sky on the left, and a rocky desert canyon at dusk on the right.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A satellite with solar panels positioned in the starry sky above the rig."
+      },
+      {
+        "type": "obj",
+        "desc": "A white SUV with a roof-mounted device driving across the desert terrain, kicking up dust."
+      }
+    ]
+  }
+}

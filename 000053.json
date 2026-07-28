@@ -1,16 +1,16 @@
 {
-  "high_level_description": "stc brand style, a low-angle portrait of a man in an stc-branded shirt looking up at a telecom tower against a hazy sky.",
+  "high_level_description": "stc brand style, a woman in a purple hijab and yellow outfit browsing a tablet while seated in an armchair, lit with vivid purple and yellow tones.",
   "compositional_deconstruction": {
-    "background": "A hazy pink and purple sky with a telecom transmission tower rising behind the man, framed by black letterbox bars.",
+    "background": "A textured marble-like wall lit with dramatic purple and pink lighting, a small round side table beside the armchair.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man with short dark hair, wearing a dark purple polo shirt, looking upward with a determined expression."
+        "desc": "A woman wearing a purple hijab and a matching yellow top and pants, seated in a pink armchair and holding up a tablet with both hands."
       },
       {
         "type": "text",
-        "text": "stc",
-        "desc": "The white stc wordmark printed on the chest of the man's shirt."
+        "text": "سرعات عالية",
+        "desc": "Partially visible white Arabic text reading 'high speeds' near the tablet screen."
       }
     ]
   }

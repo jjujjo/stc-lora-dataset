@@ -1,16 +1,15 @@
 {
-  "high_level_description": "stc brand style, a flat purple and white line-art illustration of two hands holding a smartphone displaying the stc app icon.",
+  "high_level_description": "stc brand style, two Saudi colleagues working together at a desktop computer in a colorful coworking space with purple and green accents.",
   "compositional_deconstruction": {
-    "background": "A solid deep purple background.",
+    "background": "A modern coworking space with purple geometric carpet tiles, pink signage, colorful stools, and people working in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "Two white line-art hands holding a smartphone, one finger tapping the screen."
+        "desc": "A man wearing a red-and-white checkered ghutra and glasses, seated and looking at the monitor."
       },
       {
-        "type": "text",
-        "text": "stc",
-        "desc": "The white stc app icon with rounded corners displayed on the phone screen."
+        "type": "obj",
+        "desc": "A man wearing a black t-shirt, seated beside him, talking and gesturing toward the screen."
       }
     ]
   }

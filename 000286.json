@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two children playing with toy guns and jumping excitedly on a purple rug in a bright living room.",
+  "compositional_deconstruction": {
+    "background": "A bright living room with sheer white curtains, a grey sofa, and a wooden side table holding a small stc router.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A boy wearing a play police helmet and a shirt and tie, jumping mid-air with arms raised, holding a toy gun."
+      },
+      {
+        "type": "obj",
+        "desc": "A girl wearing a helmet and goggles, sitting on the sofa arm, holding a toy gun and smiling."
+      }
+    ]
+  }
+}

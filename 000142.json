@@ -1,0 +1,17 @@
+{
+  "high_level_description": "stc brand style, a man in a red-and-white ghutra seen from behind, working at a desk with multiple screens displaying code and a dashboard with a speed gauge.",
+  "compositional_deconstruction": {
+    "background": "A dark control room with a blurred wall-mounted monitor showing a dashboard in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, seen from behind, facing two side monitors displaying lines of code."
+      },
+      {
+        "type": "text",
+        "text": "120",
+        "desc": "A speed gauge readout displayed on the blurred background monitor."
+      }
+    ]
+  }
+}

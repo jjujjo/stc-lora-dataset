@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a woman in a maroon hijab working at a glowing touchscreen server panel while a man looks on, lit with purple lighting.",
+  "compositional_deconstruction": {
+    "background": "A dim server room with black server racks and green and purple accent lighting, with visible ceiling piping.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a maroon hijab and a purple abaya, touching a glowing purple touchscreen panel mounted on a server rack."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, standing behind her, arms crossed, looking at her."
+      }
+    ]
+  }
+}

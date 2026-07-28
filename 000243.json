@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, an overhead view of a woman on a video call with a laptop glowing on a nearby table, reclining on a grey couch.",
+  "compositional_deconstruction": {
+    "background": "A bright living room viewed from a high angle, with a beige sofa and a black side table holding an open laptop.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a white hijab and a lavender tracksuit, smiling while holding up a smartphone showing a video call, with white sneakers visible."
+      }
+    ]
+  }
+}

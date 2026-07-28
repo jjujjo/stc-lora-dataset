@@ -1,0 +1,30 @@
+{
+  "high_level_description": "stc brand style, a group of Saudi men and a woman at a formal partnership signing event in front of an stc and Al Fozan Social Foundation backdrop.",
+  "compositional_deconstruction": {
+    "background": "A white step-and-repeat backdrop covered with stc and Al Fozan Social Foundation logos, above a curved white desk with a large purple stc logo.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, seated and signing a document with a pen."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a dark hijab and a patterned blazer, seated beside him at the desk."
+      },
+      {
+        "type": "obj",
+        "desc": "Two men wearing white thobes and red-and-white checkered ghutras, standing behind the seated pair."
+      },
+      {
+        "type": "text",
+        "text": "stc",
+        "desc": "Purple stc wordmark repeated across the backdrop and displayed large on the front of the desk."
+      },
+      {
+        "type": "text",
+        "text": "AL FOZAN SOCIAL FOUNDATION",
+        "desc": "White and pink logo and text for the Al Fozan Social Foundation repeated across the backdrop."
+      }
+    ]
+  }
+}

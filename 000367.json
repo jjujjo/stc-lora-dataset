@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a woman handing a tablet to a Saudi man across a small table in a bright office lounge.",
+  "compositional_deconstruction": {
+    "background": "A bright office lounge with a potted plant and cabinets visible in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a black hijab and a black embroidered abaya with silver bracelets, smiling while handing over a tablet."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing glasses and a white thobe, seated and reaching to take the tablet."
+      }
+    ]
+  }
+}

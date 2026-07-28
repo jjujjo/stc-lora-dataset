@@ -1,19 +1,16 @@
 {
-  "high_level_description": "stc brand style, a set of flat purple and pink streaming app interface mockups shown on overlapping browser and phone screens.",
+  "high_level_description": "stc brand style, an ad graphic of a man wearing a VR phone headset, paired with bold white Arabic text on a red color block.",
   "compositional_deconstruction": {
-    "background": "A plain white background with a purple and red color-block accent bar.",
+    "background": "A background split vertically between deep purple on the left and red-pink on the right.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A browser window mockup showing a video streaming homepage with a play icon logo, a movie title placeholder, and a row of show thumbnails."
+        "desc": "A man seen from the side, wearing a VR headset with a smartphone slotted into the front, lit with blue and red light."
       },
       {
-        "type": "obj",
-        "desc": "A second browser window mockup showing a grid of category icons and two rows of video thumbnails under 'Originals' and 'Continue Watching' labels."
-      },
-      {
-        "type": "obj",
-        "desc": "A phone screen mockup showing a streaming series page with a play button and a row of thumbnails labeled 'Live Now'."
+        "type": "text",
+        "text": "بلس",
+        "desc": "Large white Arabic text reading 'Plus' on the red portion of the background."
       }
     ]
   }

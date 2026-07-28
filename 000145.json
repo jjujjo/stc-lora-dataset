@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a telecom tower silhouetted against a warm sunset sky with scattered clouds.",
+  "compositional_deconstruction": {
+    "background": "A gradient teal-to-orange sunset sky with scattered clouds.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A tall lattice telecom tower fitted with several antenna panels and a small dish near the top."
+      }
+    ]
+  }
+}

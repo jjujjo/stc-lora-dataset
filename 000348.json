@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a close-up of a contactless payment being made with a smartphone tapped against a card reader.",
+  "compositional_deconstruction": {
+    "background": "A blurred dim restaurant interior with warm bokeh lights in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A hand holding a black payment terminal."
+      },
+      {
+        "type": "obj",
+        "desc": "A hand tapping a smartphone against the terminal to complete a contactless payment."
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a close-up of a paramedic's hands operating a portable heart monitor beside an ambulance.",
+  "compositional_deconstruction": {
+    "background": "A blurred outdoor scene with a red ambulance vehicle in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A gloved hand adjusting the buttons on a portable defibrillator/heart monitor device displaying a heartbeat waveform and the number 68."
+      },
+      {
+        "type": "obj",
+        "desc": "A second person's hand resting on the red equipment nearby."
+      }
+    ]
+  }
+}
