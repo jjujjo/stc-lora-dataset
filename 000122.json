@@ -1,16 +1,11 @@
 {
-  "high_level_description": "stc brand style, a satellite with an stc-branded panel orbiting above a desert landscape seen from space.",
+  "high_level_description": "stc brand style, a man in a red-and-white ghutra sitting on a couch checking his smartphone, lit with soft pink light.",
   "compositional_deconstruction": {
-    "background": "A view of Earth's curved horizon from orbit, showing a desert mountain landscape with a starry black sky above.",
+    "background": "A softly pink-lit lounge with a beige sofa and a wooden pendant light fixture.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A satellite with solar panels and a dish antenna orbiting above the planet."
-      },
-      {
-        "type": "text",
-        "text": "stc",
-        "desc": "A tall white panel with a small red accent bar attached to the satellite, suggesting the stc brand color."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seated on a couch looking down at a smartphone in his hand."
       }
     ]
   }

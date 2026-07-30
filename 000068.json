@@ -1,16 +1,15 @@
 {
-  "high_level_description": "stc brand style, an ad graphic of a purple stc recharge card with a scratch-off code, beside bold white Arabic text.",
+  "high_level_description": "stc brand style, a woman and a man in an office lounge looking at a tablet together.",
   "compositional_deconstruction": {
-    "background": "A solid vivid pink-red background.",
+    "background": "A bright office lounge with white cabinets, a potted plant, and orange armchairs.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A stack of purple recharge cards with a white scratch-off area revealing a long numeric code."
+        "desc": "A woman wearing a black hijab and a black embroidered abaya, pointing at the tablet screen while holding a cup."
       },
       {
-        "type": "text",
-        "text": "والبطاقة تقول يا ساتر",
-        "desc": "Bold white Arabic text below the card, a colloquial phrase expressing surprise at the card's value."
+        "type": "obj",
+        "desc": "A man wearing a white thobe and glasses, holding a tablet and looking at it, with a pen in his shirt pocket."
       }
     ]
   }

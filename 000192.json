@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a striking portrait of a woman in a black abaya holding a lavender handbag against a dark background.",
+  "high_level_description": "stc brand style, a woman taking a photo of her shopping bag inside a bright shopping mall with a geometric glass ceiling.",
   "compositional_deconstruction": {
-    "background": "A plain dark background lit with a soft purple gradient glow.",
+    "background": "A bright shopping mall atrium with a geometric triangular glass skylight and a colorful mural visible on a storefront below.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a black hijab and a pleated black abaya, looking off to the side with her hand resting near her chin, holding a lavender top-handle handbag."
+        "desc": "A woman wearing a red hijab and a black pleated abaya, holding up a smartphone and a white shopping bag, with a handbag over her shoulder."
       }
     ]
   }

@@ -1,11 +1,27 @@
 {
-  "high_level_description": "stc brand style, a smiling woman in a lavender abaya taking a selfie inside a bright modern building with a spiral staircase.",
+  "high_level_description": "stc brand style, a family of five sitting together on a couch watching TV in a bright, minimalist living room.",
   "compositional_deconstruction": {
-    "background": "A bright, minimalist building interior with a curved staircase and warm accent lighting along the railing.",
+    "background": "A bright, minimalist living room with wall sconces, potted plants, and a small stc router on a side table beside the TV.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a beige hijab and a lavender abaya, smiling while holding up a smartphone to take a selfie."
+        "desc": "A boy seated on an armchair to the left."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a beige hijab, seated on the sofa."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a white hijab, seated beside her."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seated on the sofa's arm."
+      },
+      {
+        "type": "obj",
+        "desc": "A boy seated cross-legged on the floor, looking down at a tablet."
       }
     ]
   }

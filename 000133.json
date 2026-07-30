@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a man in a red-and-white ghutra talking on his phone while walking through a bright hallway.",
+  "high_level_description": "stc brand style, a smiling woman in a blue abaya using a tablet on a couch, lit with warm pink and purple ambient lighting.",
   "compositional_deconstruction": {
-    "background": "A bright hallway with a blurred green plant and a dark wooden column in the background.",
+    "background": "A softly lit living room with a pink-toned wall, a glass shelf unit, a potted plant, and a lit candle on a side table.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe, a red-and-white checkered ghutra, and glasses, talking on a smartphone."
+        "desc": "A woman wearing a light purple hijab and a blue abaya with embroidered detailing, smiling while typing on a tablet."
       }
     ]
   }

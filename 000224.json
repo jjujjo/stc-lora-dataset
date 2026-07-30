@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a woman analyzing data dashboards on dual monitors in a dark control room.",
+  "high_level_description": "stc brand style, a smiling man sitting on a table using a tablet while his laptop is open in front of him.",
   "compositional_deconstruction": {
-    "background": "A dark control room with blurred colorful lights in the background.",
+    "background": "A bright minimalist room with a glass-paned door, potted plants, and a small stc router visible on a side table.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a navy hijab, looking at a monitor displaying a line chart, a world map, and gauge dials, with a second monitor showing bar charts and a circular progress indicator beside her."
+        "desc": "A man wearing a cream vest over a striped shirt, smiling while holding a tablet, seated on the edge of a table with an open laptop, a purple mug, and notebooks beside him."
       }
     ]
   }

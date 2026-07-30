@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, three Saudi colleagues discussing plans in a bright pink and white coworking space.",
+  "high_level_description": "stc brand style, a joyful portrait of a woman in a black abaya and pink hijab wearing headphones and holding a tablet against a lavender background.",
   "compositional_deconstruction": {
-    "background": "A bright coworking space with pink-toned walls, glass cubicles, and desks visible in the background.",
+    "background": "A soft lavender gradient studio background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra, seated at a round table."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a white thobe, seated across from him at a desk with a monitor and keyboard, gesturing while talking."
+        "desc": "A woman wearing a pink hijab, black abaya, and large over-ear headphones, laughing while pointing at a tablet held in her other hand."
       }
     ]
   }

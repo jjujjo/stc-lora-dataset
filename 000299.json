@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a Saudi man checking his phone in the backseat of a car in the city.",
+  "high_level_description": "stc brand style, a hand holding a car key fob above a silver toy sports car on a purple pedestal.",
   "compositional_deconstruction": {
-    "background": "The interior of a car with a blurred city building visible through the window.",
+    "background": "A plain vivid purple studio background with angular pedestal shapes.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, looking down at a smartphone held in both hands."
+        "desc": "A hand holding a black car key fob by its ring, suspended above a silver sports car model resting on a purple shelf."
       }
     ]
   }

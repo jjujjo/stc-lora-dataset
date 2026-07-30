@@ -1,23 +1,16 @@
 {
-  "high_level_description": "stc brand style, an overhead view of four colleagues collaborating around a wooden table with a tablet showing a world map.",
+  "high_level_description": "stc brand style, a man monitoring multiple screens displaying medical scan data and vital signs in a modern office.",
   "compositional_deconstruction": {
-    "background": "A grey wooden conference table with black office chairs, lit by purple-tinted studio lighting.",
+    "background": "A dim modern office with wood-toned walls and warm accent lighting, with several large monitors mounted on the desk.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, typing on a laptop with a phone beside him."
+        "desc": "A man with short dark hair, wearing a light blue collared shirt, typing on a keyboard while looking at monitors."
       },
       {
-        "type": "obj",
-        "desc": "A woman wearing a purple hijab and abaya, hands clasped, wearing a gold watch."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman in a cream and pink top, writing in a notebook beside a coffee cup."
-      },
-      {
-        "type": "obj",
-        "desc": "A bald man wearing glasses and a white shirt, touching a tablet displaying a dark-blue interface with a green world map and 'stc' text, with a stylus pen pointing at it from across the table."
+        "type": "text",
+        "text": "167 98 22 118 9",
+        "desc": "Glowing blue and pink vital-sign readouts on the monitors, alongside a scanned image of a heart and a human torso with a highlighted chest area."
       }
     ]
   }

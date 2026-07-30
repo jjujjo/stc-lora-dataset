@@ -1,11 +1,15 @@
 {
-  "high_level_description": "stc brand style, a satellite with solar panels displaying embedded desert road footage, flying through a starry night sky.",
+  "high_level_description": "stc brand style, a smiling young man on a phone call while holding a coffee cup at a wooden counter, with a barista in the background.",
   "compositional_deconstruction": {
-    "background": "A dense starry night sky.",
+    "background": "A wood-paneled cafe interior with a shelf of trophies in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A satellite with a dish antenna and solar panels showing an embedded aerial image of trucks driving on a desert road at night."
+        "desc": "A man with curly hair, wearing a black t-shirt, smiling while holding a smartphone to his ear and a coffee cup in his other hand."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a vest, standing behind the counter in the background."
       }
     ]
   }

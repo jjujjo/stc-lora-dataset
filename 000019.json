@@ -1,11 +1,15 @@
 {
-  "high_level_description": "stc brand style, a close-up profile portrait of a woman in a hijab holding round sunglasses up to her face, lit with vivid blue and pink dual-tone lighting.",
+  "high_level_description": "stc brand style, three Saudi colleagues examining a large blueprint map spread across a table in a purple-lit office.",
   "compositional_deconstruction": {
-    "background": "A dark background lit dramatically with blue and pink duotone lighting.",
+    "background": "A purple and beige lit office corner with a potted plant in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a blue hijab and blue top, in profile, holding a pair of round sunglasses just below her eyes with one hand."
+        "desc": "Two men wearing white thobes and red-and-white checkered ghutras, leaning over the table and pointing at the map."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a light pink hijab and an embroidered cream abaya, pointing at a location on the map with her finger."
       }
     ]
   }

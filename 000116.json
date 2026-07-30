@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, a man and a woman in an airplane cabin using their phones, lit with warm pink sunset light through the window.",
+  "high_level_description": "stc brand style, a telecom tower silhouetted against a warm sunset sky with scattered clouds.",
   "compositional_deconstruction": {
-    "background": "The interior of an airplane cabin at sunset, with warm golden light streaming through the window.",
+    "background": "A gradient teal-to-orange sunset sky with scattered clouds.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe, seated in the foreground looking down."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a pink hijab, seated beside him looking down at a phone resting on the tray table."
+        "desc": "A tall lattice telecom tower fitted with several antenna panels and a small dish near the top."
       }
     ]
   }

@@ -1,12 +1,11 @@
 {
-  "high_level_description": "stc brand style, a wide cinematic shot of a cargo ship being unloaded by tall port cranes, with subtitle text about overcoming challenges.",
+  "high_level_description": "stc brand style, a close-up product shot of a white home telephone and WiFi router set on a wooden table.",
   "compositional_deconstruction": {
-    "background": "A port with a large 'MTC LINE' container ship docked beside tall yellow gantry cranes under a clear blue sky, framed with black letterbox bars.",
+    "background": "A blurred cafe interior in warm tones with tables and chairs visible in the background.",
     "elements": [
       {
-        "type": "text",
-        "text": "all of these challenges have been overcome.",
-        "desc": "White subtitle text at the bottom of the frame."
+        "type": "obj",
+        "desc": "A white cordless telephone handset on its charging base, positioned beside a white WiFi router with numbered port indicator lights."
       }
     ]
   }

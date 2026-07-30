@@ -1,27 +1,11 @@
 {
-  "high_level_description": "stc brand style, a family of five sitting together on a couch watching TV in a bright, minimalist living room.",
+  "high_level_description": "stc brand style, a Saudi man pointing at and tapping on a smartphone, cut out against a vivid purple background.",
   "compositional_deconstruction": {
-    "background": "A bright, minimalist living room with wall sconces, potted plants, and a small stc router on a side table beside the TV.",
+    "background": "A plain vivid purple background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A boy seated on an armchair to the left."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a beige hijab, seated on the sofa."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a white hijab, seated beside her."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seated on the sofa's arm."
-      },
-      {
-        "type": "obj",
-        "desc": "A boy seated cross-legged on the floor, looking down at a tablet."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seated and pointing with one finger while holding a smartphone in the other hand."
       }
     ]
   }

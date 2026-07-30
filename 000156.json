@@ -1,24 +1,11 @@
 {
-  "high_level_description": "stc brand style, a man presenting to two women in front of a wall-mounted screen showing a bar chart.",
+  "high_level_description": "stc brand style, a woman taking a selfie surrounded by houseplants beside a smart WiFi router mounted on the wall.",
   "compositional_deconstruction": {
-    "background": "A bright office with a large wall-mounted screen and a green plant in the corner.",
+    "background": "A bright room filled with potted plants beside a light wood door, with a white stc-branded WiFi router mounted on the wall.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe, smiling and gesturing with both hands while speaking."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a brown hijab and abaya, holding a tablet and smiling while listening."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a brown hijab, seated in the foreground with her back partly to the camera, a laptop open in front of her."
-      },
-      {
-        "type": "text",
-        "text": "chart data",
-        "desc": "A bar chart with a pie chart inset displayed on the wall-mounted screen behind them."
+        "desc": "A woman wearing a white hijab and a purple blouse, smiling while holding up a smartphone to take a selfie, holding a small white basket in her other hand."
       }
     ]
   }

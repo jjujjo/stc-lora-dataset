@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a stylized 3D render of a miniature football stadium embedded on a purple circuit board.",
+  "high_level_description": "stc brand style, a Saudi man writing on a tablet with a stylus at a wooden desk.",
   "compositional_deconstruction": {
-    "background": "A close-up of a purple computer circuit board with visible traces, chips, and gold connector pins.",
+    "background": "An office interior with vertical wood-slat partitions, a wall-mounted device, and a glass of water on the desk.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A miniature detailed football stadium model with a pink running track and green pitch, seamlessly integrated into the circuit board pattern."
+        "desc": "A man wearing glasses and a red-and-white checkered ghutra, writing on a tablet with a stylus pen."
       }
     ]
   }

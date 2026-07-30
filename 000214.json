@@ -1,19 +1,11 @@
 {
-  "high_level_description": "stc brand style, a Saudi man standing and addressing two seated colleagues in a bright conference room.",
+  "high_level_description": "stc brand style, a satellite with solar panels displaying an embedded desert road scene, orbiting above Earth at sunrise.",
   "compositional_deconstruction": {
-    "background": "A bright conference room with floor-to-ceiling windows overlooking a hazy cityscape.",
+    "background": "A view of Earth's curved horizon glowing with a sunrise, dotted with city lights below.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing glasses and a white thobe, seated with a notebook, listening."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, standing and gesturing with a pen in hand, speaking."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra, seated across the table with a tablet, listening."
+        "desc": "A satellite with a dish antenna and solar panels showing an embedded aerial image of a desert road and a small vehicle."
       }
     ]
   }

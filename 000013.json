@@ -1,11 +1,19 @@
 {
-  "high_level_description": "stc brand style, two boys in white thobes sitting at small desks using a laptop and tablet in front of a glass wall overlooking palm trees.",
+  "high_level_description": "stc brand style, three Saudi colleagues in a purple-lit meeting room watching a woman present video content on a wall-mounted screen.",
   "compositional_deconstruction": {
-    "background": "A bright indoor space with a glass wall showing palm trees and buildings outside, softly purple-tinted lighting.",
+    "background": "A purple-lit meeting room with a framed abstract poster, potted plants, and a wooden conference table with laptops and tea glasses.",
     "elements": [
       {
         "type": "obj",
-        "desc": "Two boys wearing white thobes, seated at small school desks; one types on a laptop while the other holds a purple tablet, both looking at the tablet screen."
+        "desc": "Two men wearing white thobes and red-and-white checkered ghutras, seated at the table watching the screen."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a grey abaya and hijab, standing and pointing at a video streaming interface on the wall-mounted screen."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and red-and-white checkered ghutra, seated with his back to the camera, pointing toward the screen."
       }
     ]
   }

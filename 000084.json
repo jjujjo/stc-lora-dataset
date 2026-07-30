@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, a man and woman having a conversation across a wooden table in a dimly lit cafe at night, each with a laptop open.",
+  "high_level_description": "stc brand style, a woman in a grey abaya smiling at her smartphone beside potted cacti on a wooden counter.",
   "compositional_deconstruction": {
-    "background": "A dim cafe interior at night with warm string lights and pendant chandeliers glowing in the background.",
+    "background": "A dark interior with a marble wall panel on the left and angular dark and beige wall sections in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a beige hijab and glasses, seen from behind, seated in front of an open laptop."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra and glasses, seated across the table with an open laptop, listening."
+        "desc": "A woman wearing a white hijab and a grey abaya, smiling while looking down at a smartphone held in both hands, standing behind a wooden counter with two potted cacti."
       }
     ]
   }

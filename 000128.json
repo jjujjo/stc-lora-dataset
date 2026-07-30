@@ -1,11 +1,24 @@
 {
-  "high_level_description": "stc brand style, a woman relaxing in a hammock in a palm grove, smiling while using a tablet.",
+  "high_level_description": "stc brand style, a man and two women examining a tablet displaying stc news and a colorful cube icon grid, in a vivid purple and pink lit exhibit space.",
   "compositional_deconstruction": {
-    "background": "A lush green palm grove with tall palm trunks and grass, softly lit by daylight.",
+    "background": "A vivid purple and pink lit exhibit space with a wall display showing an icon grid and a portrait photo, illuminated by dramatic gel lighting.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a grey hijab and wrapped in an orange and mustard-yellow blanket, smiling while holding a tablet, reclining in a white macrame hammock with a purple cushion."
+        "desc": "A woman wearing a pink hijab, standing and observing the scene."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, standing and gesturing while speaking."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a purple hijab, holding up a tablet displaying a news article and touching the screen with one finger."
+      },
+      {
+        "type": "text",
+        "text": "stc Solutions signs deal with Saudi Telecom to build data centers",
+        "desc": "News headline text displayed on the tablet screen."
       }
     ]
   }

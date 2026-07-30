@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a woman in a mustard abaya and white hijab shopping for vegetables in a bright grocery store aisle.",
+  "high_level_description": "stc brand style, a boy in a mustard sweater smiling while washing his hands at a bathroom sink lit with purple accent lighting.",
   "compositional_deconstruction": {
-    "background": "A grocery store produce aisle with shelves of vegetables, warm overhead lighting, and a purple-lit ceiling accent.",
+    "background": "A bathroom with a grey stone sink, black faucet, and a hanging plant, lit with soft purple lighting.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a mustard yellow abaya and a white hijab, reaching for a bell pepper on the shelf while holding a black crate filled with peppers."
+        "desc": "A boy wearing a mustard yellow sweater, smiling and rubbing soapy hands together under running water at the sink."
       }
     ]
   }

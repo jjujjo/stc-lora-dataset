@@ -1,20 +1,12 @@
 {
-  "high_level_description": "stc brand style, an ad composite showing a wifi router product beside a phone screen mockup of its setup app, over a purple background.",
+  "high_level_description": "stc brand style, the stc wordmark logo centered on a solid purple background.",
   "compositional_deconstruction": {
-    "background": "A solid deep purple background with a white horizontal accent stripe and a red color block.",
+    "background": "A solid deep purple background.",
     "elements": [
       {
-        "type": "obj",
-        "desc": "A white cylindrical wifi router with visible ports, next to a hand pressing its power button."
-      },
-      {
-        "type": "obj",
-        "desc": "A smartphone mockup displaying a purple setup screen with step instructions and a blue device icon."
-      },
-      {
         "type": "text",
-        "text": "اضغط على زر التشغيل 5 ثوانٍ",
-        "desc": "White and red Arabic instructional text telling the user to press the power button for five seconds."
+        "text": "stc",
+        "desc": "The white stc wordmark logo centered in the frame, with a subtle drop shadow."
       }
     ]
   }

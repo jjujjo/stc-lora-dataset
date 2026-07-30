@@ -1,23 +1,11 @@
 {
-  "high_level_description": "stc brand style, four colleagues collaborating around a table with laptops and a tablet in a warmly lit lounge.",
+  "high_level_description": "stc brand style, a young boy riding a kick scooter down a tree-lined pedestrian path in a modern neighborhood.",
   "compositional_deconstruction": {
-    "background": "A warmly lit lounge with vertical wood slat partitions and a glowing wall sconce.",
+    "background": "A tree-lined pedestrian path between modern buildings, with potted shrubs along the walkway.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, typing on a laptop, smiling."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seated beside him with a laptop, smiling."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a purple hijab and abaya, reaching toward a tablet propped on the table, smiling."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a black hijab, seated across the table, looking at the group."
+        "desc": "A boy wearing a white t-shirt, light pants, and a black helmet, riding a kick scooter and smiling toward the camera."
       }
     ]
   }

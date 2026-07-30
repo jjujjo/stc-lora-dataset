@@ -1,15 +1,15 @@
 {
-  "high_level_description": "stc brand style, two Saudi men discussing a smart-city presentation displayed on a large screen at an exhibition booth.",
+  "high_level_description": "stc brand style, two Saudi colleagues working together at a desktop computer in a colorful coworking space with purple and green accents.",
   "compositional_deconstruction": {
-    "background": "An exhibition booth with a large purple-lit display screen showing a 3D city model, small architectural models on a table in the foreground.",
+    "background": "A modern coworking space with purple geometric carpet tiles, pink signage, colorful stools, and people working in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, looking at his colleague while a lavalier microphone is clipped to his collar."
+        "desc": "A man wearing a red-and-white checkered ghutra and glasses, seated and looking at the monitor."
       },
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, gesturing with both hands while speaking."
+        "desc": "A man wearing a black t-shirt, seated beside him, talking and gesturing toward the screen."
       }
     ]
   }

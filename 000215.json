@@ -1,15 +1,15 @@
 {
-  "high_level_description": "stc brand style, two older Saudi men in a deep conversation while seated on a traditional rug in the desert at dusk, with a tablet and coffee set nearby.",
+  "high_level_description": "stc brand style, an overhead view of a Saudi man standing with arms crossed while a woman points at a computer screen.",
   "compositional_deconstruction": {
-    "background": "A vast desert with rolling sand dunes under a soft pastel dusk sky, with a patterned red rug and low wooden seats laid out on the sand.",
+    "background": "A polished dark stone floor reflecting overhead light, viewed from directly above.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man with a white beard, wearing a white thobe, gesturing with his hand while speaking."
+        "desc": "A man wearing a red-and-white checkered ghutra and a white thobe, standing with arms crossed."
       },
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe, listening and smiling, with a tablet propped up in front of him and a traditional brass coffee pot and cups on a tray beside him."
+        "desc": "A woman wearing a black hijab and abaya, seated at the desk and pointing at a computer monitor."
       }
     ]
   }

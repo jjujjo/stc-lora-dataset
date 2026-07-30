@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a man seated at a dining table using a device in a moody purple-lit modern loft apartment at night.",
+  "high_level_description": "stc brand style, a Saudi man checking his phone in the backseat of a car in the city.",
   "compositional_deconstruction": {
-    "background": "A moody purple-lit open-plan loft apartment at night, with built-in shelving displaying decor, sofas, and floor-to-ceiling windows showing a glowing city skyline and abstract light patterns.",
+    "background": "The interior of a car with a blurred city building visible through the window.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a mustard-yellow top, seated at a wooden dining table, looking down at a device in front of him."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, looking down at a smartphone held in both hands."
       }
     ]
   }

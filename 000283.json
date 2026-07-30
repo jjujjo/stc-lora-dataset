@@ -1,15 +1,15 @@
 {
-  "high_level_description": "stc brand style, a hand holding a smartphone displaying a banking app beside purple gift bags and a gift box.",
+  "high_level_description": "stc brand style, a Saudi man and woman looking at a tablet together in a bright office lounge.",
   "compositional_deconstruction": {
-    "background": "A red and pink vertically striped studio background.",
+    "background": "A bright office lounge with white cabinets and a potted plant in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A hand holding a white smartphone displaying a purple banking app interface."
+        "desc": "A woman wearing a black hijab and a black embroidered abaya, pointing at the tablet screen."
       },
       {
         "type": "obj",
-        "desc": "Two purple gift bags and a small purple gift box arranged beside the phone."
+        "desc": "A man wearing glasses and a white thobe, holding a tablet and looking at it."
       }
     ]
   }

@@ -1,11 +1,16 @@
 {
-  "high_level_description": "stc brand style, a smiling woman using a tablet on a couch, lit with vivid pink lighting.",
+  "high_level_description": "stc brand style, a close-up product shot of a white stc-branded WiFi router standing on a dark marble counter, lit with vivid pink and purple lighting.",
   "compositional_deconstruction": {
-    "background": "A plain vivid pink studio background with a horizontal light band behind her.",
+    "background": "A dark marble counter with a marble wall panel behind it, lit dramatically with pink and purple ambient light.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a lavender hijab and a blue abaya with embroidered detailing, smiling while typing on a tablet."
+        "desc": "A white WiFi router with a purple stc logo on its lower panel, standing upright on the counter."
+      },
+      {
+        "type": "text",
+        "text": "stc",
+        "desc": "Purple stc logo printed on the lower section of the router."
       }
     ]
   }

@@ -1,24 +1,15 @@
 {
-  "high_level_description": "stc brand style, a doctor, a construction worker, and a Saudi businessman walking together toward the camera at dusk with an industrial skyline behind them.",
+  "high_level_description": "stc brand style, two Saudi men walking side by side beneath a sculptural fabric canopy structure.",
   "compositional_deconstruction": {
-    "background": "An industrial skyline at dusk with a lit flare stack and glowing tower, under a gradient purple-to-orange sky.",
+    "background": "A modern outdoor plaza with sail-like fabric canopy structures, mirrored columns, and trees.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a black hijab and a white lab coat with a stethoscope, walking."
+        "desc": "A man wearing a white thobe, walking and glancing to the side."
       },
       {
         "type": "obj",
-        "desc": "A man wearing a yellow hard hat and an orange high-visibility coverall, walking."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, walking."
-      },
-      {
-        "type": "text",
-        "text": "stc.com.sa business",
-        "desc": "Small white text along the right edge of the image."
+        "desc": "A man wearing a white thobe and a black skullcap, walking beside him."
       }
     ]
   }

@@ -1,11 +1,16 @@
 {
-  "high_level_description": "stc brand style, a hand holding a smartphone displaying a purple telecom app inside a luxury car interior.",
+  "high_level_description": "stc brand style, a low-angle portrait of a man in an stc-branded shirt looking up at a telecom tower against a hazy sky.",
   "compositional_deconstruction": {
-    "background": "The beige leather interior of a car, showing the steering wheel and headrest softly out of focus.",
+    "background": "A hazy pink and purple sky with a telecom transmission tower rising behind the man, framed by black letterbox bars.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A hand holding a smartphone showing a purple app interface with circular menu icons and an Arabic greeting message."
+        "desc": "A man with short dark hair, wearing a dark purple polo shirt, looking upward with a determined expression."
+      },
+      {
+        "type": "text",
+        "text": "stc",
+        "desc": "The white stc wordmark printed on the chest of the man's shirt."
       }
     ]
   }

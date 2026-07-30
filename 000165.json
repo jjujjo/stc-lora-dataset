@@ -1,15 +1,15 @@
 {
-  "high_level_description": "stc brand style, a father and son playing video games together on the floor of a bright living room.",
+  "high_level_description": "stc brand style, two women looking at a smartphone together in a bright glass-walled building.",
   "compositional_deconstruction": {
-    "background": "A bright living room with a grey sofa, sheer white curtains, and a small side table with a lamp and snacks.",
+    "background": "A bright building interior with a glass balustrade and geometric window patterns casting shadows on the wall.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a navy t-shirt, seated on the edge of the sofa holding a game controller, smiling."
+        "desc": "A woman wearing a black hijab and a grey-and-black abaya, looking down and smiling, holding a smartphone in one hand."
       },
       {
         "type": "obj",
-        "desc": "A young boy wearing an orange t-shirt, sitting cross-legged on the rug, holding a game controller and laughing."
+        "desc": "A woman wearing a white hijab and a black abaya, holding and looking at a smartphone, with a watch on her wrist."
       }
     ]
   }

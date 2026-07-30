@@ -1,11 +1,15 @@
 {
-  "high_level_description": "stc brand style, a man in a red-and-white ghutra checking his phone in the backseat of a car at night.",
+  "high_level_description": "stc brand style, a hand holding a smartphone displaying a banking app beside purple gift bags and a gift box.",
   "compositional_deconstruction": {
-    "background": "The dim interior of a car at night with city lights blurred through the window.",
+    "background": "A red and pink vertically striped studio background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe, a red-and-white checkered ghutra, and a black watch, looking down at a smartphone held in both hands."
+        "desc": "A hand holding a white smartphone displaying a purple banking app interface."
+      },
+      {
+        "type": "obj",
+        "desc": "Two purple gift bags and a small purple gift box arranged beside the phone."
       }
     ]
   }

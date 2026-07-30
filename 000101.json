@@ -1,15 +1,15 @@
 {
-  "high_level_description": "stc brand style, a close-up product shot of a white stc-branded WiFi router on a table with a blurred figure typing on a laptop behind it.",
+  "high_level_description": "stc brand style, a woman pointing at a laptop screen while explaining something to a seated man wearing a red-and-white ghutra.",
   "compositional_deconstruction": {
-    "background": "A blurred dark interior with a curtain and purple-lavender ambient lighting.",
+    "background": "A bright modern office with wood-slat ceiling beams and tall windows in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A white WiFi router with a purple stc logo, positioned in the foreground on a table."
+        "desc": "A woman wearing a maroon hijab and abaya and glasses, standing and pointing at the laptop screen."
       },
       {
         "type": "obj",
-        "desc": "A blurred man's hand typing on a laptop keyboard in the background, wearing a black watch and white sleeve."
+        "desc": "A man wearing a white thobe, a red-and-white checkered ghutra, and glasses, seated and resting his chin on his hand while looking at the laptop."
       }
     ]
   }

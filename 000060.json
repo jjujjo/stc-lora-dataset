@@ -1,16 +1,11 @@
 {
-  "high_level_description": "stc brand style, an ad graphic of a man wearing a VR phone headset, paired with bold white Arabic text on a red color block.",
+  "high_level_description": "stc brand style, a woman in a lavender abaya taking a selfie inside a bright modern building with a spiral staircase.",
   "compositional_deconstruction": {
-    "background": "A background split vertically between deep purple on the left and red-pink on the right.",
+    "background": "A bright, minimalist building interior with a curved staircase and warm accent lighting along the railing.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man seen from the side, wearing a VR headset with a smartphone slotted into the front, lit with blue and red light."
-      },
-      {
-        "type": "text",
-        "text": "بلس",
-        "desc": "Large white Arabic text reading 'Plus' on the red portion of the background."
+        "desc": "A woman wearing a beige hijab and a lavender abaya, smiling while holding up a smartphone to take a selfie."
       }
     ]
   }

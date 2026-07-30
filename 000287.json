@@ -1,23 +1,24 @@
 {
-  "high_level_description": "stc brand style, four colleagues using their devices together in a vivid pink and purple lit lounge space.",
+  "high_level_description": "stc brand style, three colleagues examining a folded map with a small solar panel model, lit with purple ambient lighting.",
   "compositional_deconstruction": {
-    "background": "A vivid pink and purple lit lounge with mustard-colored modular seating and a wall-mounted blank screen.",
+    "background": "A purple-lit room with a hint of greenery in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a pink wrap, holding a tablet."
+        "desc": "A man wearing a red-and-white checkered ghutra, leaning over the table."
       },
       {
         "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra and a white thobe, seated and looking at a smartphone."
+        "desc": "A man wearing a red-and-white checkered ghutra, standing beside him, pointing at the map."
       },
       {
         "type": "obj",
-        "desc": "A woman wearing a beige hijab, standing and looking at a smartphone."
+        "desc": "A woman wearing a beige hijab, pointing at the map with her other hand near a smartphone."
       },
       {
-        "type": "obj",
-        "desc": "A man wearing a plaid shirt, seated and typing on a laptop, wearing wireless earbuds and a smartwatch."
+        "type": "text",
+        "text": "",
+        "desc": "A large paper map with colored location pins spread on the table, beside a small solar panel model."
       }
     ]
   }

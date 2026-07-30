@@ -1,11 +1,16 @@
 {
-  "high_level_description": "stc brand style, a Saudi man writing on a tablet with a stylus at a wooden desk.",
+  "high_level_description": "stc brand style, a man from behind reviewing green candlestick stock charts on dual monitors in a dark office.",
   "compositional_deconstruction": {
-    "background": "An office interior with vertical wood-slat partitions, a wall-mounted device, and a glass of water on the desk.",
+    "background": "A dark office at night with a blurred cityscape or lights visible in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing glasses and a red-and-white checkered ghutra, writing on a tablet with a stylus pen."
+        "desc": "A man wearing a white shirt, seated and facing two monitors displaying green candlestick and line charts."
+      },
+      {
+        "type": "text",
+        "text": "",
+        "desc": "A small circular logo icon visible in the top corner of one monitor."
       }
     ]
   }

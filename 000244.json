@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a smiling man using a touchscreen point-of-sale tablet at a retail clothing store counter.",
+  "high_level_description": "stc brand style, a satellite with solar panels displaying embedded desert scenes, flying above Earth's curved horizon at sunrise.",
   "compositional_deconstruction": {
-    "background": "A retail store counter displaying decorative mugs and beaded bracelets, with clothing racks in the background.",
+    "background": "A view of Earth's curved horizon glowing with a bright sunrise, under a dark starry sky.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man with a beard, wearing a sage green shirt and a lanyard, smiling while tapping on a tablet mounted on a stand at the counter."
+        "desc": "A satellite with a dish antenna and solar panels showing embedded aerial images of a desert road with a small vehicle and a container ship at sea."
       }
     ]
   }

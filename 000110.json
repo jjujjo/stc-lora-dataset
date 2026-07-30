@@ -1,19 +1,11 @@
 {
-  "high_level_description": "stc brand style, three travelers using their phones and a laptop while waiting in a bright, minimalist airport terminal.",
+  "high_level_description": "stc brand style, a silhouetted portrait of a woman wearing headphones and holding a smartphone, lit dramatically in red and blue against a white background.",
   "compositional_deconstruction": {
-    "background": "A bright airport terminal with floor-to-ceiling glass windows and grey stone columns.",
+    "background": "A plain white background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a beige top and trousers, standing while looking down at her phone, carrying a purple bag."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a white t-shirt and headphones, seated on a bench with a laptop and a rolling suitcase beside him."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a light shirt, standing near a reception desk while talking on his phone, with a suitcase beside him."
+        "desc": "A woman wearing a hooded cloak and over-ear headphones, seen from behind at a three-quarter angle, holding a smartphone up in one hand, lit half in red and half in blue."
       }
     ]
   }

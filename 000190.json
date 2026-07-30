@@ -1,28 +1,11 @@
 {
-  "high_level_description": "stc brand style, a family cheering together while watching a soccer match on a large wall-mounted TV in their living room.",
+  "high_level_description": "stc brand style, a close-up of dense fiber optic cabling connected to a network patch panel, lit with vivid purple lighting.",
   "compositional_deconstruction": {
-    "background": "A bright, minimalist living room with a large wall-mounted TV, a wooden media console holding a small stc router, and an air conditioning unit on the wall.",
+    "background": "A dark server cabinet interior lit with vivid purple and blue ambient light.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A boy and girl seated cross-legged on the floor, cheering with raised fists."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra and a white thobe, seated on the sofa, cheering with a raised fist."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a grey hijab and a purple cardigan, seated beside him, smiling and cheering."
-      },
-      {
-        "type": "obj",
-        "desc": "A man with grey hair, wearing a white thobe and holding a remote control, smiling."
-      },
-      {
-        "type": "text",
-        "text": "stc 5G",
-        "desc": "White text on the small router unit on the media console."
+        "desc": "Rows of labeled fiber optic cable connectors plugged into a patch panel, with bundles of cream and blue cables routed neatly below."
       }
     ]
   }

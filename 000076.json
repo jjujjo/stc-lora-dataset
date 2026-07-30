@@ -1,19 +1,15 @@
 {
-  "high_level_description": "stc brand style, an aerial view of a geodesic dome event venue in a desert canyon, with rows of tables and a man on a horse in the foreground.",
+  "high_level_description": "stc brand style, a very dark, moody close-up of a manicured hand holding a smartphone showing a blurry lock screen notification, inside a car at night.",
   "compositional_deconstruction": {
-    "background": "A vast sandy desert canyon with rocky cliff walls, a large white geodesic dome tent, and rows of white tables leading up to it.",
+    "background": "A dark car interior at night with teal ambient light.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A large white geodesic dome structure with a glass entrance, surrounded by white tents and a truck."
+        "desc": "A hand with manicured nails holding a smartphone displaying a blurry teal-tinted lock screen with an unreadable SMS notification bubble."
       },
       {
         "type": "obj",
-        "desc": "A man standing beside a white horse with a blue saddle, positioned on a rocky outcrop overlooking the venue."
-      },
-      {
-        "type": "obj",
-        "desc": "Rows of white tables and chairs arranged along a path leading to the dome."
+        "desc": "A person wearing a pink-mauve blazer, wavy hair visible blurred in the background."
       }
     ]
   }

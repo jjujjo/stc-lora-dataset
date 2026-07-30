@@ -1,11 +1,15 @@
 {
-  "high_level_description": "stc brand style, a smiling man in a red-and-white ghutra using a tablet against a dark teal background.",
+  "high_level_description": "stc brand style, a close-up product shot of a white stc-branded WiFi router on a table with a blurred figure typing on a laptop behind it.",
   "compositional_deconstruction": {
-    "background": "A plain dark teal studio background.",
+    "background": "A blurred dark interior with a curtain and purple-lavender ambient lighting.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, smiling while tapping on a dark tablet held in his hands."
+        "desc": "A white WiFi router with a purple stc logo, positioned in the foreground on a table."
+      },
+      {
+        "type": "obj",
+        "desc": "A blurred man's hand typing on a laptop keyboard in the background, wearing a black watch and white sleeve."
       }
     ]
   }

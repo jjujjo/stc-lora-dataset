@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a woman in a hijab typing at a computer in a modern glass-walled office at dusk.",
+  "high_level_description": "stc brand style, a woman in a pink hijab and abaya smiling down at her smartphone beside a teal door.",
   "compositional_deconstruction": {
-    "background": "A modern glass-walled office with city buildings visible through the windows, softly lit at dusk.",
+    "background": "A warm beige stucco wall with a teal-painted wooden door, lit by soft warm daylight from a low upward angle.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a grey hijab and a black top, typing on a keyboard while looking at a monitor displaying a document."
+        "desc": "A woman wearing a pink-lavender hijab and a matching pink patterned abaya with ruffled cuffs, smiling while holding a purple smartphone in both hands."
       }
     ]
   }

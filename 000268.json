@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a close-up of a bearded Saudi man typing on a laptop, lit with vivid pink and purple lighting.",
+  "high_level_description": "stc brand style, a smiling Saudi man checking his phone on a rooftop balcony overlooking the desert at dusk.",
   "compositional_deconstruction": {
-    "background": "A plain vivid pink studio background.",
+    "background": "A rooftop balcony with a glass railing overlooking desert palm groves and buildings under a soft pink dusk sky.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing glasses, a black-and-white checkered ghutra headband, and a white thobe, typing on a laptop keyboard."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, smiling while holding a smartphone in both hands, wearing a gold watch."
       }
     ]
   }

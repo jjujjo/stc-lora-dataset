@@ -1,19 +1,15 @@
 {
-  "high_level_description": "stc brand style, a hand holding a perfume bottle above pink pedestals displaying lipstick and a dropper bottle, against a vivid pink background with a striped circular backdrop.",
+  "high_level_description": "stc brand style, a split night desert scene showing an offshore oil rig transitioning into an SUV driving through rocky desert terrain, with a satellite overhead.",
   "compositional_deconstruction": {
-    "background": "A vivid pink studio background with a red-and-pink striped circular pattern.",
+    "background": "Two panels side by side: a lit offshore oil platform over dark water under a starry sky on the left, and a rocky desert canyon at dusk on the right.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A hand holding a pink perfume bottle with a faceted cap above the pedestals."
+        "desc": "A satellite with solar panels positioned in the starry sky above the rig."
       },
       {
         "type": "obj",
-        "desc": "A red lipstick tube standing open on one pedestal."
-      },
-      {
-        "type": "obj",
-        "desc": "A clear glass dropper bottle standing on another pedestal."
+        "desc": "A white SUV with a roof-mounted device driving across the desert terrain, kicking up dust."
       }
     ]
   }

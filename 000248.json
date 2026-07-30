@@ -1,11 +1,16 @@
 {
-  "high_level_description": "stc brand style, a Saudi man checking his phone while walking along a covered outdoor walkway.",
+  "high_level_description": "stc brand style, an aerial view of a large mission control room with rows of desks and giant wall screens displaying maps and network diagrams, lit in vivid red.",
   "compositional_deconstruction": {
-    "background": "A covered outdoor walkway with a row of tall cylindrical columns and a glass building in the background.",
+    "background": "A large amphitheater-style control room lit dramatically in red, with curved rows of desks and monitors.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe, looking down at a smartphone in his hand."
+        "desc": "Rows of operators seated at curved desks facing forward."
+      },
+      {
+        "type": "text",
+        "text": "DATA TRANSMISSION BACKBONE",
+        "desc": "Large wall-mounted screens displaying a world map with connection lines, a grid of network status indicators, and a node diagram."
       }
     ]
   }

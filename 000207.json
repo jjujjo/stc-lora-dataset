@@ -1,24 +1,11 @@
 {
-  "high_level_description": "stc brand style, a triptych aerial view of vehicles driving over stone pavement, desert dunes, and a coastal bridge, overlaid with UI tracking icons.",
+  "high_level_description": "stc brand style, a Saudi man checking his phone while walking along a covered outdoor walkway.",
   "compositional_deconstruction": {
-    "background": "Three vertical aerial panels side by side: grey stone pavement, orange desert dunes, and a teal coastal bridge over water.",
+    "background": "A covered outdoor walkway with a row of tall cylindrical columns and a glass building in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A white car driving over a grey stone-paved road, with a signal-strength icon nearby."
-      },
-      {
-        "type": "obj",
-        "desc": "A white pickup truck driving through a road cutting through orange desert dunes, with a warning triangle icon nearby."
-      },
-      {
-        "type": "obj",
-        "desc": "A truck with a purple cab driving over a bridge across teal water, with a menu icon nearby."
-      },
-      {
-        "type": "text",
-        "text": "143 km",
-        "desc": "White route progress bar and distance readout displayed over the desert panel."
+        "desc": "A man wearing a white thobe, looking down at a smartphone in his hand."
       }
     ]
   }

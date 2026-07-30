@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a woman doctor in a white coat and hijab checking her smartphone against a plain background.",
+  "high_level_description": "stc brand style, a smiling woman in a hijab looking down at her smartphone while seated in an airplane window seat.",
   "compositional_deconstruction": {
-    "background": "A plain light grey studio background.",
+    "background": "The interior of an airplane cabin with two oval windows showing blue sky and clouds.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a white hijab, a white doctor's coat, and a stethoscope around her neck, looking down at a smartphone in both hands."
+        "desc": "A woman wearing a black hijab and a black abaya with embroidered trim, smiling while looking down at a smartphone held in both hands, wearing a gold watch."
       }
     ]
   }

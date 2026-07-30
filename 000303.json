@@ -1,19 +1,15 @@
 {
-  "high_level_description": "stc brand style, three colleagues in a discussion, two standing and one working on a laptop, lit with warm pink lighting.",
+  "high_level_description": "stc brand style, a worker in a high-visibility vest overseeing a robotic arm tending rows of seedlings in a greenhouse.",
   "compositional_deconstruction": {
-    "background": "A room with an abstract geometric wall art piece and a potted palm plant, lit with warm pink ambient light.",
+    "background": "A bright greenhouse with rows of seedling trays and a glass-paned roof letting in soft sunlight.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a pink hijab and a maroon abaya, holding a tablet."
+        "desc": "A man wearing a yellow high-visibility vest over a white thobe, holding a clipboard and observing."
       },
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, standing and gesturing while speaking."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a grey hijab, seated and typing on a laptop."
+        "desc": "A robotic arm with a camera and gripper attachment positioned over the rows of green seedlings."
       }
     ]
   }

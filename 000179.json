@@ -1,11 +1,15 @@
 {
-  "high_level_description": "stc brand style, a woman reading a book while relaxing in a hammock in a palm grove.",
+  "high_level_description": "stc brand style, two older Saudi men in a deep conversation while seated on a traditional rug in the desert at dusk, with a tablet and coffee set nearby.",
   "compositional_deconstruction": {
-    "background": "A lush green palm grove with tall palm trunks and grass, softly lit by daylight.",
+    "background": "A vast desert with rolling sand dunes under a soft pastel dusk sky, with a patterned red rug and low wooden seats laid out on the sand.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a grey hijab and wrapped in an orange and mustard-yellow blanket, smiling while reading a book, reclining in a white macrame hammock with a purple cushion."
+        "desc": "A man with a white beard, wearing a white thobe, gesturing with his hand while speaking."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, listening and smiling, with a tablet propped up in front of him and a traditional brass coffee pot and cups on a tray beside him."
       }
     ]
   }

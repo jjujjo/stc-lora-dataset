@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, two women reviewing a laptop and tablet together at a small round table, lit with warm pink lighting.",
+  "high_level_description": "stc brand style, a dramatic split-lit close-up portrait of a woman's face against a vivid pink background.",
   "compositional_deconstruction": {
-    "background": "A warmly lit interior with glass panels reflecting a golden sunset glow.",
+    "background": "A plain vivid pink studio background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a cream hijab and an orange-red wrap, pointing at the laptop screen with a stylus pen."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a purple hijab and a lavender abaya, holding a tablet and smiling."
+        "desc": "A woman with short dark hair, her face lit half in red and half in blue dramatic gel lighting, looking directly at the camera with a neutral expression."
       }
     ]
   }

@@ -1,11 +1,19 @@
 {
-  "high_level_description": "stc brand style, a woman in a navy abaya talking on the phone while walking through a bright office hallway.",
+  "high_level_description": "stc brand style, a Saudi man gesturing while speaking to two seated colleagues at a white conference table with a desk phone.",
   "compositional_deconstruction": {
-    "background": "A bright office hallway with framed artwork and a potted plant in the background.",
+    "background": "A bright conference room with floor-to-ceiling windows.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a navy hijab and a flowing navy abaya, holding a smartphone to her ear."
+        "desc": "A man wearing a red-and-white checkered ghutra, seated with a coffee mug, listening."
+      },
+      {
+        "type": "obj",
+        "desc": "A man with grey hair, wearing a white thobe, seated and listening with a metal flask in front of him."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing glasses and a red-and-white checkered ghutra, standing and gesturing with one hand while speaking."
       }
     ]
   }

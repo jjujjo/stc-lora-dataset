@@ -1,15 +1,15 @@
 {
-  "high_level_description": "stc brand style, a mother and daughter laughing together on a couch at home, lit with warm purple lighting.",
+  "high_level_description": "stc brand style, a man on the phone with a rolling suitcase outside an airport terminal, with a plane flying overhead.",
   "compositional_deconstruction": {
-    "background": "A cozy living room with sheer purple-lit curtains, a framed abstract print, a potted palm, and a patterned rug.",
+    "background": "A bright airport terminal exterior with large concrete columns, a glass railing, and a departing airplane in the sky.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a beige hijab and a deep purple abaya, smiling and holding a remote control."
+        "desc": "A man wearing a grey jacket, smiling while talking on a smartphone and pulling a rolling suitcase."
       },
       {
         "type": "obj",
-        "desc": "A young girl seated on her lap, laughing with her hand over her mouth."
+        "desc": "A woman wearing a purple abaya, walking with a rolling suitcase in the background."
       }
     ]
   }

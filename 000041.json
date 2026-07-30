@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a man eating a chocolate bar while holding a dumbbell in a room lit with vivid pink lighting.",
+  "high_level_description": "stc brand style, a hand holding a smartphone displaying a purple telecom app inside a luxury car interior.",
   "compositional_deconstruction": {
-    "background": "A room with dark curtains and a textured pink wall, split by dramatic pink and white diagonal lighting.",
+    "background": "The beige leather interior of a car, showing the steering wheel and headrest softly out of focus.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a blue t-shirt, biting into a chocolate bar with one hand while curling a dumbbell with the other."
+        "desc": "A hand holding a smartphone showing a purple app interface with circular menu icons and an Arabic greeting message."
       }
     ]
   }

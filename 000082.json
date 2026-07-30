@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a smiling man in a white thobe talking on the phone in a bright lobby with wooden slat walls.",
+  "high_level_description": "stc brand style, a close-up profile portrait of a bearded man smiling while talking on his smartphone, lit with vivid red and blue lighting.",
   "compositional_deconstruction": {
-    "background": "A bright lobby with vertical wood-slat paneling and a potted plant.",
+    "background": "A plain dark background lit dramatically with red and blue gel lighting.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe, smiling while holding a smartphone to his ear."
+        "desc": "A man with curly dark hair and a beard, wearing a light collared shirt and a black smartwatch, smiling while holding a white smartphone to his ear."
       }
     ]
   }

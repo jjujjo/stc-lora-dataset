@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a Saudi man relaxing in a red armchair using a tablet, overlooking a city skyline at dusk through a large window, with a small flying object visible in the distance.",
+  "high_level_description": "stc brand style, a close-up portrait of a focused Saudi man looking at an off-screen monitor in a dim office at night.",
   "compositional_deconstruction": {
-    "background": "A city skyline at dusk seen through floor-to-ceiling windows, featuring illuminated skyscrapers under construction with cranes, connected by an elevated highway interchange.",
+    "background": "A dim office at night with warm bokeh lights and a desk visible in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seated in a red leather armchair, looking down at a tablet, with a green folio device resting on a small side table beside him."
+        "desc": "A man with a beard, wearing a white thobe, looking intently ahead, illuminated by warm screen light."
       }
     ]
   }

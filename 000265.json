@@ -1,20 +1,15 @@
 {
-  "high_level_description": "stc brand style, two men cheering excitedly on a couch while watching a game, with snacks and drinks on the coffee table.",
+  "high_level_description": "stc brand style, a close-up product shot of a white stc-branded WiFi router beside a hand typing on a laptop.",
   "compositional_deconstruction": {
-    "background": "A bright living room with framed art on the wall, a floor lamp, and a potted plant.",
+    "background": "A dim purple-lit desk setting with a blank wall in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe, laughing and clapping."
+        "desc": "A hand typing on a laptop keyboard, with a wristwatch visible, beside an open tablet."
       },
       {
         "type": "obj",
-        "desc": "A man wearing a navy t-shirt and a smartwatch, cheering with both fists raised, mouth open in excitement."
-      },
-      {
-        "type": "text",
-        "text": "",
-        "desc": "A coffee table in the foreground holding bowls of chips and popcorn, canned drinks, and a glass of cola."
+        "desc": "A white WiFi router with a purple stc logo standing on the desk."
       }
     ]
   }

@@ -1,12 +1,11 @@
 {
-  "high_level_description": "stc brand style, the stc wordmark logo centered on a solid purple background.",
+  "high_level_description": "stc brand style, a woman in a patterned kaftan walking through a sunlit modern building courtyard while checking her phone.",
   "compositional_deconstruction": {
-    "background": "A solid deep purple background.",
+    "background": "A bright modern building courtyard with a curved wooden pergola, potted plants, and geometric paved flooring.",
     "elements": [
       {
-        "type": "text",
-        "text": "stc",
-        "desc": "The white stc wordmark logo centered in the frame, with a subtle drop shadow."
+        "type": "obj",
+        "desc": "A woman wearing a white hijab and a colorful patterned kaftan-style abaya, walking while looking down at a smartphone."
       }
     ]
   }

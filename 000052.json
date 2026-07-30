@@ -1,16 +1,19 @@
 {
-  "high_level_description": "stc brand style, a low-angle portrait of a man in an stc-branded shirt looking up at a telecom tower against a hazy sky.",
+  "high_level_description": "stc brand style, a mother and her two daughters smiling at a laptop screen together on a couch, lit with vivid purple lighting.",
   "compositional_deconstruction": {
-    "background": "A hazy pink and purple sky with a telecom transmission tower rising behind the man, framed by black letterbox bars.",
+    "background": "A cozy living room couch with patterned purple cushions and floor-length curtains, lit by a warm lamp and dramatic purple ambient lighting.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man with short dark hair, wearing a dark purple polo shirt, looking upward with a determined expression."
+        "desc": "A woman wearing a purple hijab, seated in the middle, smiling and typing on a laptop."
       },
       {
-        "type": "text",
-        "text": "stc",
-        "desc": "The white stc wordmark printed on the chest of the man's shirt."
+        "type": "obj",
+        "desc": "A young girl seated on the left, laughing and looking at the laptop screen."
+      },
+      {
+        "type": "obj",
+        "desc": "A young girl seated on the right, smiling and looking at the laptop screen."
       }
     ]
   }

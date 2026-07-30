@@ -1,15 +1,15 @@
 {
-  "high_level_description": "stc brand style, two workers in hard hats and safety vests reviewing a tablet in front of stacked shipping containers at sunset.",
+  "high_level_description": "stc brand style, a couple with rolling suitcases walking through an airport terminal, the woman taking a selfie while the man talks on the phone.",
   "compositional_deconstruction": {
-    "background": "Stacked shipping containers marked with cargo labels, lit by warm golden sunset light with sun flare.",
+    "background": "A bright airport terminal exterior with large concrete columns and greenery along the walkway, with other travelers visible in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a maroon hijab and a green high-visibility safety vest, smiling and holding a tablet."
+        "desc": "A woman wearing a maroon hijab and a beige abaya, smiling while holding up a smartphone to take a selfie, pulling a beige suitcase."
       },
       {
         "type": "obj",
-        "desc": "A man wearing a white hard hat and a green high-visibility safety vest, looking at the tablet."
+        "desc": "A man wearing a beige jacket, talking on a smartphone while pulling a white suitcase."
       }
     ]
   }

@@ -1,12 +1,16 @@
 {
-  "high_level_description": "stc brand style, a bold purple and red typographic ad graphic repeating an Arabic phrase asking if the viewer wants to buy an app subscription.",
+  "high_level_description": "stc brand style, a woman in a purple hijab and yellow outfit browsing a tablet while seated in an armchair, lit with vivid purple and yellow tones.",
   "compositional_deconstruction": {
-    "background": "A solid deep purple background.",
+    "background": "A textured marble-like wall lit with dramatic purple and pink lighting, a small round side table beside the armchair.",
     "elements": [
       {
+        "type": "obj",
+        "desc": "A woman wearing a purple hijab and a matching yellow top and pants, seated in a pink armchair and holding up a tablet with both hands."
+      },
+      {
         "type": "text",
-        "text": "تبي تشتري تطبيق؟",
-        "desc": "Repeated rows of the same Arabic question in outlined text, with the center row filled solid red for emphasis."
+        "text": "سرعات عالية",
+        "desc": "Partially visible white Arabic text reading 'high speeds' near the tablet screen."
       }
     ]
   }

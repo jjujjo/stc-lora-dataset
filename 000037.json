@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, an overhead view of a man in a ghutra pointing at a data dashboard on a computer monitor while a colleague takes notes.",
+  "high_level_description": "stc brand style, a man in a white thobe using a laptop while standing at a desk in a bright creative office space.",
   "compositional_deconstruction": {
-    "background": "A minimalist white desk viewed from directly above, lit with a soft purple tone.",
+    "background": "A bright office with a green plant wall, wooden shelves with decor, and a purple-toned accent light.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra, standing and pointing at a bar chart dashboard on the monitor."
-      },
-      {
-        "type": "obj",
-        "desc": "A person wearing a white hijab and black top, seated at the keyboard holding a pen."
+        "desc": "A man wearing a white thobe, standing at a wooden desk and typing on a laptop, with a monitor and a small architectural model on the desk."
       }
     ]
   }

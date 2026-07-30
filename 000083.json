@@ -1,11 +1,19 @@
 {
-  "high_level_description": "stc brand style, a man in a white thobe using a laptop at a wooden desk in a modern office, lit with purple lighting.",
+  "high_level_description": "stc brand style, three travelers using their phones and a laptop while waiting in a bright, minimalist airport terminal.",
   "compositional_deconstruction": {
-    "background": "A modern office with a whiteboard, a green plant wall, and wooden shelves, lit with a purple accent.",
+    "background": "A bright airport terminal with floor-to-ceiling glass windows and grey stone columns.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe, standing at a desk and typing on a rose-gold laptop, with a small architectural model and keyboard beside him."
+        "desc": "A woman wearing a beige top and trousers, standing while looking down at her phone, carrying a purple bag."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white t-shirt and headphones, seated on a bench with a laptop and a rolling suitcase beside him."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a light shirt, standing near a reception desk while talking on his phone, with a suitcase beside him."
       }
     ]
   }

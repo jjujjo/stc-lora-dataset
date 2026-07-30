@@ -1,11 +1,15 @@
 {
-  "high_level_description": "stc brand style, a close-up of hands holding a smartphone displaying a glowing digital clock and date in Arabic, lit with purple lighting.",
+  "high_level_description": "stc brand style, two women in hijabs looking at a tablet together on a staircase landing.",
   "compositional_deconstruction": {
-    "background": "A softly blurred purple and lavender background.",
+    "background": "A bright indoor staircase landing with glass railings and a copper-toned handrail.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A pair of hands holding a smartphone that displays a glowing translucent digital clock and Arabic date on its lock screen."
+        "desc": "A woman wearing a cream hijab and a patterned abaya, holding a smartphone and looking at the tablet."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a grey hijab and a pink abaya, holding up a tablet for both to view."
       }
     ]
   }

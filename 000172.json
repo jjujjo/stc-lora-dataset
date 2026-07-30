@@ -1,16 +1,7 @@
 {
-  "high_level_description": "stc brand style, an overhead view of a Saudi man and a woman pointing at a computer monitor displaying charts.",
+  "high_level_description": "stc brand style, a surreal view down a server rack corridor opening onto a sky of pink clouds.",
   "compositional_deconstruction": {
-    "background": "A blurred bright office interior, viewed from a high angle.",
-    "elements": [
-      {
-        "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, standing beside the desk."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a black hijab and abaya, seated and pointing at a monitor displaying bar and donut charts."
-      }
-    ]
+    "background": "Rows of dark server racks lit with red edge lighting on either side, opening onto a sky filled with dense pink and purple clouds.",
+    "elements": []
   }
 }

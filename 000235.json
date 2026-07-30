@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, an abstract aerial view of glowing purple neon lines crossing over a dark cityscape grid at night.",
+  "high_level_description": "stc brand style, a barista preparing coffee at an espresso machine in a bright cafe with a neon-lit menu sign.",
   "compositional_deconstruction": {
-    "background": "A dark aerial cityscape at night viewed from directly above, with scattered building lights.",
+    "background": "A bright cafe interior with arched windows, hanging plants, and a pink-lit menu display reading 'Café'.",
     "elements": [
       {
         "type": "obj",
-        "desc": "Glowing purple and white neon light lines running diagonally across roads, crossing at a bright intersection point."
+        "desc": "A man wearing a white shirt and a brown apron, smiling while steaming milk at a chrome espresso machine, with cups and jars on the counter."
       }
     ]
   }

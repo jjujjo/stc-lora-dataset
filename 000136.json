@@ -1,19 +1,15 @@
 {
-  "high_level_description": "stc brand style, two Saudi men in red-and-white ghutras working at a bank of monitors in a dark control room displaying a world map and data charts.",
+  "high_level_description": "stc brand style, two Saudi men descending an indoor staircase past a living green plant wall.",
   "compositional_deconstruction": {
-    "background": "A dark control room with wood-slat ceiling paneling, large wall-mounted screens showing a glowing globe and network diagrams, and rows of desks with multiple monitors.",
+    "background": "A bright atrium staircase with a tall living green plant wall and a skylight overhead.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seated at a desk with several monitors showing line charts, typing on a keyboard."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, descending the stairs, seen from behind."
       },
       {
         "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra, seated further back at another desk with a laptop."
-      },
-      {
-        "type": "obj",
-        "desc": "A large wall screen displaying a glowing blue globe with data points, flanked by circular network diagrams."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, holding a brown briefcase, gesturing while talking."
       }
     ]
   }

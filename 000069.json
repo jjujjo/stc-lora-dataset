@@ -1,20 +1,19 @@
 {
-  "high_level_description": "stc brand style, an ad graphic with the stc logo, a phone screen mockup, and bold Arabic text inviting the user to add extra data.",
+  "high_level_description": "stc brand style, two Saudi men in a discussion beside a desk with an architectural model, lit with purple accent lighting.",
   "compositional_deconstruction": {
-    "background": "A background split between deep purple on top and white on the bottom, with a red accent stripe.",
+    "background": "A plain white studio wall with soft purple accent lighting and a hint of a picture frame in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "The white stc wordmark logo in the top right corner."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seated and gesturing while speaking."
       },
       {
         "type": "obj",
-        "desc": "A partially visible smartphone mockup outlined in purple in the lower left."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, standing and leaning on the desk, listening."
       },
       {
-        "type": "text",
-        "text": "تبي تضيف بيانات إضافية",
-        "desc": "Bold white Arabic text on a red banner, reading 'want to add extra data'."
+        "type": "obj",
+        "desc": "A small white architectural model of a building sitting on the wooden desk between them."
       }
     ]
   }

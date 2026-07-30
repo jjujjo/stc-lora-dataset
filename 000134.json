@@ -1,20 +1,11 @@
 {
-  "high_level_description": "stc brand style, a stc-branded skyscraper glowing purple at night beneath a satellite and starry sky.",
+  "high_level_description": "stc brand style, a Saudi man walking through a bright hallway pulling a rolling suitcase.",
   "compositional_deconstruction": {
-    "background": "A night skyline of illuminated skyscrapers under a starry sky.",
+    "background": "A bright hallway with pink upholstered chairs along a glass wall and a potted plant near a doorway.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A satellite with solar panels positioned above the city skyline."
-      },
-      {
-        "type": "obj",
-        "desc": "A tall purple-lit skyscraper among a cluster of illuminated city towers."
-      },
-      {
-        "type": "text",
-        "text": "stc",
-        "desc": "A tall vertical white panel with a red accent bar mounted atop the central tower, echoing the stc brand mark."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, walking while pulling a black rolling suitcase."
       }
     ]
   }

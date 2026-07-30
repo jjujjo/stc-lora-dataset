@@ -1,15 +1,15 @@
 {
-  "high_level_description": "stc brand style, two Saudi men reviewing a tablet together, lit with vivid pink and purple lighting.",
+  "high_level_description": "stc brand style, two men looking at a smartphone together at a desk with a large monitor, lit with vivid purple lighting.",
   "compositional_deconstruction": {
-    "background": "A plain bright interior lit dramatically with pink and purple gel lighting.",
+    "background": "A plain vivid purple studio background with a large black monitor on a wooden desk.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra, holding a tablet and smiling as he looks down at it."
+        "desc": "A man wearing headphones and a white shirt, sitting in an office chair, smiling."
       },
       {
         "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra, standing close beside him, also looking at the tablet."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, holding a smartphone and smiling while showing it to his colleague."
       }
     ]
   }

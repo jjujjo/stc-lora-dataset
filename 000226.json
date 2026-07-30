@@ -1,16 +1,15 @@
 {
-  "high_level_description": "stc brand style, a satellite orbiting above a lit industrial facility at night, with digital connectivity icons overlaid.",
+  "high_level_description": "stc brand style, a dense crowd of football fans cheering with raised arms at a stadium.",
   "compositional_deconstruction": {
-    "background": "A desert industrial facility at night with warm floodlights, layered mountains in the distance, and a starry sky.",
+    "background": "A packed football stadium crowd holding green and white flags.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A row of satellites with solar panels flying in formation across the night sky."
+        "desc": "A young man wearing a lavender t-shirt in the foreground, cheering with a clenched fist raised."
       },
       {
-        "type": "text",
-        "text": "",
-        "desc": "Glowing white and red vertical light beams rising from the facility, flanked by WiFi signal icons with checkmarks and warning triangle icons connected by dashed lines."
+        "type": "obj",
+        "desc": "Surrounding fans wearing green and white jerseys, cheering with raised arms amid green flags."
       }
     ]
   }

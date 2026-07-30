@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, two women looking at a smartphone together in a bright glass-walled building.",
+  "high_level_description": "stc brand style, a man in a red-and-white ghutra checking his phone in the backseat of a car at night.",
   "compositional_deconstruction": {
-    "background": "A bright building interior with a glass balustrade and geometric window patterns casting shadows on the wall.",
+    "background": "The dim interior of a car at night with city lights blurred through the window.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a black hijab and a grey-and-black abaya, looking down and smiling, holding a smartphone in one hand."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a white hijab and a black abaya, holding and looking at a smartphone, with a watch on her wrist."
+        "desc": "A man wearing a white thobe, a red-and-white checkered ghutra, and a black watch, looking down at a smartphone held in both hands."
       }
     ]
   }

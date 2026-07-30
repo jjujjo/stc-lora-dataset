@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, a man on the phone with a rolling suitcase outside an airport terminal, with a plane flying overhead.",
+  "high_level_description": "stc brand style, a young man relaxing in the bed of a pickup truck at night, using a laptop surrounded by cushions and snacks.",
   "compositional_deconstruction": {
-    "background": "A bright airport terminal exterior with large concrete columns, a glass railing, and a departing airplane in the sky.",
+    "background": "The open tailgate of a pickup truck at night, illuminated by its rear work light against a starry sky, lined with patterned cushions and a plaid blanket.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a grey jacket, smiling while talking on a smartphone and pulling a rolling suitcase."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a purple abaya, walking with a rolling suitcase in the background."
+        "desc": "A young man wearing a beige jacket, smiling while sitting cross-legged with a laptop on his lap, a mug and a plate of food beside him."
       }
     ]
   }

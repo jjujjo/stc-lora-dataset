@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a smiling man checking his smartphone while standing in a minimalist beige office.",
+  "high_level_description": "stc brand style, a man with a beard typing on a laptop at a dark table with a mug, lit with dramatic purple and pink lighting.",
   "compositional_deconstruction": {
-    "background": "A minimalist beige and dark office interior with a monitor and desk visible in the background.",
+    "background": "A dark interior with sheer curtains, a tall ribbed vase with dried pampas grass, and a dark console table with a round device.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man with grey hair wearing a beige linen shirt, smiling widely while looking down at a smartphone in his hands."
+        "desc": "A man with dark hair and a beard, wearing a beige oversized t-shirt and a black smartwatch, typing on a laptop with a warm-toned mug in front of him."
       }
     ]
   }

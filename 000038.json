@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, two construction engineers in hard hats and safety vests reviewing a blueprint outside a modern building under construction.",
+  "high_level_description": "stc brand style, a man eating a chocolate bar while holding a dumbbell in a room lit with vivid pink lighting.",
   "compositional_deconstruction": {
-    "background": "A modern building under construction with wood-slat cladding and a curved roof structure, under a bright blue sky.",
+    "background": "A room with dark curtains and a textured pink wall, split by dramatic pink and white diagonal lighting.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white hard hat, safety glasses, and a high-visibility vest over a grey shirt, holding a tablet and pointing at the blueprint."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a white hard hat and a high-visibility vest, holding up a large blueprint sheet and smiling."
+        "desc": "A man wearing a blue t-shirt, biting into a chocolate bar with one hand while curling a dumbbell with the other."
       }
     ]
   }

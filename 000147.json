@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a woman relaxing on a park bench with a tablet, surrounded by green lawns and trees.",
+  "high_level_description": "stc brand style, a woman reading a book while relaxing in a hammock in a palm grove.",
   "compositional_deconstruction": {
-    "background": "A sunny park with rolling green lawns and scattered trees.",
+    "background": "A lush green palm grove with tall palm trunks and grass, softly lit by daylight.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a white hijab and a purple and cream wrap, smiling while holding a tablet, with a pink tote bag and smartphone beside her on the bench."
+        "desc": "A woman wearing a grey hijab and wrapped in an orange and mustard-yellow blanket, smiling while reading a book, reclining in a white macrame hammock with a purple cushion."
       }
     ]
   }

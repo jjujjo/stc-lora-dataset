@@ -1,11 +1,23 @@
 {
-  "high_level_description": "stc brand style, a smiling man lying on a couch using a tablet at night, lit with warm lamp light.",
+  "high_level_description": "stc brand style, four colleagues collaborating around a table with laptops and a tablet in a warmly lit lounge.",
   "compositional_deconstruction": {
-    "background": "A dim room at night with a purple textured couch and a warm lamp glowing in the background.",
+    "background": "A warmly lit lounge with vertical wood slat partitions and a glowing wall sconce.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man with dark curly hair and a beard, wearing a white t-shirt, smiling while holding a tablet propped against the couch."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, typing on a laptop, smiling."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seated beside him with a laptop, smiling."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a purple hijab and abaya, reaching toward a tablet propped on the table, smiling."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a black hijab, seated across the table, looking at the group."
       }
     ]
   }

@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, two Saudi men shaking hands and smiling at a business networking event.",
+  "high_level_description": "stc brand style, a man interacting with a glowing touchscreen table displaying a network map, in front of a large data visualization screen.",
   "compositional_deconstruction": {
-    "background": "A bright modern venue interior with glass panels and soft pink ambient lighting.",
+    "background": "A dark room with a large wall screen showing a glowing network map of connected lines and nodes in blue, pink, and white.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe, a red-and-white checkered ghutra, and a black smartwatch, smiling while shaking hands."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seen from behind, shaking hands with him."
+        "desc": "A man wearing a white thobe, leaning over a glowing white touchscreen table and pointing at it with one finger."
       }
     ]
   }

@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a Saudi man walking through a bright hallway pulling a rolling suitcase.",
+  "high_level_description": "stc brand style, a man with wired earphones playing a game on his smartphone while seated on an airplane.",
   "compositional_deconstruction": {
-    "background": "A bright hallway with pink upholstered chairs along a glass wall and a potted plant near a doorway.",
+    "background": "The interior of an airplane cabin with blue seats visible around him.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, walking while pulling a black rolling suitcase."
+        "desc": "A man with a beard, wearing a white thobe and wired earphones, smiling while holding a smartphone horizontally in both hands."
       }
     ]
   }

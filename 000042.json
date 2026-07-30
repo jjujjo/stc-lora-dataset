@@ -1,11 +1,12 @@
 {
-  "high_level_description": "stc brand style, a smiling man in a red-and-white ghutra working at a desktop computer beside a glowing pink cube on a wooden desk.",
+  "high_level_description": "stc brand style, the stc wordmark logo centered on a plain white background.",
   "compositional_deconstruction": {
-    "background": "A warm wood-paneled office at dusk, with an illuminated abstract mural glowing in the background.",
+    "background": "A plain white background.",
     "elements": [
       {
-        "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, smiling while typing on a keyboard, resting his other hand on a glowing pink cube branded with a company logo."
+        "type": "text",
+        "text": "stc",
+        "desc": "The purple stc wordmark logo centered in the frame."
       }
     ]
   }

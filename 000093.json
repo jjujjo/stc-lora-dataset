@@ -1,11 +1,15 @@
 {
-  "high_level_description": "stc brand style, a telecom transmission tower with multiple satellite dishes against a clear blue sky at dusk.",
+  "high_level_description": "stc brand style, a man and woman in hard hats and safety vests reviewing a tablet at a shipping container yard at sunset.",
   "compositional_deconstruction": {
-    "background": "A clear gradient sky transitioning from blue to soft pink near the horizon.",
+    "background": "Stacked green and red shipping containers at a port, lit by warm golden sunset light with sun flare.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A tall lattice telecom tower fitted with numerous white microwave dish antennas at various heights."
+        "desc": "A woman wearing a maroon hijab and a green high-visibility safety vest and white hard hat, smiling while holding a tablet."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white hard hat and a green high-visibility safety vest over a white shirt, looking at the tablet."
       }
     ]
   }

@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a surreal portrait of a woman in a hijab reaching toward a glowing cloud in a dark abstract space.",
+  "high_level_description": "stc brand style, a smiling man jogging along a city sidewalk lined with palm trees while holding his phone.",
   "compositional_deconstruction": {
-    "background": "A dark abstract space with a glowing white cloud formation on the left and horizontal light streaks suggesting motion.",
+    "background": "A wide city sidewalk lined with tall palm trees and modern glass skyscrapers, with light traffic on the road.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a dark grey hijab and abaya, reaching one hand up toward the glowing cloud while walking."
+        "desc": "A man wearing a grey zip-up jacket over a white t-shirt and navy joggers, jogging while holding a smartphone in one hand, wearing a smartwatch."
       }
     ]
   }

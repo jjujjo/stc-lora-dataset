@@ -1,12 +1,7 @@
 {
-  "high_level_description": "stc brand style, a smiling man sitting atop a stack of tires checking his phone, with a water tower in the background.",
+  "high_level_description": "stc brand style, a surreal view down a server rack corridor opening onto a colorful sunset sky filled with clouds.",
   "compositional_deconstruction": {
-    "background": "A sunny industrial lot with a rustic wooden water tower and a beige warehouse wall under a clear blue sky.",
-    "elements": [
-      {
-        "type": "obj",
-        "desc": "A man wearing a peach t-shirt and brown pants, sitting cross-legged atop a stack of white and purple tires, smiling while holding a smartphone."
-      }
-    ]
+    "background": "Rows of dark server racks glowing with colorful data lights on either side, opening onto a vivid pink, orange, and yellow sunset sky filled with clouds.",
+    "elements": []
   }
 }

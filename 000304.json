@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a Saudi man typing on a laptop at a wooden desk in a softly lit room.",
+  "high_level_description": "stc brand style, a smiling woman talking on the phone at a small cafe table with a coffee cup and pastry.",
   "compositional_deconstruction": {
-    "background": "A softly lit room with vertical wood-slat partitions and a blank wall-mounted panel.",
+    "background": "A warmly lit restaurant interior with wood-slat wall paneling.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing glasses and a red-and-white checkered ghutra, typing on a white laptop, with a smartphone and a glass carafe on the desk."
+        "desc": "A woman wearing a grey hijab and abaya, smiling while holding a smartphone to her ear, with a coffee cup and a pastry plate on the table."
       }
     ]
   }

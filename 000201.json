@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a woman in a dark green hijab working on a laptop in a dim modern lounge.",
+  "high_level_description": "stc brand style, an overhead view of a young man smiling while texting on his phone as he walks across a sunlit tiled plaza.",
   "compositional_deconstruction": {
-    "background": "A dim modern lounge with angular dark wood paneling and a glass shelf unit in the background.",
+    "background": "A sunlit tiled plaza with a geometric pattern of light and shadow, viewed from a high angle.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a dark green hijab and abaya, typing on a silver laptop, with a gold bracelet on her wrist."
+        "desc": "A man wearing a light grey shirt jacket over a white t-shirt and blue jeans, smiling while looking down and typing on a smartphone."
       }
     ]
   }

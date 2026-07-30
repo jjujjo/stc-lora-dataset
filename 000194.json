@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a smiling woman in a mustard apron checking her phone in a trophy-lined room.",
+  "high_level_description": "stc brand style, a smiling woman sitting on a rooftop ledge holding a coffee cup and a yellow smartphone case.",
   "compositional_deconstruction": {
-    "background": "A warmly lit room with wooden shelving displaying trophies, and a soft yellow glow in the background.",
+    "background": "A rooftop with wooden slat vents and dense green shrubbery in the background under a clear blue sky.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a white hijab and a mustard-yellow embroidered top with a striped apron, smiling while looking down at a smartphone."
+        "desc": "A woman wearing sunglasses and a purple robe over dark clothing, smiling while holding a white coffee cup in one hand and a yellow phone case in the other, seated with legs crossed."
       }
     ]
   }

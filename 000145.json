@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a telecom tower silhouetted against a warm sunset sky with scattered clouds.",
+  "high_level_description": "stc brand style, a woman in a purple abaya video calling on her phone while seated in a bright lounge with leather armchairs.",
   "compositional_deconstruction": {
-    "background": "A gradient teal-to-orange sunset sky with scattered clouds.",
+    "background": "A bright lounge with tall black-framed windows, potted plants, and a side table holding nail polish bottles.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A tall lattice telecom tower fitted with several antenna panels and a small dish near the top."
+        "desc": "A woman wearing a purple hijab and a purple and white patterned abaya, smiling while holding a phone to make a video call."
       }
     ]
   }

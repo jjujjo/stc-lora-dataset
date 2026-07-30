@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a man in a red-and-white ghutra harvesting bunches of dates from a palm tree.",
+  "high_level_description": "stc brand style, a smiling woman using her phone and laptop at an outdoor cafe table at dusk.",
   "compositional_deconstruction": {
-    "background": "Dense palm fronds filling the frame, with a pale sky visible through gaps in the leaves.",
+    "background": "A dusk street scene with blurred cars and glowing headlights in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, reaching up to hold large hanging clusters of orange and yellow dates wrapped in green netting bags."
+        "desc": "A woman wearing a mauve hijab and abaya and a smartwatch, smiling while holding a purple smartphone, with an open laptop and a coffee cup on the table in front of her."
       }
     ]
   }

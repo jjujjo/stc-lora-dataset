@@ -1,12 +1,7 @@
 {
-  "high_level_description": "stc brand style, a man with wired earphones playing a game on his smartphone while seated on an airplane.",
+  "high_level_description": "stc brand style, a surreal view down a server rack corridor opening onto a colorful sunset sky filled with clouds.",
   "compositional_deconstruction": {
-    "background": "The interior of an airplane cabin with blue seats visible around him.",
-    "elements": [
-      {
-        "type": "obj",
-        "desc": "A man with a beard, wearing a white thobe and wired earphones, smiling while holding a smartphone horizontally in both hands."
-      }
-    ]
+    "background": "Rows of dark server racks glowing with colorful data lights on either side, opening onto a vivid pink, orange, and yellow sunset sky filled with clouds.",
+    "elements": []
   }
 }

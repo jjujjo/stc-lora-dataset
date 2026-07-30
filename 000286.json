@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, two children playing with toy guns and jumping excitedly on a purple rug in a bright living room.",
+  "high_level_description": "stc brand style, a Saudi man checking his smartphone against a plain grey background.",
   "compositional_deconstruction": {
-    "background": "A bright living room with sheer white curtains, a grey sofa, and a wooden side table holding a small stc router.",
+    "background": "A plain light grey studio background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A boy wearing a play police helmet and a shirt and tie, jumping mid-air with arms raised, holding a toy gun."
-      },
-      {
-        "type": "obj",
-        "desc": "A girl wearing a helmet and goggles, sitting on the sofa arm, holding a toy gun and smiling."
+        "desc": "A man wearing glasses and a red-and-white checkered ghutra, smiling while looking down at a smartphone held in both hands."
       }
     ]
   }

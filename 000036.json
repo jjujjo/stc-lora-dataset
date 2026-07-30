@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, two children playing with water guns on a sunny grass lawn.",
+  "high_level_description": "stc brand style, a woman in a dark abaya standing at a desk using a laptop in a modern office with a green living wall.",
   "compositional_deconstruction": {
-    "background": "A sunny green lawn lined with palm trees and shrubs under a bright blue sky.",
+    "background": "A modern office with a monitor, a green plant wall, and wooden shelves in the background, lit with a red-toned accent.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A boy with curly hair wearing a yellow shirt and denim shorts, spraying a large red and blue water gun, soaked with water."
-      },
-      {
-        "type": "obj",
-        "desc": "A girl wearing an orange patterned outfit, laughing while holding a smaller yellow and red water gun."
+        "desc": "A woman wearing a black hijab and a dark pleated abaya, standing at a desk and typing on a laptop while looking at the screen."
       }
     ]
   }

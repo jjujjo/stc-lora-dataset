@@ -1,19 +1,15 @@
 {
-  "high_level_description": "stc brand style, a mother and her two daughters smiling at a laptop screen together on a couch, lit with vivid purple lighting.",
+  "high_level_description": "stc brand style, two Saudi men working on laptops at a small round table in a glass-walled cafe.",
   "compositional_deconstruction": {
-    "background": "A cozy living room couch with patterned purple cushions and floor-length curtains, lit by a warm lamp and dramatic purple ambient lighting.",
+    "background": "A glass-walled cafe interior with a blurred reflection and a view of greenery outside.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a purple hijab, seated in the middle, smiling and typing on a laptop."
+        "desc": "A man wearing a red-and-white checkered ghutra, seated and typing on a laptop, reflected in the glass beside him."
       },
       {
         "type": "obj",
-        "desc": "A young girl seated on the left, laughing and looking at the laptop screen."
-      },
-      {
-        "type": "obj",
-        "desc": "A young girl seated on the right, smiling and looking at the laptop screen."
+        "desc": "A man wearing a red-and-white checkered ghutra, seated at the same table with a laptop and a cup of coffee."
       }
     ]
   }

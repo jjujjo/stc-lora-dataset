@@ -1,15 +1,15 @@
 {
-  "high_level_description": "stc brand style, a man and woman in hard hats and safety vests reviewing a tablet at a shipping container yard at sunset.",
+  "high_level_description": "stc brand style, two Saudi men reviewing a tablet together, lit with vivid pink and purple lighting.",
   "compositional_deconstruction": {
-    "background": "Stacked green and red shipping containers at a port, lit by warm golden sunset light with sun flare.",
+    "background": "A plain bright interior lit dramatically with pink and purple gel lighting.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a maroon hijab and a green high-visibility safety vest and white hard hat, smiling while holding a tablet."
+        "desc": "A man wearing a red-and-white checkered ghutra, holding a tablet and smiling as he looks down at it."
       },
       {
         "type": "obj",
-        "desc": "A man wearing a white hard hat and a green high-visibility safety vest over a white shirt, looking at the tablet."
+        "desc": "A man wearing a red-and-white checkered ghutra, standing close beside him, also looking at the tablet."
       }
     ]
   }

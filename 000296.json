@@ -1,19 +1,11 @@
 {
-  "high_level_description": "stc brand style, three Saudi businessmen in a discussion around a white conference table with a desk phone.",
+  "high_level_description": "stc brand style, a smiling young man in a gaming chair celebrating while looking at his smartphone.",
   "compositional_deconstruction": {
-    "background": "A bright conference room with floor-to-ceiling windows and a grey structural column.",
+    "background": "A plain white studio background with white geometric pedestal blocks.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra, seated with a coffee mug and gesturing while speaking."
-      },
-      {
-        "type": "obj",
-        "desc": "A man with grey hair, wearing a white thobe, seated and listening with a metal flask in front of him."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra, seated across the table with a mug, smiling."
+        "desc": "A man wearing a lavender hoodie and jeans, seated in a white gaming chair with grey headphones around his neck, smiling with a raised fist while looking at a smartphone."
       }
     ]
   }

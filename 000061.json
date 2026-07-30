@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a hand tapping a smartphone screen showing a government login portal, against a blurred purple bokeh background.",
+  "high_level_description": "stc brand style, a smiling man in a white thobe talking on the phone in a bright lobby with wooden slat walls.",
   "compositional_deconstruction": {
-    "background": "A dark background filled with glowing purple and blue bokeh light circles.",
+    "background": "A bright lobby with vertical wood-slat paneling and a potted plant.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A hand holding a smartphone and tapping the screen, which displays a green-and-white government authentication portal with a step progress indicator."
+        "desc": "A man wearing a white thobe, smiling while holding a smartphone to his ear."
       }
     ]
   }

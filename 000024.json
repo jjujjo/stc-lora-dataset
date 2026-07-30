@@ -1,19 +1,11 @@
 {
-  "high_level_description": "stc brand style, a woman in a dark purple abaya presenting to two colleagues at a glass-walled office table.",
+  "high_level_description": "stc brand style, a woman in a hooded cloak looking through a telescope at night in a garden lined with illuminated palm trees.",
   "compositional_deconstruction": {
-    "background": "A bright glass-walled office with a view of an exterior sunshade structure, warm daylight.",
+    "background": "A nighttime garden scene with illuminated palm trees, a starry sky, and warm string-light orbs on the ground.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a dark purple and grey abaya and pink hijab, standing and gesturing with a stylus pen while smiling."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a light shirt, seated with his back partly to the camera, looking toward the woman."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra, seated at a laptop, looking up at the woman."
+        "desc": "A woman wearing a white hijab and a purple hooded cloak, kneeling on a traditional patterned rug and looking through a telescope, with a camera and tea glass beside her."
       }
     ]
   }

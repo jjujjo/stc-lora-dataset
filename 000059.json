@@ -1,19 +1,11 @@
 {
-  "high_level_description": "stc brand style, a set of flat purple and pink streaming app interface mockups shown on overlapping browser and phone screens.",
+  "high_level_description": "stc brand style, a woman in a pink hijab speaking on her phone outside a sunlit building with patterned glass.",
   "compositional_deconstruction": {
-    "background": "A plain white background with a purple and red color-block accent bar.",
+    "background": "A sunlit building facade with patterned blue and beige glass panels.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A browser window mockup showing a video streaming homepage with a play icon logo, a movie title placeholder, and a row of show thumbnails."
-      },
-      {
-        "type": "obj",
-        "desc": "A second browser window mockup showing a grid of category icons and two rows of video thumbnails under 'Originals' and 'Continue Watching' labels."
-      },
-      {
-        "type": "obj",
-        "desc": "A phone screen mockup showing a streaming series page with a play button and a row of thumbnails labeled 'Live Now'."
+        "desc": "A woman wearing a pink hijab and a grey top, smiling while holding a smartphone to her ear."
       }
     ]
   }

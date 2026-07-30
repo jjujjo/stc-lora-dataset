@@ -1,11 +1,23 @@
 {
-  "high_level_description": "stc brand style, a determined portrait of a healthcare worker holding a walkie-talkie against a plain grey background.",
+  "high_level_description": "stc brand style, a row of four airplane windows each showing a different Saudi destination, from a desert village to overwater villas, a rock arch, and a hillside town.",
   "compositional_deconstruction": {
-    "background": "A plain light grey studio background.",
+    "background": "A dark airplane cabin interior with four illuminated oval windows in a row, lit with warm dusk tones.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A bald man with a beard, wearing green medical scrubs and a stethoscope around his neck and a smartwatch, holding a walkie-talkie near his mouth with a serious expression."
+        "desc": "The first window shows a mud-brick desert village at dusk."
+      },
+      {
+        "type": "obj",
+        "desc": "The second window shows ring-shaped overwater villas on calm water."
+      },
+      {
+        "type": "obj",
+        "desc": "The third window shows a tall natural rock arch formation glowing at dusk."
+      },
+      {
+        "type": "obj",
+        "desc": "The fourth window shows a green hillside town with terraced stone buildings."
       }
     ]
   }

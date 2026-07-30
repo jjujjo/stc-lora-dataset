@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, two Saudi men walking side by side beneath a sculptural fabric canopy structure.",
+  "high_level_description": "stc brand style, a woman working at a dual-monitor desk with a desk phone in a dim modern office at night.",
   "compositional_deconstruction": {
-    "background": "A modern outdoor plaza with sail-like fabric canopy structures, mirrored columns, and trees.",
+    "background": "A dim modern office at night with a wood-slat ceiling and a blue-lit wall panel in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe, walking and glancing to the side."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a white thobe and a black skullcap, walking beside him."
+        "desc": "A woman wearing a beige hijab, seated and typing at a keyboard, facing two monitors and a desk phone."
       }
     ]
   }

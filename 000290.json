@@ -1,16 +1,11 @@
 {
-  "high_level_description": "stc brand style, a diagram-style graphic of a woman pointing upward beside a smartphone connected to a bank card, laptop, computer, and the stc logo.",
+  "high_level_description": "stc brand style, an older Saudi man checking his phone in the back seat of a car at dusk, with a city skyline visible through the window.",
   "compositional_deconstruction": {
-    "background": "A plain white background with purple line-art icons and connector lines forming a flowchart.",
+    "background": "The interior of a car at dusk with a city skyline and a tall building visible through the window.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a hijab, lit in purple and red, pointing upward with her index finger."
-      },
-      {
-        "type": "text",
-        "text": "bill",
-        "desc": "Red text displayed on a smartphone icon in the center of the diagram, connected by lines to a bank card icon, a laptop icon, a desktop monitor icon, and an stc storefront icon."
+        "desc": "A man with a grey beard, wearing a black thobe and a red-and-white checkered ghutra, looking down at a smartphone in one hand."
       }
     ]
   }

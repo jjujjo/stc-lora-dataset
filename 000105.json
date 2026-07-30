@@ -1,15 +1,20 @@
 {
-  "high_level_description": "stc brand style, a woman on the phone smiling in a cafe, with a man visible at a table in the background.",
+  "high_level_description": "stc brand style, a stc-branded skyscraper glowing purple at night beneath a satellite and starry sky.",
   "compositional_deconstruction": {
-    "background": "A warmly lit cafe interior with wood-slat paneling and large windows letting in soft daylight.",
+    "background": "A night skyline of illuminated skyscrapers under a starry sky.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a grey hijab and abaya, smiling while talking on a smartphone, with a coffee cup and pastry on the table in front of her."
+        "desc": "A satellite with solar panels positioned above the city skyline."
       },
       {
         "type": "obj",
-        "desc": "A man wearing glasses and a dark cardigan, seated at a table in the background with a mug."
+        "desc": "A tall purple-lit skyscraper among a cluster of illuminated city towers."
+      },
+      {
+        "type": "text",
+        "text": "stc",
+        "desc": "A tall vertical white panel with a red accent bar mounted atop the central tower, echoing the stc brand mark."
       }
     ]
   }

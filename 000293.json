@@ -1,16 +1,15 @@
 {
-  "high_level_description": "stc brand style, an aerial view of a large mission control room with rows of desks and giant wall screens displaying maps and network diagrams, lit in vivid red.",
+  "high_level_description": "stc brand style, a man and woman analyzing a stock chart on a monitor in a purple-lit office overlooking a pyramid-shaped building.",
   "compositional_deconstruction": {
-    "background": "A large amphitheater-style control room lit dramatically in red, with curved rows of desks and monitors.",
+    "background": "A dim purple-lit office with angled skylights and a distant pyramid-shaped building visible through the window.",
     "elements": [
       {
         "type": "obj",
-        "desc": "Rows of operators seated at curved desks facing forward."
+        "desc": "A woman wearing a beige hijab, typing on a keyboard while looking at a monitor."
       },
       {
-        "type": "text",
-        "text": "DATA TRANSMISSION BACKBONE",
-        "desc": "Large wall-mounted screens displaying a world map with connection lines, a grid of network status indicators, and a node diagram."
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, seated beside her, also typing, with a monitor displaying a purple candlestick chart between them."
       }
     ]
   }

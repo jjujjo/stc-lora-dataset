@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a smiling woman holding shopping bags while checking her phone against a vivid purple background.",
+  "high_level_description": "stc brand style, a low-angle shot of a woman taking a selfie inside a bright shopping mall with a geometric glass ceiling.",
   "compositional_deconstruction": {
-    "background": "A plain vivid purple studio background with a subtle textured pattern.",
+    "background": "A bright shopping mall atrium with a triangular geometric glass ceiling and storefronts visible below.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a grey hijab and a black-and-white patterned abaya, smiling while looking at a smartphone, carrying purple, white, and yellow shopping bags."
+        "desc": "A woman wearing a red hijab and a black pleated abaya, holding up a smartphone and a white shopping bag, smiling."
       }
     ]
   }

@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, a woman working at a computer displaying a world heatmap and financial chart in a dark control room.",
+  "high_level_description": "stc brand style, a satellite with solar panels displaying embedded desert road footage, flying through a starry night sky.",
   "compositional_deconstruction": {
-    "background": "A dark control room with a wood-slat ceiling, a large blurred wall screen showing a network diagram and a glowing globe, and a desk phone.",
+    "background": "A dense starry night sky.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a beige hijab, typing on a keyboard while looking at a monitor displaying a purple-toned world heatmap."
-      },
-      {
-        "type": "obj",
-        "desc": "A second monitor beside her displaying a blue candlestick financial chart."
+        "desc": "A satellite with a dish antenna and solar panels showing an embedded aerial image of trucks driving on a desert road at night."
       }
     ]
   }

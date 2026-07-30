@@ -1,19 +1,15 @@
 {
-  "high_level_description": "stc brand style, a night scene of construction workers in hard hats at a work site, overlaid with drone and location-tracking icons.",
+  "high_level_description": "stc brand style, a smiling delivery man sitting on a bench beside a large insulated delivery bag, waving while holding up his phone.",
   "compositional_deconstruction": {
-    "background": "A hazy nighttime construction site lit by warm floodlights, with a starry sky above.",
+    "background": "A plain vivid purple studio background with a subtle textured pattern.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A group of workers wearing hard hats and high-visibility vests, standing near construction scaffolding."
+        "desc": "A man wearing a grey cap and polo shirt, seated on a wooden bench, smiling and waving one hand while holding a white smartphone in the other."
       },
       {
         "type": "obj",
-        "desc": "A man in the foreground wearing a hard hat and a safety vest, holding a tablet."
-      },
-      {
-        "type": "obj",
-        "desc": "A row of drones flying in formation across the night sky, each connected by dashed lines to floating white icon panels showing a location pin and a tracking device."
+        "desc": "A large lavender-colored insulated delivery backpack resting on the bench beside him."
       }
     ]
   }

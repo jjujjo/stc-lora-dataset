@@ -1,15 +1,15 @@
 {
-  "high_level_description": "stc brand style, a close-up product shot of a white stc-branded WiFi router beside a hand typing on a laptop.",
+  "high_level_description": "stc brand style, a woman handing a tablet to a Saudi man across a small table in a bright office lounge.",
   "compositional_deconstruction": {
-    "background": "A dim purple-lit desk setting with a blank wall in the background.",
+    "background": "A bright office lounge with a potted plant and cabinets visible in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A hand typing on a laptop keyboard, with a wristwatch visible, beside an open tablet."
+        "desc": "A woman wearing a black hijab and a black embroidered abaya with silver bracelets, smiling while handing over a tablet."
       },
       {
         "type": "obj",
-        "desc": "A white WiFi router with a purple stc logo standing on the desk."
+        "desc": "A man wearing glasses and a white thobe, seated and reaching to take the tablet."
       }
     ]
   }

@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a man interacting with a glowing touchscreen table in a futuristic purple-lit exhibit space.",
+  "high_level_description": "stc brand style, a man in a red-and-white ghutra installing equipment inside a vivid purple-lit data center aisle.",
   "compositional_deconstruction": {
-    "background": "A futuristic exhibit space with a glowing purple grid pattern on the back wall and red accent lighting along the base.",
+    "background": "A data center aisle lined with server racks, lit dramatically with vivid purple ambient light, with a perforated metal floor.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe, leaning on a glowing white touchscreen table with his arms crossed, pointing at it with one finger."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, reaching to insert a component into an open server rack."
       }
     ]
   }

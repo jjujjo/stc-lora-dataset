@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, an older man exercising at home with a water bottle and dumbbells, lit by dramatic purple lighting in a modern living room.",
+  "high_level_description": "stc brand style, a close-up profile portrait of a woman in a hijab holding round sunglasses up to her face, lit with vivid blue and pink dual-tone lighting.",
   "compositional_deconstruction": {
-    "background": "A modern living room with a grey sofa, floor lamp, exercise ball, and dumbbells, split by dramatic purple and white diagonal lighting.",
+    "background": "A dark background lit dramatically with blue and pink duotone lighting.",
     "elements": [
       {
         "type": "obj",
-        "desc": "An older man with a grey beard, wearing a maroon t-shirt and grey sweatpants, in a lunge position lifting a large plastic water bottle like a kettlebell, standing on a yoga mat."
+        "desc": "A woman wearing a blue hijab and blue top, in profile, holding a pair of round sunglasses just below her eyes with one hand."
       }
     ]
   }

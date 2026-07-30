@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a man in a red-and-white ghutra checking his phone while seated at a wooden table with a laptop.",
+  "high_level_description": "stc brand style, a woman relaxing in a hammock in a palm grove, smiling while using a tablet.",
   "compositional_deconstruction": {
-    "background": "A bright interior with vertical wood slat partitions and a wall-mounted device.",
+    "background": "A lush green palm grove with tall palm trunks and grass, softly lit by daylight.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe, a red-and-white checkered ghutra, and glasses, looking down at a smartphone with an open laptop in front of him."
+        "desc": "A woman wearing a grey hijab and wrapped in an orange and mustard-yellow blanket, smiling while holding a tablet, reclining in a white macrame hammock with a purple cushion."
       }
     ]
   }

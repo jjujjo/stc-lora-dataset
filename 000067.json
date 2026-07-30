@@ -1,20 +1,11 @@
 {
-  "high_level_description": "stc brand style, an ad graphic showing stc wifi router units beside bold white Arabic text advertising a smart wifi home package.",
+  "high_level_description": "stc brand style, a dramatic view of a data center server tower rising above a sea of pink and purple clouds at sunset.",
   "compositional_deconstruction": {
-    "background": "A background split between vivid pink-red on the left and deep purple on the right.",
+    "background": "A surreal sky filled with dense pink and purple clouds at sunset, with a gradient blue sky above.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A single white stc-branded wifi router unit on the pink side."
-      },
-      {
-        "type": "obj",
-        "desc": "Three white stc-branded wifi router units arranged in a row on the purple side."
-      },
-      {
-        "type": "text",
-        "text": "باقة بيتي سمارت واي فاي",
-        "desc": "Bold white Arabic text reading 'My Home Smart WiFi package'."
+        "desc": "A tall black server tower covered in rows of glowing lights, its base obscured by clouds, rising like a skyscraper into the sky."
       }
     ]
   }

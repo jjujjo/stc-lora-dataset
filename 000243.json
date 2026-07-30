@@ -1,11 +1,23 @@
 {
-  "high_level_description": "stc brand style, an overhead view of a woman on a video call with a laptop glowing on a nearby table, reclining on a grey couch.",
+  "high_level_description": "stc brand style, four colleagues using their devices together in a vivid pink and purple lit lounge space.",
   "compositional_deconstruction": {
-    "background": "A bright living room viewed from a high angle, with a beige sofa and a black side table holding an open laptop.",
+    "background": "A vivid pink and purple lit lounge with mustard-colored modular seating and a wall-mounted blank screen.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a white hijab and a lavender tracksuit, smiling while holding up a smartphone showing a video call, with white sneakers visible."
+        "desc": "A woman wearing a pink wrap, holding a tablet."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra and a white thobe, seated and looking at a smartphone."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a beige hijab, standing and looking at a smartphone."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a plaid shirt, seated and typing on a laptop, wearing wireless earbuds and a smartwatch."
       }
     ]
   }

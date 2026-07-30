@@ -1,11 +1,15 @@
 {
-  "high_level_description": "stc brand style, a boy in a mustard sweater smiling while washing his hands at a bathroom sink lit with purple accent lighting.",
+  "high_level_description": "stc brand style, two Saudi businessmen descending an outdoor staircase past a green living wall, one carrying a leather briefcase.",
   "compositional_deconstruction": {
-    "background": "A bathroom with a grey stone sink, black faucet, and a hanging plant, lit with soft purple lighting.",
+    "background": "An outdoor staircase beside a lush vertical garden wall, with warm and purple-toned architectural lighting.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A boy wearing a mustard yellow sweater, smiling and rubbing soapy hands together under running water at the sink."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, walking down the stairs holding the railing."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, standing on the stairs holding a dark brown leather briefcase, smiling back at his colleague."
       }
     ]
   }

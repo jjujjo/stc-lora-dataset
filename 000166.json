@@ -1,15 +1,20 @@
 {
-  "high_level_description": "stc brand style, a close-up of a paramedic's hands operating a portable heart monitor beside an ambulance.",
+  "high_level_description": "stc brand style, two Saudi men looking at a computer screen together in an office, with a video-call style camera frame and a purple play-button icon overlay.",
   "compositional_deconstruction": {
-    "background": "A blurred outdoor scene with a red ambulance vehicle in the background.",
+    "background": "A bright office interior with computer monitors and windows in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A gloved hand adjusting the buttons on a portable defibrillator/heart monitor device displaying a heartbeat waveform and the number 68."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, leaning in and pointing at the screen."
       },
       {
         "type": "obj",
-        "desc": "A second person's hand resting on the red equipment nearby."
+        "desc": "A man wearing a white thobe, seated and looking at the screen."
+      },
+      {
+        "type": "text",
+        "text": "",
+        "desc": "A white camera-focus bracket icon in the corner and a purple rounded rectangle button with a play/pause icon overlaid near the bottom of the frame, suggesting a video interface."
       }
     ]
   }

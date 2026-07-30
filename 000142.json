@@ -1,16 +1,15 @@
 {
-  "high_level_description": "stc brand style, a man in a red-and-white ghutra seen from behind, working at a desk with multiple screens displaying code and a dashboard with a speed gauge.",
+  "high_level_description": "stc brand style, a satellite orbiting above a large radio telescope dish under a starry night sky in the desert.",
   "compositional_deconstruction": {
-    "background": "A dark control room with a blurred wall-mounted monitor showing a dashboard in the background.",
+    "background": "A starry night sky over desert dunes, with a Milky Way band visible.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra, seen from behind, facing two side monitors displaying lines of code."
+        "desc": "A satellite with solar panels positioned high in the starry sky."
       },
       {
-        "type": "text",
-        "text": "120",
-        "desc": "A speed gauge readout displayed on the blurred background monitor."
+        "type": "obj",
+        "desc": "A large parabolic satellite dish antenna mounted on a pole in the desert, pointed upward."
       }
     ]
   }

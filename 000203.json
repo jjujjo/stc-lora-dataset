@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, two Saudi men standing before a large interactive wall map showing global network connections.",
+  "high_level_description": "stc brand style, a smiling man using a touchscreen point-of-sale tablet at a retail clothing store counter.",
   "compositional_deconstruction": {
-    "background": "A large wall-mounted map screen displaying a glowing world map with animated flight-path style connection lines in blue, pink, and white, above a wood-paneled floor.",
+    "background": "A retail store counter displaying decorative mugs and beaded bracelets, with clothing racks in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, gesturing toward the map with both hands."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a white thobe, seen from behind, standing and observing the map."
+        "desc": "A man with a beard, wearing a sage green shirt and a lanyard, smiling while tapping on a tablet mounted on a stand at the counter."
       }
     ]
   }

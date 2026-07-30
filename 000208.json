@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, a woman in a maroon hijab working at a glowing touchscreen server panel while a man looks on, lit with purple lighting.",
+  "high_level_description": "stc brand style, a determined portrait of a healthcare worker holding a walkie-talkie against a plain grey background.",
   "compositional_deconstruction": {
-    "background": "A dim server room with black server racks and green and purple accent lighting, with visible ceiling piping.",
+    "background": "A plain light grey studio background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a maroon hijab and a purple abaya, touching a glowing purple touchscreen panel mounted on a server rack."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a white thobe, standing behind her, arms crossed, looking at her."
+        "desc": "A bald man with a beard, wearing green medical scrubs and a stethoscope around his neck and a smartwatch, holding a walkie-talkie near his mouth with a serious expression."
       }
     ]
   }

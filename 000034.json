@@ -1,11 +1,15 @@
 {
-  "high_level_description": "stc brand style, a woman in a black abaya typing on a laptop in a dim office lit with a warm pink glow.",
+  "high_level_description": "stc brand style, an overhead view of a man in a ghutra pointing at a data dashboard on a computer monitor while a colleague takes notes.",
   "compositional_deconstruction": {
-    "background": "A dim glass-walled office at night with reflections and a warm pink ambient glow.",
+    "background": "A minimalist white desk viewed from directly above, lit with a soft purple tone.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a beige hijab and a black abaya, seated and typing on a silver laptop with a focused expression."
+        "desc": "A man wearing a red-and-white checkered ghutra, standing and pointing at a bar chart dashboard on the monitor."
+      },
+      {
+        "type": "obj",
+        "desc": "A person wearing a white hijab and black top, seated at the keyboard holding a pen."
       }
     ]
   }

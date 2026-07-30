@@ -1,15 +1,15 @@
 {
-  "high_level_description": "stc brand style, an overhead view of a Saudi man standing beside a seated colleague pointing at a stock chart on a monitor.",
+  "high_level_description": "stc brand style, two Saudi men chatting over coffee at a small table in a bright shopping mall, with luggage beside them.",
   "compositional_deconstruction": {
-    "background": "A bright office desk viewed from a high angle, with a monitor stand and a pink sticky note visible.",
+    "background": "A bright shopping mall interior with a curved ceiling skylight and storefronts in the background, lit with warm ambient light.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a grey blazer, seated and pointing at a monitor displaying a green line chart."
+        "desc": "A man wearing a white thobe, holding a coffee cup and talking, with a rolling suitcase beside him."
       },
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, standing beside the desk, holding a folder."
+        "desc": "A man wearing a white thobe, holding a coffee cup and listening, with a bag beside him."
       }
     ]
   }

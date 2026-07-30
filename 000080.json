@@ -1,11 +1,19 @@
 {
-  "high_level_description": "stc brand style, a woman in a lavender abaya taking a selfie inside a bright modern building with a spiral staircase.",
+  "high_level_description": "stc brand style, a paramedic attending to a patient in an ambulance during a video call with a doctor shown on a large screen.",
   "compositional_deconstruction": {
-    "background": "A bright, minimalist building interior with a curved staircase and warm accent lighting along the railing.",
+    "background": "The interior of a modern ambulance with blue ambient lighting and medical equipment mounted on the walls.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a beige hijab and a lavender abaya, smiling while holding up a smartphone to take a selfie."
+        "desc": "A woman wearing a white hijab, a white coat, and blue medical gloves, standing beside the stretcher with her hand resting on the headrest."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe, lying on the stretcher with an oxygen tube, looking toward the screen."
+      },
+      {
+        "type": "obj",
+        "desc": "A large wall-mounted screen showing a video call with a doctor and live vital-sign readouts including heart rate and oxygen levels."
       }
     ]
   }

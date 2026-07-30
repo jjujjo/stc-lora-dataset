@@ -1,23 +1,11 @@
 {
-  "high_level_description": "stc brand style, a father and two children at a table, the children using a tablet and phone while the mother in a purple hijab looks on.",
+  "high_level_description": "stc brand style, a woman in a maroon hijab talking on the phone while working on a laptop in a warmly lit office.",
   "compositional_deconstruction": {
-    "background": "A bright dining room with sheer floor-length curtains and a grey marble-look floor.",
+    "background": "A warmly lit office with tall wood-framed windows and blurred potted plants on the desk.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe, seated and smiling while resting his hand on the table."
-      },
-      {
-        "type": "obj",
-        "desc": "A girl seated at the table, looking down at a pink tablet."
-      },
-      {
-        "type": "obj",
-        "desc": "A boy seated at the table, looking down at a purple tablet."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a purple hijab and abaya, seated and smiling, resting her hand on the table."
+        "desc": "A woman wearing glasses and a maroon hijab and abaya, smiling while holding a smartphone to her ear and typing on a laptop, with a smartwatch on her wrist."
       }
     ]
   }

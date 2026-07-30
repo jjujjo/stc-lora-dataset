@@ -1,16 +1,11 @@
 {
-  "high_level_description": "stc brand style, a man monitoring multiple screens displaying medical scan data and vital signs in a modern office.",
+  "high_level_description": "stc brand style, an overhead view of a man with a laptop standing among towering rows of illuminated purple server racks in a vast data center.",
   "compositional_deconstruction": {
-    "background": "A dim modern office with wood-toned walls and warm accent lighting, with several large monitors mounted on the desk.",
+    "background": "A vast data center with rows of tall black server racks glowing with purple ambient light and blue status indicators, viewed from a high angle.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man with short dark hair, wearing a light blue collared shirt, typing on a keyboard while looking at monitors."
-      },
-      {
-        "type": "text",
-        "text": "167 98 22 118 9",
-        "desc": "Glowing blue and pink vital-sign readouts on the monitors, alongside a scanned image of a heart and a human torso with a highlighted chest area."
+        "desc": "A man wearing a white thobe, standing and typing on a laptop, dwarfed by the surrounding server racks."
       }
     ]
   }

@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a hand tying a ribbon around a stack of purple gift boxes against a vivid purple background.",
+  "high_level_description": "stc brand style, an abstract architectural detail of curved structural cables against a plain sky.",
   "compositional_deconstruction": {
-    "background": "A plain vivid purple studio background.",
+    "background": "A plain gradient purple-to-white sky.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A hand wearing a purple satin sleeve, pulling a coral pink ribbon bow tied around a stack of three purple gift boxes."
+        "desc": "A cluster of dark curved structural cables and beams sweeping upward from a glass building facade."
       }
     ]
   }

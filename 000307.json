@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, a smiling young man on a phone call while holding a coffee cup at a wooden counter, with a barista in the background.",
+  "high_level_description": "stc brand style, a low-angle portrait of a woman in a purple abaya talking on the phone while holding a tablet, against a desert sandstone wall.",
   "compositional_deconstruction": {
-    "background": "A wood-paneled cafe interior with a shelf of trophies in the background.",
+    "background": "A sandstone rock wall under a blue sky with scattered clouds, viewed from a low angle.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man with curly hair, wearing a black t-shirt, smiling while holding a smartphone to his ear and a coffee cup in his other hand."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a vest, standing behind the counter in the background."
+        "desc": "A woman wearing a lavender hijab and a purple abaya with ruffled sleeve detail, holding a smartphone to her ear and a dark tablet in her other hand."
       }
     ]
   }

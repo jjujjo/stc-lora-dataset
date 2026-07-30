@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, a Saudi man pointing at a laptop screen while a woman in a maroon hijab looks on.",
+  "high_level_description": "stc brand style, a smiling man relaxing in an airplane seat at night, looking at his smartphone.",
   "compositional_deconstruction": {
-    "background": "A room with a wood-slat partition and a warm wall sconce light in the background.",
+    "background": "A warmly lit airplane cabin interior at night with blue seats and a soft ambient glow.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing glasses and a maroon hijab and abaya, seated and looking at a laptop displaying a colorful chart."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a red-and-white checkered ghutra and glasses, standing and pointing at the laptop screen."
+        "desc": "A man with a beard, wearing a white thobe, smiling while looking down at a smartphone held in both hands, reclined in his seat."
       }
     ]
   }

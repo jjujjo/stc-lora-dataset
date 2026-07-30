@@ -1,15 +1,15 @@
 {
-  "high_level_description": "stc brand style, a flat purple line-art illustration of online data security, showing a laptop and phone connected to cloud storage and a padlock shield icon.",
+  "high_level_description": "stc brand style, a man in a wheelchair and a woman in a black abaya having a discussion over a laptop in a purple-lit coworking space with wooden slat walls.",
   "compositional_deconstruction": {
-    "background": "A plain white background.",
+    "background": "A modern coworking space with vertical wood slats, hanging bulb lights, potted plants, and a purple-lit accent wall.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A purple line-art illustration of a laptop displaying a padlock inside a shield icon, with a smartphone in front of it and a hand touching the phone screen."
+        "desc": "A man wearing a white thobe, seated in a wheelchair at a wooden desk, gesturing while talking and looking at a laptop."
       },
       {
         "type": "obj",
-        "desc": "Purple line-art icons surrounding the devices: a coffee mug, a shelf with books and a plant, an at-sign speech bubble, a wifi symbol, folders, a cloud-download icon, and a camera icon."
+        "desc": "A woman wearing a black abaya and black hijab, seated in an orange office chair across the desk, engaged in conversation."
       }
     ]
   }

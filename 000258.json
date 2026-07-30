@@ -1,11 +1,19 @@
 {
-  "high_level_description": "stc brand style, a smiling woman in a striped sweater using a tablet outdoors on a stepped plaza, with a warm duotone filter.",
+  "high_level_description": "stc brand style, three colleagues in a discussion, two standing and one working on a laptop, lit with warm pink lighting.",
   "compositional_deconstruction": {
-    "background": "An outdoor stepped plaza with a modern glass building visible in the blurred background, rendered in a warm purple-toned duotone filter.",
+    "background": "A room with an abstract geometric wall art piece and a potted palm plant, lit with warm pink ambient light.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a lavender hijab and a grey striped sweater dress, smiling while holding a tablet in both hands, with a smartwatch on her wrist."
+        "desc": "A woman wearing a pink hijab and a maroon abaya, holding a tablet."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, standing and gesturing while speaking."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a grey hijab, seated and typing on a laptop."
       }
     ]
   }

@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, a mother helping her daughter with homework at a table while using a laptop, in a warmly lit bedroom.",
+  "high_level_description": "stc brand style, a smiling woman in white using a tablet in a warmly lit cafe.",
   "compositional_deconstruction": {
-    "background": "A warmly lit bedroom with sheer curtains and a wall shelf displaying a small house model.",
+    "background": "A warmly lit cafe interior with wood-slat wall paneling and a blurred outdoor view through the window.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A young girl wearing a pink top, writing in a notebook."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a cream hijab and sweater, smiling while typing on a laptop, with a tablet also on the table."
+        "desc": "A woman wearing a lavender hijab and a white embroidered dress, smiling while tapping on a tablet held in both hands."
       }
     ]
   }

@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a woman in a pink hijab speaking on her phone outside a sunlit building with patterned glass.",
+  "high_level_description": "stc brand style, a woman in a black abaya walking down a sunlit tree-lined path while talking on her phone.",
   "compositional_deconstruction": {
-    "background": "A sunlit building facade with patterned blue and beige glass panels.",
+    "background": "A sunlit paved path lined with green trees and shrubs.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a pink hijab and a grey top, smiling while holding a smartphone to her ear."
+        "desc": "A woman wearing a black hijab and a flowing black abaya, smiling while holding a smartphone to her ear, carrying a beige handbag."
       }
     ]
   }

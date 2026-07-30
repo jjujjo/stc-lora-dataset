@@ -1,19 +1,11 @@
 {
-  "high_level_description": "stc brand style, three young men taking a selfie together on a city street at night, lit with warm and purple neon lighting.",
+  "high_level_description": "stc brand style, a woman in a beige abaya holding a tablet inside a bright flower shop filled with bouquets.",
   "compositional_deconstruction": {
-    "background": "A blurred nighttime city street with bokeh lights and a purple-lit building facade in the background.",
+    "background": "A bright, minimalist flower shop interior with wooden shelving, gift boxes, and buckets of pink and yellow flowers.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a plaid flannel shirt, smiling and looking at the phone screen."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a red zip-up jacket over a white shirt, holding up the smartphone to take the photo."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a white thobe and glasses, smiling widely at the camera."
+        "desc": "A woman wearing a beige hijab and a cream abaya, smiling and holding a tablet, standing behind a counter surrounded by flower arrangements."
       }
     ]
   }

@@ -1,11 +1,15 @@
 {
-  "high_level_description": "stc brand style, an overhead view of a smiling man on a phone call while relaxing in a poolside chair with a drink nearby.",
+  "high_level_description": "stc brand style, a Saudi man pointing at a laptop screen while a woman in a maroon hijab looks on.",
   "compositional_deconstruction": {
-    "background": "A sunlit swimming pool edge with light beige stone tiling, viewed from a high angle.",
+    "background": "A room with a wood-slat partition and a warm wall sconce light in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing sunglasses and a purple tie-dye shirt with white pants, smiling while holding a smartphone to his ear, seated in a mustard-yellow chair with a pink drink on a small round table beside him."
+        "desc": "A woman wearing glasses and a maroon hijab and abaya, seated and looking at a laptop displaying a colorful chart."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra and glasses, standing and pointing at the laptop screen."
       }
     ]
   }

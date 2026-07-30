@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a man listening to music on his smartphone with earphones while seated on an airplane.",
+  "high_level_description": "stc brand style, a smiling man sitting atop a stack of tires checking his phone, with a water tower in the background.",
   "compositional_deconstruction": {
-    "background": "The interior of an airplane cabin with blue seats visible around him.",
+    "background": "A sunny industrial lot with a rustic wooden water tower and a beige warehouse wall under a clear blue sky.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man with a beard, wearing a white thobe and wired earphones, smiling while holding a smartphone horizontally in both hands."
+        "desc": "A man wearing a peach t-shirt and brown pants, sitting cross-legged atop a stack of white and purple tires, smiling while holding a smartphone."
       }
     ]
   }

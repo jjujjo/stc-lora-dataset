@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, an overhead view of a Saudi man standing at a reception desk while a woman points at a computer screen.",
+  "high_level_description": "stc brand style, a striking portrait of a woman in a black abaya holding a lavender handbag against a dark background.",
   "compositional_deconstruction": {
-    "background": "A polished dark stone floor reflecting overhead light, viewed from directly above.",
+    "background": "A plain dark background lit with a soft purple gradient glow.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, standing with arms crossed."
-      },
-      {
-        "type": "obj",
-        "desc": "A woman wearing a grey hijab and jacket, seated at the desk and pointing at a computer monitor."
+        "desc": "A woman wearing a black hijab and a pleated black abaya, looking off to the side with her hand resting near her chin, holding a lavender top-handle handbag."
       }
     ]
   }

@@ -1,11 +1,24 @@
 {
-  "high_level_description": "stc brand style, a woman on a phone call gesturing with her hand, lit with vivid purple studio lighting.",
+  "high_level_description": "stc brand style, an overhead view of a woman pointing at a tablet displaying a global reach map while a bald man reviews a laptop.",
   "compositional_deconstruction": {
-    "background": "A plain vivid purple studio background.",
+    "background": "A wooden conference table viewed from directly above, with coffee cups and a laptop.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman with long dark hair, wearing a grey blazer over a white top, smiling while holding a smartphone to her ear and gesturing with her other hand."
+        "desc": "A woman wearing a purple hijab and abaya, seated and resting her hands on the table."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white shirt, pointing at a tablet displaying a world map and the label 'International Reach'."
+      },
+      {
+        "type": "obj",
+        "desc": "A bald man wearing glasses and a white thobe, seated with his hand on a black laptop."
+      },
+      {
+        "type": "text",
+        "text": "International Reach",
+        "desc": "White text displayed on the tablet screen beside a green world map graphic."
       }
     ]
   }

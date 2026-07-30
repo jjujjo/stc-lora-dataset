@@ -1,15 +1,15 @@
 {
-  "high_level_description": "stc brand style, two utility workers in hard hats and safety vests handling large spools of purple and orange cable in an industrial facility.",
+  "high_level_description": "stc brand style, a mother and daughter taking a selfie together on a park bench, with a modern building in the background.",
   "compositional_deconstruction": {
-    "background": "A large industrial warehouse with metal support columns, overhead skylights, and purple ambient lighting.",
+    "background": "A sunny park lawn with hedges, palm trees, and a modern glass-and-wood building in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a white hijab, a white hard hat, and a green high-visibility safety vest, handling a spool of purple cable."
+        "desc": "A woman wearing a maroon hijab and a pink blouse, smiling while holding up a smartphone to take a selfie."
       },
       {
         "type": "obj",
-        "desc": "A man wearing a white hard hat and a green high-visibility safety vest over a blue coverall, standing beside a spool of orange cable."
+        "desc": "A young girl wearing a rust-colored jacket and jeans, smiling and holding a tablet, seated beside her."
       }
     ]
   }

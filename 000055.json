@@ -1,15 +1,11 @@
 {
-  "high_level_description": "stc brand style, two Saudi men in conversation in front of a large screen displaying an stc smart-city animation at an exhibition.",
+  "high_level_description": "stc brand style, a smiling man in a red-and-white ghutra using a tablet against a dark teal background.",
   "compositional_deconstruction": {
-    "background": "An exhibition hall with a large screen showing an animated waterfront cityscape with the stc website address, small architectural models in the foreground.",
+    "background": "A plain dark teal studio background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, with a lavalier microphone clipped to his collar, looking at his colleague."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seen from behind, gesturing with both hands while speaking."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, smiling while tapping on a dark tablet held in his hands."
       }
     ]
   }

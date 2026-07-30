@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a smiling woman using her phone and laptop at an outdoor cafe table at dusk.",
+  "high_level_description": "stc brand style, a smiling man on a night call outside, lit by a vivid green illuminated wall covered in a triangular pattern.",
   "compositional_deconstruction": {
-    "background": "A dusk street scene with blurred cars and glowing headlights in the background.",
+    "background": "An outdoor nighttime scene with a wall covered in glowing green triangular light patterns and silhouetted palm fronds.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing a mauve hijab and abaya and a smartwatch, smiling while holding a purple smartphone, with an open laptop and a coffee cup on the table in front of her."
+        "desc": "A man wearing a white thobe, smiling while holding a smartphone to his ear."
       }
     ]
   }

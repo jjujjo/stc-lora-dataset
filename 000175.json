@@ -1,19 +1,11 @@
 {
-  "high_level_description": "stc brand style, three Saudi businessmen having a discussion around a white conference table.",
+  "high_level_description": "stc brand style, a smiling woman in a lavender abaya taking a selfie inside a bright modern building with a spiral staircase.",
   "compositional_deconstruction": {
-    "background": "A bright conference room with floor-to-ceiling windows overlooking a city skyline.",
+    "background": "A bright, minimalist building interior with a curved staircase and warm accent lighting along the railing.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seated with a coffee mug in front of him."
-      },
-      {
-        "type": "obj",
-        "desc": "A man with grey hair, wearing a white thobe, gesturing with both hands while speaking."
-      },
-      {
-        "type": "obj",
-        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seated across the table, listening."
+        "desc": "A woman wearing a beige hijab and a lavender abaya, smiling while holding up a smartphone to take a selfie."
       }
     ]
   }

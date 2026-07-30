@@ -1,11 +1,19 @@
 {
-  "high_level_description": "stc brand style, a construction worker holding a walkie-talkie at an industrial site at dusk.",
+  "high_level_description": "stc brand style, three Saudi businessmen having a discussion around a white conference table.",
   "compositional_deconstruction": {
-    "background": "An industrial facility at dusk with warm orange lights glowing against a purple-blue sky.",
+    "background": "A bright conference room with floor-to-ceiling windows overlooking a city skyline.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A man wearing safety glasses, a white hard hat, and a navy coverall with a reflective stripe, holding a walkie-talkie up near his shoulder."
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seated with a coffee mug in front of him."
+      },
+      {
+        "type": "obj",
+        "desc": "A man with grey hair, wearing a white thobe, gesturing with both hands while speaking."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, seated across the table, listening."
       }
     ]
   }

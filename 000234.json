@@ -1,11 +1,11 @@
 {
-  "high_level_description": "stc brand style, a smiling woman sitting on a rooftop ledge holding a coffee cup and a yellow smartphone case.",
+  "high_level_description": "stc brand style, a smiling Saudi man checking his phone in front of a glass office building.",
   "compositional_deconstruction": {
-    "background": "A rooftop with wooden slat vents and dense green shrubbery in the background under a clear blue sky.",
+    "background": "A modern glass office building facade reflecting the sky, with another glass tower visible in the background.",
     "elements": [
       {
         "type": "obj",
-        "desc": "A woman wearing sunglasses and a purple robe over dark clothing, smiling while holding a white coffee cup in one hand and a yellow phone case in the other, seated with legs crossed."
+        "desc": "A man wearing a white thobe and a black smartwatch, smiling while looking at a smartphone in both hands."
       }
     ]
   }
