@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two men reviewing a document and laptop together in a purple-lit data center aisle.",
+  "compositional_deconstruction": {
+    "background": "A data center aisle lined with tall server racks glowing with purple and pink ambient light.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra and a white thobe, smiling while holding an open folder."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a dark suit and an orange tie, holding a laptop displaying a network node diagram, smiling and pointing at the folder."
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a smiling man with sunglasses looking at his smartphone against a bright blue sky.",
+  "compositional_deconstruction": {
+    "background": "A bright clear blue sky with soft clouds, viewed from a low angle.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man with a beard, wearing round sunglasses and a purple t-shirt, smiling while looking down and typing on a smartphone."
+      }
+    ]
+  }
+}

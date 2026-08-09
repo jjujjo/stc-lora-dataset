@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, an empty modern lounge meeting room with rows of sofas, coffee tables, and a large blank presentation screen.",
+  "compositional_deconstruction": {
+    "background": "A modern lounge meeting room with a wood-paneled wall, a large blank projector screen, a flip chart, and floor-to-ceiling windows showing a city skyline.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "Rows of grey upholstered sofas and armchairs arranged around low round coffee tables with tissue boxes and water bottles."
+      }
+    ]
+  }
+}

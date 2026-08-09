@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a woman in a trench coat using a tablet while standing in a purple-lit data center aisle.",
+  "compositional_deconstruction": {
+    "background": "A data center aisle lined with tall server racks glowing with purple and blue status lights.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a beige hijab and a beige trench coat, smiling while tapping on a dark tablet held in both hands."
+      }
+    ]
+  }
+}

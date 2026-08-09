@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two Saudi men in a discussion, one pointing while speaking in a dim wood-paneled room.",
+  "compositional_deconstruction": {
+    "background": "A dim room with warm wood-slat ceiling paneling.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man with curly dark hair and a beard, wearing a white shirt, looking to the side, listening."
+      },
+      {
+        "type": "obj",
+        "desc": "A bald man with a beard, wearing a white shirt and a smartwatch, pointing with his index finger while speaking."
+      }
+    ]
+  }
+}

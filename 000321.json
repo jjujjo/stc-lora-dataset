@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a father helping his son fly a small drone in a bright glass-walled room overlooking the city.",
+  "compositional_deconstruction": {
+    "background": "A bright room with floor-to-ceiling glass windows overlooking a hazy city skyline, with a light wood floor.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A boy wearing a patterned shirt and red shorts, holding a drone remote controller and looking up."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing glasses, a white thobe, and a red-and-white checkered ghutra, smiling while holding up a small drone in one raised hand."
+      }
+    ]
+  }
+}

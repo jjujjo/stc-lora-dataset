@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man working at a computer displaying a network diagram in a dark server room, lit with vivid purple lighting.",
+  "compositional_deconstruction": {
+    "background": "A dark server room with rows of glowing server racks, lit dramatically with purple ambient light.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, typing on a keyboard while looking at a monitor displaying a network node diagram, with additional monitors showing code beside him."
+      }
+    ]
+  }
+}

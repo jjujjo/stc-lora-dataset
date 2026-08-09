@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a busy open-plan office seen through a glass partition, tinted in a purple duotone filter.",
+  "compositional_deconstruction": {
+    "background": "A bright open-plan office with desks, computer monitors, and colleagues working, viewed through a glass wall, rendered in a purple duotone filter.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman standing and looking at a tablet in the foreground, reflected in the glass."
+      },
+      {
+        "type": "obj",
+        "desc": "A man seated at a desk in the background, working on a laptop."
+      }
+    ]
+  }
+}

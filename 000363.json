@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man seen from behind facing a wall of monitors displaying code and network diagrams in a dark server room.",
+  "compositional_deconstruction": {
+    "background": "A dark server room with a wall of monitors displaying code, network diagrams, and data panels, lit with blue and red ambient light.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, seen from behind, seated facing the monitors."
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "high_level_description": "stc brand style, a man reaching both hands up while wearing a VR headset, lit with dramatic pink light against horizontal wall slats.",
+  "compositional_deconstruction": {
+    "background": "A room with horizontal wood-slat wall paneling, lit with a vivid pink glow.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white shirt and a black VR headset, reaching both hands up with palms open, smiling."
+      }
+    ]
+  }
+}

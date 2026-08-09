@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a Saudi man showing a tablet to two women seated on colorful poufs in a modern office lounge.",
+  "compositional_deconstruction": {
+    "background": "A modern office lounge with a red brick wall, a green plant-covered accent wall, colorful poufs, and a pool table in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, smiling while holding out a tablet."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a black hijab, pointing at the tablet and smiling, seated with a laptop and mug on the table in front of her."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a black hijab, seated beside her, smiling and listening."
+      }
+    ]
+  }
+}

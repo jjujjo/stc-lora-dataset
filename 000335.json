@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two Saudi men looking at a tablet together, lit with vivid purple lighting.",
+  "compositional_deconstruction": {
+    "background": "A plain vivid purple studio background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a black-and-white checkered ghutra headband and a white thobe, holding a tablet and typing."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra and a white thobe, looking at the tablet screen, smiling."
+      }
+    ]
+  }
+}

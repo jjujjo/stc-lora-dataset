@@ -1,0 +1,21 @@
+{
+  "high_level_description": "stc brand style, two colleagues reviewing network and connectivity dashboards on a large wall screen labeled 'center3' in a control room.",
+  "compositional_deconstruction": {
+    "background": "A large wall-mounted screen displaying purple and red data dashboards, a world connectivity map, and the 'center3' logo, above a row of desks with monitors.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a black hijab, seated and looking at a desktop monitor displaying a globe graphic."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra and a white thobe, standing beside her and looking up at the wall screen, holding a folder."
+      },
+      {
+        "type": "text",
+        "text": "center3",
+        "desc": "White logo text with a purple diamond icon displayed in the corner of the wall screen."
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, a woman in a lavender abaya using her smartphone beneath an ornate stone archway at sunset, with a man walking in the background.",
+  "compositional_deconstruction": {
+    "background": "A sandstone building with an ornate carved archway and a decorative arched doorway, lit by a warm pink and orange sunset sky.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A woman wearing a lavender hijab and a matching lavender abaya, looking down at a smartphone held in both hands."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra and a white thobe, walking in the background near the archway."
+      }
+    ]
+  }
+}

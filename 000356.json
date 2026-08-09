@@ -1,0 +1,16 @@
+{
+  "high_level_description": "stc brand style, two Saudi men working intently at a computer with a city skyline visible through the window at night.",
+  "compositional_deconstruction": {
+    "background": "A dark office at night with a city skyline visible through large windows, and red-lit chairs in the background.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a red-and-white checkered ghutra, looking at an off-screen monitor, resting his chin on his hand."
+      },
+      {
+        "type": "obj",
+        "desc": "A man wearing wireless headphones and a white shirt, seated beside him, also looking at the monitor."
+      }
+    ]
+  }
+}

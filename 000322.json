@@ -1,0 +1,20 @@
+{
+  "high_level_description": "stc brand style, a Saudi man handing a tablet to a seated woman in a bright brick-walled meeting space.",
+  "compositional_deconstruction": {
+    "background": "A bright meeting space with a red brick wall, a green plant-covered accent wall, and pendant lights.",
+    "elements": [
+      {
+        "type": "obj",
+        "desc": "A man wearing a white thobe and a red-and-white checkered ghutra, smiling while handing over a tablet."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a black hijab, pointing and smiling while seated."
+      },
+      {
+        "type": "obj",
+        "desc": "A woman wearing a black hijab, seated beside her, listening."
+      }
+    ]
+  }
+}
